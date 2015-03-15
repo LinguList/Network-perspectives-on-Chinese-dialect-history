@@ -1,0 +1,7 @@
+# carry out all relevant analyses
+python D_ancestral_state_reconstruction.py arbre
+python D_ancestral_state_reconstruction.py arbre nobor
+python D_ancestral_state_reconstruction.py southern_chinese
+python D_ancestral_state_reconstruction.py southern_chinese nobor
+python D_ancestral_state_reconstruction.py shuxingtu
+python D_ancestral_state_reconstruction.py shuxingtu nobor
