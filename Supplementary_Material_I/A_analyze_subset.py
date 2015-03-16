@@ -29,6 +29,7 @@ tree='((((((Chengdu,Pingyao),Changsha),Nanchang),(Shanghai,Wenzhou)),(Meixian,Xi
 
 # set up the analysis
 phy = PhyBo('data/chinese_subset.tsv', degree=110,tree = tree)
+phy.dataset = '.chinese_subset.tsv'
 
 # export distances for the calculation of the neighbor-net analysis
 phy.output('dst', filename='results/A_result_subset.dst')
