@@ -1,0 +1,6867 @@
+arbre
+-------
+
+Xiamen <-> edge.19 [4]
+Xiamen
+Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+杀 "kill"*, 拉 "pull", 转 "turn", 擦 "rub", 
+
+Suzhou <-> Guangzhou [4]
+Suzhou
+Guangzhou
+
+男人 "husband", 如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Ningbo <-> edge.14 [4]
+Ningbo
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+老的 "old", 眼 "eye"+, 咋 "how", 舌 "tongue"+, 
+
+Shanghai <-> Lianchang [3]
+Shanghai
+Lianchang
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+Anyi <-> Meixian [3]
+Anyi
+Meixian
+
+啮 "bite"*, 斲 "cut", 火曹 "dry"*, 
+
+Nanchang <-> edge.12 [3]
+Nanchang
+Taiyuan,Yuci
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Suzhou <-> edge.16 [3]
+Suzhou
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+背心 "back", 男人 "husband", 拖 "pull", 
+
+Fuzhou <-> Wenzhou [3]
+Fuzhou
+Wenzhou
+
+拔 "pull", 娄-刀 "dig", 滥 "wet", 
+
+edge.7 <-> Chengdu [3]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+edge.1 <-> edge.3 [3]
+Taibei,Xiamen,Zhanping
+Meixian,Lianchang
+
+青 "green"*, 食 "drink"*, 算 "count", 
+
+Wuhan <-> Changsha [3]
+Wuhan
+Changsha
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 
+
+Wuhan <-> Guangzhou [3]
+Wuhan
+Guangzhou
+
+夜晚 "night"*, 扯 "pull", 游水 "swim"*, 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Beijing <-> Wenzhou [3]
+Beijing
+Wenzhou
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+Lianchang <-> edge.2 [3]
+Lianchang
+Fuzhou,Taibei,Xiamen,Zhanping
+
+着 "in", 喙 "mouth"*, 拭 "rub", 
+
+Guangzhou <-> edge.14 [3]
+Guangzhou
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 眼 "eye"+, 嘴 "mouth"*, 
+
+Guangzhou <-> Chengdu [3]
+Guangzhou
+Chengdu
+
+爪 "claw"*, 雀 "bird"*, 灰尘 "dust", 
+
+edge.8 <-> Lianchang [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Lianchang
+
+腿 "leg", 燥 "dry"*, 
+
+edge.8 <-> Meixian [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+戳 "stab", 相打 "fight", 
+
+edge.8 <-> Chengdu [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Xiamen <-> edge.17 [2]
+Xiamen
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+砍 "cut", 爪仔 "claw"*, 
+
+Xiamen <-> edge.16 [2]
+Xiamen
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女的 "woman"*, 刺 "stab", 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Xiamen <-> edge.4 [2]
+Xiamen
+Guangzhou,Meixian,Lianchang
+
+斬 "cut", 胛脊 "back", 
+
+Xiamen <-> Wenzhou [2]
+Xiamen
+Wenzhou
+
+拙 "dull", 呆 "dull", 
+
+Xiamen <-> Nanchang [2]
+Xiamen
+Nanchang
+
+籽 "seed"*, 胛脊 "back", 
+
+Xiamen <-> Anyi [2]
+Xiamen
+Anyi
+
+斬 "cut", 落 "fall", 
+
+Xiamen <-> edge.18 [2]
+Xiamen
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+细 "small"*, 种子 "seed"*, 
+
+Anyi <-> Lianchang [2]
+Anyi
+Lianchang
+
+一下 "all"*, 我侪 "we"*, 
+
+Anyi <-> Guangzhou [2]
+Anyi
+Guangzhou
+
+矺 "squeeze", 同到 "and", 
+
+Anyi <-> Wenzhou [2]
+Anyi
+Wenzhou
+
+雾露 "fog", 许个 "that"*, 
+
+root <-> Taiyuan [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan
+
+老公 "husband", 肠 "guts", 
+
+root <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Chengdu
+
+尾 "tail"+, 骨 "bone"+, 
+
+Ningxia <-> Fuzhou [2]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 冻 "cold"*, 
+
+edge.13 <-> Guangzhou [2]
+Beijing,Taiyuan,Yuci
+Guangzhou
+
+女人 "wife", 嘴 "mouth"*, 
+
+Taibei <-> Lianchang [2]
+Taibei
+Lianchang
+
+siu13泅 "swim"*, 合 "and", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+edge.19 <-> edge.12 [2]
+Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan,Yuci
+
+跌 "fall", 老婆 "wife", 
+
+edge.19 <-> Zhanping [2]
+Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Zhanping
+
+肠子 "guts", 鼻公 "nose"+, 
+
+Taiyuan <-> Chengdu [2]
+Taiyuan
+Chengdu
+
+森林 "woods", 奶奶 "breasts"*, 
+
+Nanchang <-> Meixian [2]
+Nanchang
+Meixian
+
+细人子 "child", []tsak5 "squeeze", 
+
+Yuci <-> Guangzhou [2]
+Yuci
+Guangzhou
+
+肚 "belly"*, 灰尘 "dust", 
+
+Suzhou <-> Meixian [2]
+Suzhou
+Meixian
+
+点 "count", e31个 "this"+, 
+
+Suzhou <-> edge.17 [2]
+Suzhou
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+吸 "suck", 背 "back", 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Guangzhou [2]
+Fuzhou
+Guangzhou
+
+弊 "bad", 冻 "cold"*, 
+
+Fuzhou <-> Chengdu [2]
+Fuzhou
+Chengdu
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+Shuangfeng <-> Meixian [2]
+Shuangfeng
+Meixian
+
+虫子 "worm", 火曹 "dry"*, 
+
+Shuangfeng <-> Wenzhou [2]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 是 "correct", 
+
+edge.16 <-> Meixian [2]
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Meixian
+
+棍子 "stick", 索子 "rope", 
+
+edge.7 <-> Lianchang [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Lianchang
+
+背脊 "back", 嘬 "suck", 
+
+edge.7 <-> edge.12 [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Taiyuan,Yuci
+
+羽毛 "feather"*, 两 "two"+, 
+
+edge.1 <-> Guangzhou [2]
+Taibei,Xiamen,Zhanping
+Guangzhou
+
+知[到] "know"+, 老母 "mother", 
+
+Wuhan <-> Chengdu [2]
+Wuhan
+Chengdu
+
+皮肤 "skin"*, 干燥 "dry"*, 
+
+Ningbo <-> Guangzhou [2]
+Ningbo
+Guangzhou
+
+爪 "claw"*, 阿妈 "mother", 
+
+Ningbo <-> edge.15 [2]
+Ningbo
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+喝 "drink"*, 云彩 "cloud"*, 
+
+edge.15 <-> Lianchang [2]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Lianchang
+
+睡 "sleep"*, 睡 "lie"*, 
+
+Beijing <-> Yingshan [2]
+Beijing
+Yingshan
+
+男的 "man"*, 长虫 "snake", 
+
+Lianchang <-> edge.14 [2]
+Lianchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+这 "this"+, 腿 "leg", 
+
+edge.2 <-> Wenzhou [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Wenzhou
+
+剉 "cut", 倒 "lie"*, 
+
+edge.2 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Chengdu
+
+鼻 "nose"+, 耳 "ear"+, 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Meixian <-> Zhanping [2]
+Meixian
+Zhanping
+
+阿爸 "father", 索子 "rope", 
+
+Zhanping <-> edge.18 [2]
+Zhanping
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+娘 "mother", 姆妈 "mother", 
+
+edge.8 <-> Xiamen [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+屋里 "husband", 
+
+edge.8 <-> Yuci [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Yuci
+
+鼻头 "nose"+, 
+
+edge.8 <-> edge.14 [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+Xiamen <-> edge.5 [1]
+Xiamen
+Shanghai,Shanghai_B
+
+落 "fall", 
+
+Xiamen <-> edge.7 [1]
+Xiamen
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+啥人 "who"+, 
+
+Xiamen <-> Ningxia [1]
+Xiamen
+Ningxia
+
+胛脊 "back", 
+
+Xiamen <-> edge.14 [1]
+Xiamen
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+咋 "how", 
+
+Xiamen <-> edge.6 [1]
+Xiamen
+Suzhou,Shanghai,Shanghai_B
+
+戆 "dull", 
+
+Xiamen <-> Changsha [1]
+Xiamen
+Changsha
+
+落 "fall", 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> edge.17 [1]
+Shanghai
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+和 "and", 
+
+Shanghai <-> edge.19 [1]
+Shanghai
+Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+沙子 "sand"*, 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+Anyi <-> Fuzhou [1]
+Anyi
+Fuzhou
+
+畜牲 "animal", 
+
+Anyi <-> edge.0 [1]
+Anyi
+Xiamen,Zhanping
+
+寒 "cold"*, 
+
+Anyi <-> edge.7 [1]
+Anyi
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+嘞 "in", 
+
+Anyi <-> Yingshan [1]
+Anyi
+Yingshan
+
+手-双 "push", 
+
+root <-> Wuhan [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Wuhan
+
+乌 "black"*, 
+
+root <-> Yuci [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Yuci
+
+树林 "woods", 
+
+Ningxia <-> edge.6 [1]
+Ningxia
+Suzhou,Shanghai,Shanghai_B
+
+啥 "what"+, 
+
+Ningxia <-> Shuangfeng [1]
+Ningxia
+Shuangfeng
+
+他哩 "they", 
+
+Ningxia <-> Yuci [1]
+Ningxia
+Yuci
+
+打山 "hunt", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.13 <-> Wuhan [1]
+Beijing,Taiyuan,Yuci
+Wuhan
+
+沉 "heavy", 
+
+Taibei <-> edge.12 [1]
+Taibei
+Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+edge.19 <-> Yuci [1]
+Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Yuci
+
+月光 "moon"+, 
+
+Taiyuan <-> edge.6 [1]
+Taiyuan
+Suzhou,Shanghai,Shanghai_B
+
+左面 "leftside", 
+
+Taiyuan <-> Wuhan [1]
+Taiyuan
+Wuhan
+
+根子 "root"*, 
+
+Taiyuan <-> edge.2 [1]
+Taiyuan
+Fuzhou,Taibei,Xiamen,Zhanping
+
+奶 "breasts"*, 
+
+Taiyuan <-> edge.9 [1]
+Taiyuan
+Nanchang,Anyi
+
+奶 "breasts"*, 
+
+Taiyuan <-> Suzhou [1]
+Taiyuan
+Suzhou
+
+森林 "woods", 
+
+Nanchang <-> edge.1 [1]
+Nanchang
+Taibei,Xiamen,Zhanping
+
+算 "count", 
+
+Nanchang <-> edge.4 [1]
+Nanchang
+Guangzhou,Meixian,Lianchang
+
+佢 "he", 
+
+Nanchang <-> edge.5 [1]
+Nanchang
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> edge.14 [1]
+Nanchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+冻 "freeze", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+Yuci <-> edge.2 [1]
+Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+月 "moon"+, 
+
+Yuci <-> edge.7 [1]
+Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+肚肠 "guts", 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> Wenzhou [1]
+Yuci
+Wenzhou
+
+肚 "belly"*, 
+
+Suzhou <-> edge.3 [1]
+Suzhou
+Meixian,Lianchang
+
+拖 "pull", 
+
+Suzhou <-> Changsha [1]
+Suzhou
+Changsha
+
+森林 "woods", 
+
+Suzhou <-> edge.0 [1]
+Suzhou
+Xiamen,Zhanping
+
+拖 "pull", 
+
+Fuzhou <-> edge.5 [1]
+Fuzhou
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Fuzhou <-> edge.10 [1]
+Fuzhou
+Changsha,Shuangfeng
+
+清 "cold"*, 
+
+Shuangfeng <-> Guangzhou [1]
+Shuangfeng
+Guangzhou
+
+雪 "ice", 
+
+Shuangfeng <-> edge.5 [1]
+Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+edge.9 <-> Guangzhou [1]
+Nanchang,Anyi
+Guangzhou
+
+颈 "neck"*, 
+
+edge.16 <-> Lianchang [1]
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Lianchang
+
+凌冰 "ice", 
+
+edge.7 <-> Meixian [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+搭 "and", 
+
+edge.7 <-> edge.14 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+活的 "live(alive)", 
+
+edge.7 <-> edge.15 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+说 "say"*, 
+
+edge.1 <-> edge.12 [1]
+Taibei,Xiamen,Zhanping
+Taiyuan,Yuci
+
+两 "two"+, 
+
+edge.1 <-> edge.10 [1]
+Taibei,Xiamen,Zhanping
+Changsha,Shuangfeng
+
+两 "two"+, 
+
+edge.1 <-> edge.14 [1]
+Taibei,Xiamen,Zhanping
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+舌 "tongue"+, 
+
+edge.12 <-> Changsha [1]
+Taiyuan,Yuci
+Changsha
+
+男的 "man"*, 
+
+Ningbo <-> Chengdu [1]
+Ningbo
+Chengdu
+
+女 "woman"*, 
+
+edge.3 <-> Zhanping [1]
+Meixian,Lianchang
+Zhanping
+
+分 "give"+, 
+
+edge.15 <-> edge.6 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Suzhou,Shanghai,Shanghai_B
+
+星星 "star"*, 
+
+edge.15 <-> Guangzhou [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Guangzhou
+
+妈妈 "mother", 
+
+edge.15 <-> edge.5 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Beijing <-> Lianchang [1]
+Beijing
+Lianchang
+
+嘬 "suck", 
+
+Beijing <-> Meixian [1]
+Beijing
+Meixian
+
+爷们儿 "man"*, 
+
+Beijing <-> Zhanping [1]
+Beijing
+Zhanping
+
+娘 "mother", 
+
+Lianchang <-> edge.17 [1]
+Lianchang
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+撕 "split", 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.0 [1]
+Lianchang
+Xiamen,Zhanping
+
+无 "not"*, 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.0 [1]
+Guangzhou
+Xiamen,Zhanping
+
+头壳 "head"*, 
+
+edge.2 <-> edge.5 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai,Shanghai_B
+
+伊 "he", 
+
+edge.2 <-> Meixian [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Meixian
+
+啡 "spit", 
+
+Chengdu <-> edge.18 [1]
+Chengdu
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+虱 "louse"+, 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Xiamen,Zhanping
+Meixian
+
+烧 "hot"*, 
+
+Changsha <-> Zhanping [1]
+Changsha
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.5 <-> Meixian [1]
+Shanghai,Shanghai_B
+Meixian
+
+肚屎 "belly"*, 
+
+edge.5 <-> edge.14 [1]
+Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 
+
+edge.5 <-> Yingshan [1]
+Shanghai,Shanghai_B
+Yingshan
+
+看到 "see"*, 
+
+Meixian <-> edge.14 [1]
+Meixian
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+舌 "tongue"+, 
+
+Meixian <-> Yingshan [1]
+Meixian
+Yingshan
+
+戆 "dull", 
+
+Meixian <-> edge.10 [1]
+Meixian
+Changsha,Shuangfeng
+
+星子 "star"*, 
+
+Zhanping <-> edge.10 [1]
+Zhanping
+Changsha,Shuangfeng
+
+舌子 "tongue"+, 
+
+parsimony
+-------
+
+Guangzhou <-> Meixian [9]
+Guangzhou
+Meixian
+
+热头 "sun"+, 生果 "fruit", 生 "live(alive)", 斬 "cut", 利 "sharp", 胛脊 "back", 喺 "in", 唔 "not"*, 嘬 "breathe", 
+
+edge.17 <-> Fuzhou [4]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Fuzhou
+
+扯 "split", 吸 "breathe", 青 "black"*, 男个 "man"*, 
+
+Anyi <-> Meixian [4]
+Anyi
+Meixian
+
+啮 "bite"*, 斲 "cut", 斬 "cut", 火曹 "dry"*, 
+
+Guangzhou <-> Suzhou [4]
+Guangzhou
+Suzhou
+
+男人 "husband", 如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Guangzhou <-> edge.16 [4]
+Guangzhou
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+男的 "man"*, 爸爸 "father", 抹 "rub", 玩 "play", 
+
+edge.13 <-> Ningbo [4]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo
+
+老的 "old", 眼 "eye"+, 咋 "how", 舌 "tongue"+, 
+
+Lianchang <-> Shanghai [3]
+Lianchang
+Shanghai
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+Lianchang <-> edge.3 [3]
+Lianchang
+Fuzhou,Taibei,Xiamen,Zhanping
+
+着 "in", 喙 "mouth"*, 拭 "rub", 
+
+edge.2 <-> edge.0 [3]
+Taibei,Xiamen,Zhanping
+Meixian,Lianchang
+
+青 "green"*, 食 "drink"*, 算 "count", 
+
+edge.17 <-> Meixian [3]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Meixian
+
+叶子 "leaf"*, 拿 "hold-take", 脚爪 "claw"*, 
+
+Chengdu <-> edge.6 [3]
+Chengdu
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+Chengdu <-> Guangzhou [3]
+Chengdu
+Guangzhou
+
+爪 "claw"*, 雀 "bird"*, 灰尘 "dust", 
+
+Guangzhou <-> edge.13 [3]
+Guangzhou
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 眼 "eye"+, 嘴 "mouth"*, 
+
+Guangzhou <-> Wuhan [3]
+Guangzhou
+Wuhan
+
+夜晚 "night"*, 扯 "pull", 游水 "swim"*, 
+
+Xiamen <-> Meixian [3]
+Xiamen
+Meixian
+
+戆 "dull", 斬 "cut", 胛脊 "back", 
+
+Wenzhou <-> Fuzhou [3]
+Wenzhou
+Fuzhou
+
+拔 "pull", 娄-刀 "dig", 滥 "wet", 
+
+Wenzhou <-> Beijing [3]
+Wenzhou
+Beijing
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+edge.0 <-> edge.16 [3]
+Meixian,Lianchang
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+沙子 "sand"*, 肠子 "guts", 鼻公 "nose"+, 
+
+edge.0 <-> Zhanping [3]
+Meixian,Lianchang
+Zhanping
+
+肠子 "guts", 分 "give"+, 鼻公 "nose"+, 
+
+Nanchang <-> Meixian [3]
+Nanchang
+Meixian
+
+细人子 "child", 胛脊 "back", []tsak5 "squeeze", 
+
+Nanchang <-> edge.11 [3]
+Nanchang
+Taiyuan,Yuci
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Suzhou <-> edge.15 [3]
+Suzhou
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+背心 "back", 男人 "husband", 拖 "pull", 
+
+Wuhan <-> Changsha [3]
+Wuhan
+Changsha
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Lianchang <-> edge.17 [2]
+Lianchang
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+舌頭 "tongue"+, 爷 "father", 
+
+Lianchang <-> edge.14 [2]
+Lianchang
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+睡 "sleep"*, 睡 "lie"*, 
+
+Lianchang <-> edge.6 [2]
+Lianchang
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+背脊 "back", 嘬 "suck", 
+
+Lianchang <-> Taibei [2]
+Lianchang
+Taibei
+
+siu13泅 "swim"*, 合 "and", 
+
+Lianchang <-> edge.13 [2]
+Lianchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+这 "this"+, 腿 "leg", 
+
+Lianchang <-> Anyi [2]
+Lianchang
+Anyi
+
+一下 "all"*, 我侪 "we"*, 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+Shuangfeng <-> Meixian [2]
+Shuangfeng
+Meixian
+
+虫子 "worm", 火曹 "dry"*, 
+
+Shuangfeng <-> Wenzhou [2]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 是 "correct", 
+
+edge.2 <-> Guangzhou [2]
+Taibei,Xiamen,Zhanping
+Guangzhou
+
+知[到] "know"+, 老母 "mother", 
+
+edge.17 <-> Xiamen [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Xiamen
+
+细 "small"*, 种子 "seed"*, 
+
+edge.17 <-> Zhanping [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Zhanping
+
+娘 "mother", 姆妈 "mother", 
+
+Shanghai <-> edge.16 [2]
+Shanghai
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+和 "and", 沙子 "sand"*, 
+
+Anyi <-> Guangzhou [2]
+Anyi
+Guangzhou
+
+矺 "squeeze", 同到 "and", 
+
+Anyi <-> Wenzhou [2]
+Anyi
+Wenzhou
+
+雾露 "fog", 许个 "that"*, 
+
+Chengdu <-> Wuhan [2]
+Chengdu
+Wuhan
+
+皮肤 "skin"*, 干燥 "dry"*, 
+
+Chengdu <-> edge.3 [2]
+Chengdu
+Fuzhou,Taibei,Xiamen,Zhanping
+
+鼻 "nose"+, 耳 "ear"+, 
+
+Chengdu <-> Taiyuan [2]
+Chengdu
+Taiyuan
+
+森林 "woods", 奶奶 "breasts"*, 
+
+Chengdu <-> root [2]
+Chengdu
+Guangzhou,Meixian,Lianchang,Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+尾 "tail"+, 骨 "bone"+, 
+
+Chengdu <-> edge.7 [2]
+Chengdu
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Chengdu <-> Fuzhou [2]
+Chengdu
+Fuzhou
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Ningxia <-> Guangzhou [2]
+Ningxia
+Guangzhou
+
+胛脊 "back", 冻 "cold"*, 
+
+Ningxia <-> Fuzhou [2]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 冻 "cold"*, 
+
+edge.6 <-> Yuci [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Yuci
+
+肚肠 "guts", 灰尘 "dust", 
+
+edge.6 <-> edge.11 [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Taiyuan,Yuci
+
+羽毛 "feather"*, 两 "two"+, 
+
+Guangzhou <-> edge.4 [2]
+Guangzhou
+Shanghai,Shanghai_B
+
+女人 "woman"*, 男的 "man"*, 
+
+Guangzhou <-> edge.12 [2]
+Guangzhou
+Beijing,Taiyuan,Yuci
+
+女人 "wife", 嘴 "mouth"*, 
+
+Guangzhou <-> Ningbo [2]
+Guangzhou
+Ningbo
+
+爪 "claw"*, 阿妈 "mother", 
+
+edge.13 <-> edge.7 [2]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+牙 "tooth"+, 腿 "leg", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+Xiamen <-> edge.15 [2]
+Xiamen
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女的 "woman"*, 刺 "stab", 
+
+Xiamen <-> edge.16 [2]
+Xiamen
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+砍 "cut", 爪仔 "claw"*, 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Xiamen <-> Wenzhou [2]
+Xiamen
+Wenzhou
+
+拙 "dull", 呆 "dull", 
+
+root <-> Taiyuan [2]
+Guangzhou,Meixian,Lianchang,Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan
+
+老公 "husband", 肠 "guts", 
+
+root <-> Yuci [2]
+Guangzhou,Meixian,Lianchang,Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Yuci
+
+月光 "moon"+, 树林 "woods", 
+
+root <-> edge.11 [2]
+Guangzhou,Meixian,Lianchang,Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan,Yuci
+
+跌 "fall", 老婆 "wife", 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Wenzhou <-> edge.3 [2]
+Wenzhou
+Fuzhou,Taibei,Xiamen,Zhanping
+
+剉 "cut", 倒 "lie"*, 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Suzhou <-> Meixian [2]
+Suzhou
+Meixian
+
+点 "count", e31个 "this"+, 
+
+Suzhou <-> edge.16 [2]
+Suzhou
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+吸 "suck", 背 "back", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Meixian <-> edge.7 [2]
+Meixian
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+戳 "stab", 相打 "fight", 
+
+Meixian <-> Zhanping [2]
+Meixian
+Zhanping
+
+阿爸 "father", 索子 "rope", 
+
+Meixian <-> edge.15 [2]
+Meixian
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+棍子 "stick", 索子 "rope", 
+
+edge.7 <-> edge.3 [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Fuzhou,Taibei,Xiamen,Zhanping
+
+睏 "sleep"*, 缚 "tie", 
+
+edge.14 <-> Ningbo [2]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo
+
+喝 "drink"*, 云彩 "cloud"*, 
+
+Yingshan <-> Beijing [2]
+Yingshan
+Beijing
+
+男的 "man"*, 长虫 "snake", 
+
+Lianchang <-> edge.15 [1]
+Lianchang
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+凌冰 "ice", 
+
+Lianchang <-> edge.16 [1]
+Lianchang
+Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+撕 "split", 
+
+Lianchang <-> edge.7 [1]
+Lianchang
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+燥 "dry"*, 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.1 [1]
+Lianchang
+Xiamen,Zhanping
+
+无 "not"*, 
+
+Lianchang <-> Guangzhou [1]
+Lianchang
+Guangzhou
+
+捽 "rub", 
+
+Lianchang <-> Beijing [1]
+Lianchang
+Beijing
+
+嘬 "suck", 
+
+edge.8 <-> Taiyuan [1]
+Nanchang,Anyi
+Taiyuan
+
+奶 "breasts"*, 
+
+edge.8 <-> Guangzhou [1]
+Nanchang,Anyi
+Guangzhou
+
+颈 "neck"*, 
+
+Shuangfeng <-> Guangzhou [1]
+Shuangfeng
+Guangzhou
+
+雪 "ice", 
+
+Shuangfeng <-> edge.4 [1]
+Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Shuangfeng <-> Ningxia [1]
+Shuangfeng
+Ningxia
+
+他哩 "they", 
+
+edge.2 <-> edge.13 [1]
+Taibei,Xiamen,Zhanping
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+舌 "tongue"+, 
+
+edge.2 <-> edge.9 [1]
+Taibei,Xiamen,Zhanping
+Changsha,Shuangfeng
+
+两 "two"+, 
+
+edge.2 <-> Nanchang [1]
+Taibei,Xiamen,Zhanping
+Nanchang
+
+算 "count", 
+
+edge.2 <-> edge.11 [1]
+Taibei,Xiamen,Zhanping
+Taiyuan,Yuci
+
+两 "two"+, 
+
+edge.17 <-> Chengdu [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Chengdu
+
+虱 "louse"+, 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+Anyi <-> edge.6 [1]
+Anyi
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+嘞 "in", 
+
+Anyi <-> Xiamen [1]
+Anyi
+Xiamen
+
+落 "fall", 
+
+Anyi <-> Yingshan [1]
+Anyi
+Yingshan
+
+手-双 "push", 
+
+Anyi <-> Ningxia [1]
+Anyi
+Ningxia
+
+畜牲 "animal", 
+
+Anyi <-> edge.1 [1]
+Anyi
+Xiamen,Zhanping
+
+寒 "cold"*, 
+
+Chengdu <-> Ningbo [1]
+Chengdu
+Ningbo
+
+女 "woman"*, 
+
+Ningxia <-> edge.5 [1]
+Ningxia
+Suzhou,Shanghai,Shanghai_B
+
+啥 "what"+, 
+
+Ningxia <-> Yuci [1]
+Ningxia
+Yuci
+
+打山 "hunt", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.6 <-> Meixian [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+搭 "and", 
+
+edge.6 <-> edge.14 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+说 "say"*, 
+
+edge.6 <-> edge.13 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+活的 "live(alive)", 
+
+edge.6 <-> Xiamen [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+啥人 "who"+, 
+
+Guangzhou <-> Yuci [1]
+Guangzhou
+Yuci
+
+肚 "belly"*, 
+
+Guangzhou <-> Fuzhou [1]
+Guangzhou
+Fuzhou
+
+弊 "bad", 
+
+Guangzhou <-> edge.5 [1]
+Guangzhou
+Suzhou,Shanghai,Shanghai_B
+
+闻 "smell", 
+
+Guangzhou <-> edge.7 [1]
+Guangzhou
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+绳 "rope", 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.14 [1]
+Guangzhou
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+妈妈 "mother", 
+
+Guangzhou <-> edge.1 [1]
+Guangzhou
+Xiamen,Zhanping
+
+头壳 "head"*, 
+
+Guangzhou <-> edge.15 [1]
+Guangzhou
+Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+闻 "smell", 
+
+edge.13 <-> Meixian [1]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Meixian
+
+舌 "tongue"+, 
+
+edge.13 <-> Xiamen [1]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Xiamen
+
+咋 "how", 
+
+edge.13 <-> Nanchang [1]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Nanchang
+
+冻 "freeze", 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+Taibei <-> edge.11 [1]
+Taibei
+Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+Xiamen <-> edge.7 [1]
+Xiamen
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+屋里 "husband", 
+
+Xiamen <-> edge.4 [1]
+Xiamen
+Shanghai,Shanghai_B
+
+落 "fall", 
+
+Xiamen <-> Changsha [1]
+Xiamen
+Changsha
+
+落 "fall", 
+
+Xiamen <-> Nanchang [1]
+Xiamen
+Nanchang
+
+籽 "seed"*, 
+
+root <-> Wuhan [1]
+Guangzhou,Meixian,Lianchang,Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Wuhan
+
+乌 "black"*, 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Yuci [1]
+Wenzhou
+Yuci
+
+肚 "belly"*, 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Suzhou [1]
+Meixian,Lianchang
+Suzhou
+
+拖 "pull", 
+
+Nanchang <-> edge.4 [1]
+Nanchang
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> edge.3 [1]
+Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+月 "moon"+, 
+
+Yuci <-> edge.7 [1]
+Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+鼻头 "nose"+, 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+edge.11 <-> Changsha [1]
+Taiyuan,Yuci
+Changsha
+
+男的 "man"*, 
+
+Suzhou <-> edge.1 [1]
+Suzhou
+Xiamen,Zhanping
+
+拖 "pull", 
+
+Suzhou <-> Taiyuan [1]
+Suzhou
+Taiyuan
+
+森林 "woods", 
+
+Suzhou <-> Changsha [1]
+Suzhou
+Changsha
+
+森林 "woods", 
+
+Fuzhou <-> edge.4 [1]
+Fuzhou
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Fuzhou <-> edge.9 [1]
+Fuzhou
+Changsha,Shuangfeng
+
+清 "cold"*, 
+
+edge.5 <-> edge.14 [1]
+Suzhou,Shanghai,Shanghai_B
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+星星 "star"*, 
+
+edge.5 <-> Taiyuan [1]
+Suzhou,Shanghai,Shanghai_B
+Taiyuan
+
+左面 "leftside", 
+
+edge.5 <-> Yingshan [1]
+Suzhou,Shanghai,Shanghai_B
+Yingshan
+
+戆 "dull", 
+
+Meixian <-> edge.3 [1]
+Meixian
+Fuzhou,Taibei,Xiamen,Zhanping
+
+啡 "spit", 
+
+Meixian <-> edge.9 [1]
+Meixian
+Changsha,Shuangfeng
+
+星子 "star"*, 
+
+Meixian <-> edge.1 [1]
+Meixian
+Xiamen,Zhanping
+
+烧 "hot"*, 
+
+Meixian <-> edge.4 [1]
+Meixian
+Shanghai,Shanghai_B
+
+肚屎 "belly"*, 
+
+Meixian <-> Beijing [1]
+Meixian
+Beijing
+
+爷们儿 "man"*, 
+
+edge.9 <-> Zhanping [1]
+Changsha,Shuangfeng
+Zhanping
+
+舌子 "tongue"+, 
+
+Zhanping <-> Changsha [1]
+Zhanping
+Changsha
+
+奶子 "breasts"*, 
+
+Zhanping <-> Beijing [1]
+Zhanping
+Beijing
+
+娘 "mother", 
+
+edge.14 <-> edge.4 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Yingshan <-> edge.4 [1]
+Yingshan
+Shanghai,Shanghai_B
+
+看到 "see"*, 
+
+Wuhan <-> edge.12 [1]
+Wuhan
+Beijing,Taiyuan,Yuci
+
+沉 "heavy", 
+
+Wuhan <-> Taiyuan [1]
+Wuhan
+Taiyuan
+
+根子 "root"*, 
+
+edge.3 <-> edge.4 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai,Shanghai_B
+
+伊 "he", 
+
+edge.3 <-> Taiyuan [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Taiyuan
+
+奶 "breasts"*, 
+
+edge.3 <-> Changsha [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Changsha
+
+睏 "sleep"*, 
+
+shuxingtu
+-------
+
+Guangzhou <-> Meixian [9]
+Guangzhou
+Meixian
+
+热头 "sun"+, 生果 "fruit", 名 "name"+, 生 "live(alive)", 利 "sharp", 掰 "split", 喺 "in", 唔 "not"*, 嘬 "breathe", 
+
+edge.19 <-> edge.4 [7]
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Suzhou,Shanghai,Shanghai_B
+
+睏 "lie"*, 眼睛 "eye"+, 呕 "vomit", 叶子 "leaf"*, 拿 "hold-take", 翅膀 "wing", 闻 "smell", 
+
+edge.16 <-> Changsha [6]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Changsha
+
+那里 "there", 鼻子 "nose"+, 女的 "woman"*, 游泳 "swim"*, 那个 "that"*, 他们 "they", 
+
+edge.8 <-> Wuhan [4]
+Changsha,Shuangfeng
+Wuhan
+
+背心 "back", 索子 "rope", 刺 "stab", 剁 "cut", 
+
+edge.9 <-> edge.2 [4]
+Meixian,Lianchang
+Fuzhou,Taibei,Xiamen,Zhanping
+
+歕 "blow", 鼻 "smell", 目珠 "eye"+, 着 "correct", 
+
+Wuhan <-> Changsha [4]
+Wuhan
+Changsha
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 姆妈 "mother", 
+
+Lianchang <-> edge.2 [4]
+Lianchang
+Fuzhou,Taibei,Xiamen,Zhanping
+
+着 "in", 索 "rope", 喙 "mouth"*, 拭 "rub", 
+
+Shanghai <-> Lianchang [3]
+Shanghai
+Lianchang
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+edge.13 <-> Nanchang [3]
+Taiyuan,Yuci
+Nanchang
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+edge.19 <-> Suzhou [3]
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Suzhou
+
+男人 "husband", 背 "back", 拖 "pull", 
+
+edge.19 <-> Ningbo [3]
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo
+
+左边 "leftside", 宽 "wide", 右边 "rightside", 
+
+Nanchang <-> Wuhan [3]
+Nanchang
+Wuhan
+
+姆妈 "mother", 树林 "woods", 剁 "cut", 
+
+Suzhou <-> Guangzhou [3]
+Suzhou
+Guangzhou
+
+如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Fuzhou <-> Guangzhou [3]
+Fuzhou
+Guangzhou
+
+弊 "bad", 掰 "split", 冻 "cold"*, 
+
+Shuangfeng <-> edge.4 [3]
+Shuangfeng
+Suzhou,Shanghai,Shanghai_B
+
+爷 "father", 娘 "mother", 睏觉 "sleep"*, 
+
+Shuangfeng <-> edge.10 [3]
+Shuangfeng
+Nanchang,Anyi
+
+娘 "mother", 嗅 "smell", 睏觉 "sleep"*, 
+
+edge.7 <-> Wuhan [3]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Wuhan
+
+乌 "black"*, 皮肤 "skin"*, 树林 "woods", 
+
+edge.1 <-> Guangzhou [3]
+Taibei,Xiamen,Zhanping
+Guangzhou
+
+名 "name"+, 知[到] "know"+, 老母 "mother", 
+
+Wuhan <-> Guangzhou [3]
+Wuhan
+Guangzhou
+
+夜晚 "night"*, 扯 "pull", 游水 "swim"*, 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Ningbo <-> edge.15 [3]
+Ningbo
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+老的 "old", 咋 "how", 舌 "tongue"+, 
+
+Beijing <-> Wenzhou [3]
+Beijing
+Wenzhou
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+Lianchang <-> Guangzhou [3]
+Lianchang
+Guangzhou
+
+叶 "leaf"*, 索 "rope", 捽 "rub", 
+
+Guangzhou <-> Chengdu [3]
+Guangzhou
+Chengdu
+
+爪 "claw"*, 雀 "bird"*, 灰尘 "dust", 
+
+Chengdu <-> edge.5 [3]
+Chengdu
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+edge.8 <-> Yingshan [2]
+Changsha,Shuangfeng
+Yingshan
+
+下 "all"*, 堂客 "wife", 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Xiamen <-> edge.19 [2]
+Xiamen
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+砍 "cut", 爪仔 "claw"*, 
+
+Xiamen <-> Wenzhou [2]
+Xiamen
+Wenzhou
+
+拙 "dull", 呆 "dull", 
+
+Xiamen <-> Changsha [2]
+Xiamen
+Changsha
+
+女的 "woman"*, 落 "fall", 
+
+Xiamen <-> edge.18 [2]
+Xiamen
+Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+斬 "cut", 胛脊 "back", 
+
+Shanghai <-> edge.19 [2]
+Shanghai
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+和 "and", 沙子 "sand"*, 
+
+root <-> edge.13 [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan,Yuci
+
+两 "two"+, 老婆 "wife", 
+
+root <-> Taiyuan [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan
+
+老公 "husband", 肠 "guts", 
+
+Ningxia <-> Fuzhou [2]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 冻 "cold"*, 
+
+edge.13 <-> Wuhan [2]
+Taiyuan,Yuci
+Wuhan
+
+男的 "man"*, 刺 "stab", 
+
+Taibei <-> Lianchang [2]
+Taibei
+Lianchang
+
+siu13泅 "swim"*, 合 "and", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+edge.19 <-> edge.3 [2]
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Shanghai,Shanghai_B
+
+男的 "man"*, 缝 "sew", 
+
+edge.19 <-> Zhanping [2]
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Zhanping
+
+肠子 "guts", 鼻公 "nose"+, 
+
+Taiyuan <-> Chengdu [2]
+Taiyuan
+Chengdu
+
+森林 "woods", 奶奶 "breasts"*, 
+
+Nanchang <-> edge.5 [2]
+Nanchang
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+嘴巴 "mouth"*, 姆妈 "mother", 
+
+Yuci <-> edge.5 [2]
+Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+肚肠 "guts", 灰尘 "dust", 
+
+Yuci <-> Wuhan [2]
+Yuci
+Wuhan
+
+抠 "scratch", 树林 "woods", 
+
+Suzhou <-> Meixian [2]
+Suzhou
+Meixian
+
+点 "count", e31个 "this"+, 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+Shuangfeng <-> Wenzhou [2]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 是 "correct", 
+
+Shuangfeng <-> edge.11 [2]
+Shuangfeng
+Meixian,Lianchang,Nanchang,Anyi
+
+爷 "father", 火曹 "dry"*, 
+
+edge.9 <-> edge.1 [2]
+Meixian,Lianchang
+Taibei,Xiamen,Zhanping
+
+青 "green"*, 食 "drink"*, 
+
+edge.9 <-> edge.7 [2]
+Meixian,Lianchang
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+乌 "black"*, 卵 "egg"+, 
+
+edge.16 <-> Ningbo [2]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo
+
+喝 "drink"*, 云彩 "cloud"*, 
+
+edge.16 <-> edge.5 [2]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+说 "say"*, 游泳 "swim"*, 
+
+edge.7 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Wuhan <-> Zhanping [2]
+Wuhan
+Zhanping
+
+索子 "rope", 姆妈 "mother", 
+
+edge.12 <-> Changsha [2]
+Yingshan,Wuhan
+Changsha
+
+凌冰 "ice", 把 "give"+, 
+
+Ningbo <-> Chengdu [2]
+Ningbo
+Chengdu
+
+爪 "claw"*, 女 "woman"*, 
+
+edge.15 <-> edge.6 [2]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+牙 "tooth"+, 腿 "leg", 
+
+Beijing <-> Yingshan [2]
+Beijing
+Yingshan
+
+男的 "man"*, 长虫 "snake", 
+
+Lianchang <-> edge.5 [2]
+Lianchang
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+背脊 "back", 嘬 "suck", 
+
+Lianchang <-> edge.6 [2]
+Lianchang
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+腿 "leg", 燥 "dry"*, 
+
+edge.6 <-> Meixian [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+戳 "stab", 相打 "fight", 
+
+edge.6 <-> edge.10 [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Nanchang,Anyi
+
+虱 "louse"+, 嗅 "smell", 
+
+Guangzhou <-> edge.14 [2]
+Guangzhou
+Beijing,Taiyuan,Yuci
+
+女人 "wife", 嘴 "mouth"*, 
+
+Guangzhou <-> Wenzhou [2]
+Guangzhou
+Wenzhou
+
+肚 "belly"*, 叶 "leaf"*, 
+
+Guangzhou <-> Anyi [2]
+Guangzhou
+Anyi
+
+矺 "squeeze", 同到 "and", 
+
+edge.2 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Chengdu
+
+鼻 "nose"+, 耳 "ear"+, 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Wenzhou <-> Anyi [2]
+Wenzhou
+Anyi
+
+雾露 "fog", 许个 "that"*, 
+
+Meixian <-> Zhanping [2]
+Meixian
+Zhanping
+
+阿爸 "father", 索子 "rope", 
+
+edge.3 <-> edge.18 [2]
+Shanghai,Shanghai_B
+Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 绑 "tie", 
+
+edge.8 <-> Nanchang [1]
+Changsha,Shuangfeng
+Nanchang
+
+嘴巴 "mouth"*, 
+
+edge.8 <-> Fuzhou [1]
+Changsha,Shuangfeng
+Fuzhou
+
+清 "cold"*, 
+
+edge.8 <-> Meixian [1]
+Changsha,Shuangfeng
+Meixian
+
+星子 "star"*, 
+
+edge.8 <-> edge.12 [1]
+Changsha,Shuangfeng
+Yingshan,Wuhan
+
+拐* "bad", 
+
+edge.8 <-> Anyi [1]
+Changsha,Shuangfeng
+Anyi
+
+爹爹 "father", 
+
+edge.8 <-> Zhanping [1]
+Changsha,Shuangfeng
+Zhanping
+
+舌子 "tongue"+, 
+
+Xiamen <-> edge.5 [1]
+Xiamen
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+啥人 "who"+, 
+
+Xiamen <-> Meixian [1]
+Xiamen
+Meixian
+
+戆 "dull", 
+
+Xiamen <-> edge.15 [1]
+Xiamen
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+咋 "how", 
+
+Xiamen <-> Anyi [1]
+Xiamen
+Anyi
+
+落 "fall", 
+
+Xiamen <-> edge.6 [1]
+Xiamen
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+屋里 "husband", 
+
+Xiamen <-> edge.13 [1]
+Xiamen
+Taiyuan,Yuci
+
+刺 "stab", 
+
+Xiamen <-> Nanchang [1]
+Xiamen
+Nanchang
+
+籽 "seed"*, 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> edge.10 [1]
+Shanghai
+Nanchang,Anyi
+
+奶 "breasts"*, 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+root <-> Chengdu [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Chengdu
+
+骨 "bone"+, 
+
+root <-> Wuhan [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Wuhan
+
+青 "black"*, 
+
+root <-> Yuci [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Yuci
+
+月光 "moon"+, 
+
+Ningxia <-> edge.4 [1]
+Ningxia
+Suzhou,Shanghai,Shanghai_B
+
+啥 "what"+, 
+
+Ningxia <-> Shuangfeng [1]
+Ningxia
+Shuangfeng
+
+他哩 "they", 
+
+Ningxia <-> Yuci [1]
+Ningxia
+Yuci
+
+打山 "hunt", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.13 <-> edge.5 [1]
+Taiyuan,Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+羽毛 "feather"*, 
+
+edge.13 <-> edge.19 [1]
+Taiyuan,Yuci
+Changsha,Shuangfeng,Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+跌 "fall", 
+
+edge.13 <-> Taibei [1]
+Taiyuan,Yuci
+Taibei
+
+牙 "tooth"+, 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+Taiyuan <-> Wuhan [1]
+Taiyuan
+Wuhan
+
+根子 "root"*, 
+
+Taiyuan <-> edge.2 [1]
+Taiyuan
+Fuzhou,Taibei,Xiamen,Zhanping
+
+奶 "breasts"*, 
+
+Taiyuan <-> Changsha [1]
+Taiyuan
+Changsha
+
+森林 "woods", 
+
+Taiyuan <-> edge.4 [1]
+Taiyuan
+Suzhou,Shanghai,Shanghai_B
+
+左面 "leftside", 
+
+Taiyuan <-> Suzhou [1]
+Taiyuan
+Suzhou
+
+森林 "woods", 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> edge.3 [1]
+Nanchang
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Nanchang <-> Changsha [1]
+Nanchang
+Changsha
+
+把 "give"+, 
+
+Nanchang <-> edge.15 [1]
+Nanchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+冻 "freeze", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> edge.6 [1]
+Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+鼻头 "nose"+, 
+
+Yuci <-> Guangzhou [1]
+Yuci
+Guangzhou
+
+肚 "belly"*, 
+
+Yuci <-> edge.2 [1]
+Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+月 "moon"+, 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+Suzhou <-> edge.17 [1]
+Suzhou
+Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+吸 "suck", 
+
+Suzhou <-> Wuhan [1]
+Suzhou
+Wuhan
+
+背心 "back", 
+
+Suzhou <-> edge.0 [1]
+Suzhou
+Xiamen,Zhanping
+
+拖 "pull", 
+
+Fuzhou <-> edge.16 [1]
+Fuzhou
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+浮 "float", 
+
+Shuangfeng <-> Meixian [1]
+Shuangfeng
+Meixian
+
+虫子 "worm", 
+
+Shuangfeng <-> edge.3 [1]
+Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Shuangfeng <-> edge.12 [1]
+Shuangfeng
+Yingshan,Wuhan
+
+耳冻* "ear"+, 
+
+Shuangfeng <-> edge.15 [1]
+Shuangfeng
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+耍 "play", 
+
+edge.9 <-> Zhanping [1]
+Meixian,Lianchang
+Zhanping
+
+分 "give"+, 
+
+edge.16 <-> edge.4 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Suzhou,Shanghai,Shanghai_B
+
+星星 "star"*, 
+
+edge.16 <-> edge.3 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+edge.16 <-> edge.7 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+吐 "vomit", 
+
+edge.7 <-> Meixian [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+泅水 "swim"*, 
+
+edge.7 <-> edge.10 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Nanchang,Anyi
+
+男个 "man"*, 
+
+edge.7 <-> edge.11 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian,Lianchang,Nanchang,Anyi
+
+日 "day", 
+
+edge.1 <-> Meixian [1]
+Taibei,Xiamen,Zhanping
+Meixian
+
+舌 "tongue"+, 
+
+edge.1 <-> edge.11 [1]
+Taibei,Xiamen,Zhanping
+Meixian,Lianchang,Nanchang,Anyi
+
+算 "count", 
+
+edge.1 <-> edge.18 [1]
+Taibei,Xiamen,Zhanping
+Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+棍 "stick", 
+
+Wuhan <-> edge.14 [1]
+Wuhan
+Beijing,Taiyuan,Yuci
+
+沉 "heavy", 
+
+Wuhan <-> Chengdu [1]
+Wuhan
+Chengdu
+
+干燥 "dry"*, 
+
+Wuhan <-> Wenzhou [1]
+Wuhan
+Wenzhou
+
+剁 "cut", 
+
+Ningbo <-> Meixian [1]
+Ningbo
+Meixian
+
+舌 "tongue"+, 
+
+Ningbo <-> Anyi [1]
+Ningbo
+Anyi
+
+畜牲 "animal", 
+
+Ningbo <-> Guangzhou [1]
+Ningbo
+Guangzhou
+
+阿妈 "mother", 
+
+Ningbo <-> edge.18 [1]
+Ningbo
+Guangzhou,Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+眼 "eye"+, 
+
+edge.4 <-> edge.17 [1]
+Suzhou,Shanghai,Shanghai_B
+Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+舌頭 "tongue"+, 
+
+edge.4 <-> Beijing [1]
+Suzhou,Shanghai,Shanghai_B
+Beijing
+
+娘 "mother", 
+
+edge.4 <-> Yingshan [1]
+Suzhou,Shanghai,Shanghai_B
+Yingshan
+
+戆 "dull", 
+
+edge.15 <-> Lianchang [1]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Lianchang
+
+这 "this"+, 
+
+edge.15 <-> edge.5 [1]
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+活的 "live(alive)", 
+
+Beijing <-> edge.5 [1]
+Beijing
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+嘬 "suck", 
+
+Beijing <-> Meixian [1]
+Beijing
+Meixian
+
+爷们儿 "man"*, 
+
+Beijing <-> Zhanping [1]
+Beijing
+Zhanping
+
+娘 "mother", 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.0 [1]
+Lianchang
+Xiamen,Zhanping
+
+无 "not"*, 
+
+Lianchang <-> Changsha [1]
+Lianchang
+Changsha
+
+凌冰 "ice", 
+
+edge.17 <-> edge.2 [1]
+Meixian,Lianchang,Nanchang,Anyi,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+果子 "fruit", 
+
+edge.6 <-> Guangzhou [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Guangzhou
+
+绳 "rope", 
+
+edge.6 <-> Chengdu [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+虱 "louse"+, 
+
+edge.6 <-> edge.11 [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian,Lianchang,Nanchang,Anyi
+
+脚爪 "claw"*, 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.2 [1]
+Guangzhou
+Fuzhou,Taibei,Xiamen,Zhanping
+
+虱母 "louse"+, 
+
+Guangzhou <-> edge.0 [1]
+Guangzhou
+Xiamen,Zhanping
+
+头壳 "head"*, 
+
+edge.2 <-> Meixian [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Meixian
+
+啡 "spit", 
+
+edge.2 <-> edge.3 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai,Shanghai_B
+
+伊 "he", 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> edge.10 [1]
+Wenzhou
+Nanchang,Anyi
+
+女个 "woman"*, 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Xiamen,Zhanping
+Meixian
+
+烧 "hot"*, 
+
+edge.0 <-> Anyi [1]
+Xiamen,Zhanping
+Anyi
+
+寒 "cold"*, 
+
+edge.5 <-> Meixian [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+搭 "and", 
+
+edge.5 <-> Anyi [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Anyi
+
+嘞 "in", 
+
+Meixian <-> edge.3 [1]
+Meixian
+Shanghai,Shanghai_B
+
+肚屎 "belly"*, 
+
+Zhanping <-> Changsha [1]
+Zhanping
+Changsha
+
+奶子 "breasts"*, 
+
+Yingshan <-> edge.3 [1]
+Yingshan
+Shanghai,Shanghai_B
+
+看到 "see"*, 
+
+Yingshan <-> Anyi [1]
+Yingshan
+Anyi
+
+手-双 "push", 
+
+edge.3 <-> Anyi [1]
+Shanghai,Shanghai_B
+Anyi
+
+落 "fall", 
+
+southern_chinese
+-------
+
+edge.4 <-> Wenzhou [7]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Wenzhou
+
+泅水 "swim"*, 乌 "black"*, 叶 "leaf"*, 肠 "guts", 惊 "fear", 卵 "egg"+, 翼 "wing", 
+
+Guangzhou <-> Wuhan [5]
+Guangzhou
+Wuhan
+
+夜晚 "night"*, 男人 "husband", 扯 "pull", 爸爸 "father", 游水 "swim"*, 
+
+Changsha <-> edge.16 [5]
+Changsha
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+那里 "there", 鼻子 "nose"+, 女的 "woman"*, 那个 "that"*, 他们 "they", 
+
+edge.4 <-> Nanchang [4]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Nanchang
+
+棍 "stick", 胛脊 "back", 算 "count", 佢 "he", 
+
+Chengdu <-> Guangzhou [4]
+Chengdu
+Guangzhou
+
+爪 "claw"*, 雀 "bird"*, 左边 "leftside", 灰尘 "dust", 
+
+Guangzhou <-> Suzhou [4]
+Guangzhou
+Suzhou
+
+男人 "husband", 如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Xiamen <-> root [4]
+Xiamen
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+细 "small"*, 砍 "cut", 爪仔 "claw"*, 种子 "seed"*, 
+
+Wuhan <-> edge.10 [4]
+Wuhan
+Changsha,Shuangfeng
+
+背心 "back", 男人 "husband", 索子 "rope", 刺 "stab", 
+
+Ningbo <-> edge.15 [4]
+Ningbo
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+老的 "old", 眼 "eye"+, 咋 "how", 舌 "tongue"+, 
+
+Lianchang <-> Shanghai [3]
+Lianchang
+Shanghai
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+edge.8 <-> Chengdu [3]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+皮肤 "skin"*, 骨 "bone"+, 奶奶 "breasts"*, 
+
+Chengdu <-> edge.7 [3]
+Chengdu
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+Guangzhou <-> edge.14 [3]
+Guangzhou
+Beijing,Taiyuan,Yuci
+
+爸爸 "father", 女人 "wife", 嘴 "mouth"*, 
+
+Guangzhou <-> Ningbo [3]
+Guangzhou
+Ningbo
+
+爪 "claw"*, 眼 "eye"+, 阿妈 "mother", 
+
+edge.13 <-> Nanchang [3]
+Taiyuan,Yuci
+Nanchang
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Wenzhou <-> Fuzhou [3]
+Wenzhou
+Fuzhou
+
+拔 "pull", 娄-刀 "dig", 滥 "wet", 
+
+Wenzhou <-> Beijing [3]
+Wenzhou
+Beijing
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+Changsha <-> Wuhan [3]
+Changsha
+Wuhan
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 
+
+Changsha <-> Ningbo [3]
+Changsha
+Ningbo
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Meixian <-> edge.10 [3]
+Meixian
+Changsha,Shuangfeng
+
+棍子 "stick", 索子 "rope", 星子 "star"*, 
+
+Meixian <-> Anyi [3]
+Meixian
+Anyi
+
+啮 "bite"*, 斲 "cut", 火曹 "dry"*, 
+
+edge.16 <-> edge.10 [3]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Changsha,Shuangfeng
+
+棍子 "stick", 他 "he", 子] "head"*, 
+
+edge.11 <-> Wuhan [3]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+Wuhan
+
+青 "black"*, 姆妈 "mother", 剁 "cut", 
+
+Lianchang <-> edge.8 [2]
+Lianchang
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+
+腿 "leg", 燥 "dry"*, 
+
+Lianchang <-> edge.16 [2]
+Lianchang
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+睡 "sleep"*, 睡 "lie"*, 
+
+Lianchang <-> edge.7 [2]
+Lianchang
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+背脊 "back", 嘬 "suck", 
+
+Lianchang <-> Taibei [2]
+Lianchang
+Taibei
+
+siu13泅 "swim"*, 合 "and", 
+
+Lianchang <-> Anyi [2]
+Lianchang
+Anyi
+
+一下 "all"*, 我侪 "we"*, 
+
+Lianchang <-> edge.15 [2]
+Lianchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+这 "this"+, 腿 "leg", 
+
+edge.8 <-> Guangzhou [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Guangzhou
+
+阿爸 "father", 绳 "rope", 
+
+edge.8 <-> Meixian [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+戳 "stab", 相打 "fight", 
+
+edge.2 <-> Wenzhou [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Wenzhou
+
+剉 "cut", 倒 "lie"*, 
+
+edge.2 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Chengdu
+
+鼻 "nose"+, 耳 "ear"+, 
+
+Shuangfeng <-> Meixian [2]
+Shuangfeng
+Meixian
+
+虫子 "worm", 火曹 "dry"*, 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+Shuangfeng <-> Wenzhou [2]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 是 "correct", 
+
+Shanghai <-> root [2]
+Shanghai
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+和 "and", 沙子 "sand"*, 
+
+edge.4 <-> Anyi [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Anyi
+
+斬 "cut", 种 "seed"*, 
+
+edge.4 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Chengdu
+
+尾 "tail"+, 骨 "bone"+, 
+
+edge.4 <-> Ningxia [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Ningxia
+
+胛脊 "back", 冻 "cold"*, 
+
+Chengdu <-> Fuzhou [2]
+Chengdu
+Fuzhou
+
+皮肤 "skin"*, 奶奶 "breasts"*, 
+
+Chengdu <-> Taiyuan [2]
+Chengdu
+Taiyuan
+
+森林 "woods", 奶奶 "breasts"*, 
+
+Chengdu <-> edge.11 [2]
+Chengdu
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+左边 "leftside", 虱 "louse"+, 
+
+Guangzhou <-> edge.0 [2]
+Guangzhou
+Xiamen,Zhanping
+
+阿爸 "father", 头壳 "head"*, 
+
+Guangzhou <-> Anyi [2]
+Guangzhou
+Anyi
+
+矺 "squeeze", 同到 "and", 
+
+Guangzhou <-> edge.15 [2]
+Guangzhou
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 嘴 "mouth"*, 
+
+edge.13 <-> Wuhan [2]
+Taiyuan,Yuci
+Wuhan
+
+男的 "man"*, 刺 "stab", 
+
+edge.13 <-> root [2]
+Taiyuan,Yuci
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+跌 "fall", 老婆 "wife", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Xiamen <-> Wenzhou [2]
+Xiamen
+Wenzhou
+
+拙 "dull", 呆 "dull", 
+
+Xiamen <-> Changsha [2]
+Xiamen
+Changsha
+
+女的 "woman"*, 落 "fall", 
+
+root <-> Yuci [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Yuci
+
+月光 "moon"+, 树林 "woods", 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Wenzhou <-> Anyi [2]
+Wenzhou
+Anyi
+
+雾露 "fog", 许个 "that"*, 
+
+Nanchang <-> Meixian [2]
+Nanchang
+Meixian
+
+细人子 "child", []tsak5 "squeeze", 
+
+Nanchang <-> edge.16 [2]
+Nanchang
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+吸 "suck", 给 "give"+, 
+
+Yuci <-> edge.7 [2]
+Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+肚肠 "guts", 灰尘 "dust", 
+
+Changsha <-> edge.12 [2]
+Changsha
+Yingshan,Wuhan
+
+凌冰 "ice", 把 "give"+, 
+
+Suzhou <-> Meixian [2]
+Suzhou
+Meixian
+
+点 "count", e31个 "this"+, 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Fuzhou <-> Wuhan [2]
+Fuzhou
+Wuhan
+
+青 "black"*, 皮肤 "skin"*, 
+
+edge.9 <-> edge.14 [2]
+Nanchang,Anyi
+Beijing,Taiyuan,Yuci
+
+爸爸 "father", 舌頭 "tongue"+, 
+
+edge.16 <-> Ningbo [2]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo
+
+喝 "drink"*, 云彩 "cloud"*, 
+
+Zhanping <-> Wuhan [2]
+Zhanping
+Wuhan
+
+索子 "rope", 姆妈 "mother", 
+
+edge.14 <-> Wuhan [2]
+Beijing,Taiyuan,Yuci
+Wuhan
+
+沉 "heavy", 舌頭 "tongue"+, 
+
+Yingshan <-> Beijing [2]
+Yingshan
+Beijing
+
+男的 "man"*, 长虫 "snake", 
+
+Yingshan <-> edge.10 [2]
+Yingshan
+Changsha,Shuangfeng
+
+下 "all"*, 堂客 "wife", 
+
+Yingshan <-> Anyi [2]
+Yingshan
+Anyi
+
+手-双 "push", 种 "seed"*, 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.0 [1]
+Lianchang
+Xiamen,Zhanping
+
+无 "not"*, 
+
+Lianchang <-> edge.6 [1]
+Lianchang
+Suzhou,Shanghai,Shanghai_B
+
+舌頭 "tongue"+, 
+
+Lianchang <-> Changsha [1]
+Lianchang
+Changsha
+
+凌冰 "ice", 
+
+Lianchang <-> edge.11 [1]
+Lianchang
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+爷 "father", 
+
+edge.8 <-> Xiamen [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+屋里 "husband", 
+
+edge.8 <-> Yuci [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Yuci
+
+鼻头 "nose"+, 
+
+edge.8 <-> edge.2 [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Fuzhou,Taibei,Xiamen,Zhanping
+
+缚 "tie", 
+
+edge.8 <-> edge.15 [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+edge.2 <-> edge.5 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai,Shanghai_B
+
+伊 "he", 
+
+edge.2 <-> Yuci [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Yuci
+
+月 "moon"+, 
+
+edge.2 <-> Shanghai [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai
+
+奶 "breasts"*, 
+
+edge.2 <-> edge.11 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+睏 "sleep"*, 
+
+Shuangfeng <-> Guangzhou [1]
+Shuangfeng
+Guangzhou
+
+雪 "ice", 
+
+Shuangfeng <-> edge.5 [1]
+Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Shuangfeng <-> edge.12 [1]
+Shuangfeng
+Yingshan,Wuhan
+
+耳冻* "ear"+, 
+
+Shuangfeng <-> Ningxia [1]
+Shuangfeng
+Ningxia
+
+他哩 "they", 
+
+Shuangfeng <-> edge.15 [1]
+Shuangfeng
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+耍 "play", 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+edge.4 <-> edge.9 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang
+Nanchang,Anyi
+
+腌臢 "dirty", 
+
+Chengdu <-> Ningbo [1]
+Chengdu
+Ningbo
+
+女 "woman"*, 
+
+Chengdu <-> Wuhan [1]
+Chengdu
+Wuhan
+
+干燥 "dry"*, 
+
+Ningxia <-> edge.6 [1]
+Ningxia
+Suzhou,Shanghai,Shanghai_B
+
+啥 "what"+, 
+
+Ningxia <-> Yuci [1]
+Ningxia
+Yuci
+
+打山 "hunt", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Anyi [1]
+Ningxia
+Anyi
+
+畜牲 "animal", 
+
+Ningxia <-> Ningbo [1]
+Ningxia
+Ningbo
+
+畜牲 "animal", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.6 <-> Taiyuan [1]
+Suzhou,Shanghai,Shanghai_B
+Taiyuan
+
+左面 "leftside", 
+
+edge.6 <-> edge.14 [1]
+Suzhou,Shanghai,Shanghai_B
+Beijing,Taiyuan,Yuci
+
+舌頭 "tongue"+, 
+
+edge.6 <-> Meixian [1]
+Suzhou,Shanghai,Shanghai_B
+Meixian
+
+戆 "dull", 
+
+edge.6 <-> Xiamen [1]
+Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+戆 "dull", 
+
+edge.6 <-> edge.16 [1]
+Suzhou,Shanghai,Shanghai_B
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+星星 "star"*, 
+
+Guangzhou <-> edge.9 [1]
+Guangzhou
+Nanchang,Anyi
+
+颈 "neck"*, 
+
+Guangzhou <-> edge.16 [1]
+Guangzhou
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+妈妈 "mother", 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.11 [1]
+Guangzhou
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+睏 "lie"*, 
+
+Guangzhou <-> Yuci [1]
+Guangzhou
+Yuci
+
+肚 "belly"*, 
+
+edge.13 <-> edge.1 [1]
+Taiyuan,Yuci
+Taibei,Xiamen,Zhanping
+
+两 "two"+, 
+
+edge.13 <-> Taibei [1]
+Taiyuan,Yuci
+Taibei
+
+牙 "tooth"+, 
+
+edge.13 <-> Xiamen [1]
+Taiyuan,Yuci
+Xiamen
+
+刺 "stab", 
+
+edge.13 <-> edge.11 [1]
+Taiyuan,Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+两 "two"+, 
+
+edge.13 <-> edge.7 [1]
+Taiyuan,Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+羽毛 "feather"*, 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+Xiamen <-> edge.5 [1]
+Xiamen
+Shanghai,Shanghai_B
+
+落 "fall", 
+
+Xiamen <-> Anyi [1]
+Xiamen
+Anyi
+
+落 "fall", 
+
+Xiamen <-> Ningbo [1]
+Xiamen
+Ningbo
+
+咋 "how", 
+
+Xiamen <-> edge.7 [1]
+Xiamen
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+啥人 "who"+, 
+
+Xiamen <-> Nanchang [1]
+Xiamen
+Nanchang
+
+籽 "seed"*, 
+
+root <-> Taiyuan [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Guangzhou,Meixian,Lianchang,Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng,Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Taiyuan
+
+老公 "husband", 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Wuhan [1]
+Wenzhou
+Wuhan
+
+乌 "black"*, 
+
+Wenzhou <-> Yuci [1]
+Wenzhou
+Yuci
+
+肚 "belly"*, 
+
+Wenzhou <-> Taiyuan [1]
+Wenzhou
+Taiyuan
+
+肠 "guts", 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Xiamen,Zhanping
+Meixian
+
+烧 "hot"*, 
+
+edge.0 <-> Anyi [1]
+Xiamen,Zhanping
+Anyi
+
+寒 "cold"*, 
+
+Nanchang <-> edge.5 [1]
+Nanchang
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Nanchang <-> edge.12 [1]
+Nanchang
+Yingshan,Wuhan
+
+把 "give"+, 
+
+Nanchang <-> edge.15 [1]
+Nanchang
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+冻 "freeze", 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+Changsha <-> Taiyuan [1]
+Changsha
+Taiyuan
+
+森林 "woods", 
+
+Changsha <-> Zhanping [1]
+Changsha
+Zhanping
+
+奶子 "breasts"*, 
+
+Suzhou <-> Wuhan [1]
+Suzhou
+Wuhan
+
+背心 "back", 
+
+Suzhou <-> Taiyuan [1]
+Suzhou
+Taiyuan
+
+森林 "woods", 
+
+Suzhou <-> edge.16 [1]
+Suzhou
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+吸 "suck", 
+
+Suzhou <-> Beijing [1]
+Suzhou
+Beijing
+
+男人 "husband", 
+
+Fuzhou <-> edge.5 [1]
+Fuzhou
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Fuzhou <-> edge.10 [1]
+Fuzhou
+Changsha,Shuangfeng
+
+清 "cold"*, 
+
+Fuzhou <-> edge.11 [1]
+Fuzhou
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+男个 "man"*, 
+
+edge.5 <-> Meixian [1]
+Shanghai,Shanghai_B
+Meixian
+
+肚屎 "belly"*, 
+
+edge.5 <-> edge.16 [1]
+Shanghai,Shanghai_B
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+浮 "float", 
+
+edge.5 <-> Yingshan [1]
+Shanghai,Shanghai_B
+Yingshan
+
+看到 "see"*, 
+
+edge.5 <-> edge.15 [1]
+Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+女人 "woman"*, 
+
+Meixian <-> edge.7 [1]
+Meixian
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+搭 "and", 
+
+Meixian <-> Zhanping [1]
+Meixian
+Zhanping
+
+阿爸 "father", 
+
+Meixian <-> Ningbo [1]
+Meixian
+Ningbo
+
+舌 "tongue"+, 
+
+Meixian <-> edge.11 [1]
+Meixian
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+
+脚爪 "claw"*, 
+
+Meixian <-> Beijing [1]
+Meixian
+Beijing
+
+爷们儿 "man"*, 
+
+edge.9 <-> Taiyuan [1]
+Nanchang,Anyi
+Taiyuan
+
+奶 "breasts"*, 
+
+edge.16 <-> edge.7 [1]
+Yingshan,Wuhan,Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+Ningbo,Suzhou,Shanghai,Shanghai_B
+
+说 "say"*, 
+
+edge.11 <-> Zhanping [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Nanchang,Anyi,Changsha,Shuangfeng
+Zhanping
+
+娘 "mother", 
+
+edge.7 <-> Anyi [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Anyi
+
+嘞 "in", 
+
+edge.7 <-> edge.15 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Ningxia,Chengdu,Beijing,Taiyuan,Yuci
+
+活的 "live(alive)", 
+
+edge.7 <-> Beijing [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Beijing
+
+嘬 "suck", 
+
+Zhanping <-> edge.3 [1]
+Zhanping
+Meixian,Lianchang
+
+分 "give"+, 
+
+Zhanping <-> edge.10 [1]
+Zhanping
+Changsha,Shuangfeng
+
+舌子 "tongue"+, 
+
+Zhanping <-> Beijing [1]
+Zhanping
+Beijing
+
+娘 "mother", 
+
+edge.1 <-> Ningbo [1]
+Taibei,Xiamen,Zhanping
+Ningbo
+
+舌 "tongue"+, 
+
+Wuhan <-> Taiyuan [1]
+Wuhan
+Taiyuan
+
+根子 "root"*, 
+
+edge.12 <-> edge.10 [1]
+Yingshan,Wuhan
+Changsha,Shuangfeng
+
+拐* "bad", 
+
+upgma
+-------
+
+Shuangfeng <-> Changsha [12]
+Shuangfeng
+Changsha
+
+女人家 "woman"*, 舌子 "tongue"+, 清 "cold"*, 膝头骨 "knee"*, 么子 "what"+, 洗冷水澡 "swim"*, 腿把子 "leg", 虱婆子 "louse"+, 星子 "star"*, 咯里 "here", 构凌 "freeze", 溜子 "snake", 
+
+edge.13 <-> Guangzhou [6]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Guangzhou
+
+睏 "lie"*, 左边 "leftside", 拉 "pull", 呕 "vomit", 右边 "rightside", 闻 "smell", 
+
+Suzhou <-> Guangzhou [5]
+Suzhou
+Guangzhou
+
+男人 "husband", 如果 "if", 女人 "wife", 绳 "rope", 游水 "swim"*, 
+
+Suzhou <-> Wenzhou [5]
+Suzhou
+Wenzhou
+
+屋里 "husband", 统统 "all"*, 眼乌珠 "eye"+, 绳 "rope", 相打 "fight", 
+
+Fuzhou <-> Wenzhou [5]
+Fuzhou
+Wenzhou
+
+青 "black"*, 拔 "pull", 娄-刀 "dig", 男个 "man"*, 滥 "wet", 
+
+Shuangfeng <-> edge.4 [5]
+Shuangfeng
+Yingshan,Changsha,Wuhan
+
+下 "all"*, 拐* "bad", 嗍 "breathe", 堂客 "wife", 耳冻* "ear"+, 
+
+Shuangfeng <-> edge.3 [5]
+Shuangfeng
+Changsha,Wuhan
+
+背心 "back", 男人 "husband", 青 "black"*, 索子 "rope", 刺 "stab", 
+
+root <-> Changsha [4]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang,Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Changsha
+
+话 "say"*, 企 "stand"*, 吮 "suck", 睏 "sleep"*, 
+
+Wuhan <-> Guangzhou [4]
+Wuhan
+Guangzhou
+
+夜晚 "night"*, 扯 "pull", 爸爸 "father", 游水 "swim"*, 
+
+Guangzhou <-> Chengdu [4]
+Guangzhou
+Chengdu
+
+爪 "claw"*, 雀 "bird"*, 灰尘 "dust", 眼 "eye"+, 
+
+edge.2 <-> Chengdu [3]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Chengdu
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+Shanghai <-> Lianchang [3]
+Shanghai
+Lianchang
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+Anyi <-> Guangzhou [3]
+Anyi
+Guangzhou
+
+男的 "man"*, 矺 "squeeze", 同到 "and", 
+
+edge.19 <-> edge.10 [3]
+Lianchang,Guangzhou,Meixian
+Anyi,Nanchang
+
+跌 "fall", 联 "sew", 腌臢 "dirty", 
+
+edge.19 <-> Zhanping [3]
+Lianchang,Guangzhou,Meixian
+Zhanping
+
+肠子 "guts", 分 "give"+, 鼻公 "nose"+, 
+
+edge.13 <-> Xiamen [3]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Xiamen
+
+拉 "pull", 细 "small"*, 转 "turn", 
+
+Nanchang <-> edge.6 [3]
+Nanchang
+Taiyuan,Yuci
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Nanchang <-> edge.20 [3]
+Nanchang
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+
+果子 "fruit", 棍 "stick", 算 "count", 
+
+Suzhou <-> Meixian [3]
+Suzhou
+Meixian
+
+相打 "fight", 点 "count", e31个 "this"+, 
+
+Fuzhou <-> Guangzhou [3]
+Fuzhou
+Guangzhou
+
+弊 "bad", 冻 "cold"*, 窄 "narrow", 
+
+Shuangfeng <-> Meixian [3]
+Shuangfeng
+Meixian
+
+索子 "rope", 虫子 "worm", 星子 "star"*, 
+
+Shuangfeng <-> Wenzhou [3]
+Shuangfeng
+Wenzhou
+
+青 "black"*, 榨 "squeeze", 是 "correct", 
+
+edge.9 <-> Lianchang [3]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci
+Lianchang
+
+这 "this"+, 睡 "sleep"*, 睡 "lie"*, 
+
+edge.9 <-> Guangzhou [3]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci
+Guangzhou
+
+妈妈 "mother", 嘴 "mouth"*, 窄 "narrow", 
+
+edge.7 <-> Guangzhou [3]
+Beijing,Taiyuan,Yuci
+Guangzhou
+
+爸爸 "father", 女人 "wife", 嘴 "mouth"*, 
+
+Ningbo <-> Guangzhou [3]
+Ningbo
+Guangzhou
+
+爪 "claw"*, 眼 "eye"+, 阿妈 "mother", 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+edge.18 <-> Xiamen [3]
+Guangzhou,Meixian
+Xiamen
+
+斬 "cut", 胛脊 "back", 转 "turn", 
+
+Guangzhou <-> edge.14 [3]
+Guangzhou
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+黑 "black"*, 吐 "spit", 擦 "rub", 
+
+Xiamen <-> Wenzhou [3]
+Xiamen
+Wenzhou
+
+屋里 "husband", 拙 "dull", 呆 "dull", 
+
+Wenzhou <-> Beijing [3]
+Wenzhou
+Beijing
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+edge.8 <-> Guangzhou [2]
+Ningxia,Beijing,Taiyuan,Yuci
+Guangzhou
+
+女人 "woman"*, 男的 "man"*, 
+
+edge.2 <-> Lianchang [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Lianchang
+
+背脊 "back", 嘬 "suck", 
+
+Shanghai <-> edge.12 [2]
+Shanghai
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+和 "and", 沙子 "sand"*, 
+
+Anyi <-> Lianchang [2]
+Anyi
+Lianchang
+
+一下 "all"*, 我侪 "we"*, 
+
+Anyi <-> Meixian [2]
+Anyi
+Meixian
+
+啮 "bite"*, 斲 "cut", 
+
+Anyi <-> Xiamen [2]
+Anyi
+Xiamen
+
+斬 "cut", 落 "fall", 
+
+Anyi <-> Wenzhou [2]
+Anyi
+Wenzhou
+
+雾露 "fog", 许个 "that"*, 
+
+Anyi <-> Yingshan [2]
+Anyi
+Yingshan
+
+手-双 "push", 种 "seed"*, 
+
+edge.19 <-> Yingshan [2]
+Lianchang,Guangzhou,Meixian
+Yingshan
+
+联 "sew", 鼻公 "nose"+, 
+
+edge.19 <-> edge.12 [2]
+Lianchang,Guangzhou,Meixian
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+沙子 "sand"*, 肠子 "guts", 
+
+edge.19 <-> edge.11 [2]
+Lianchang,Guangzhou,Meixian
+Shuangfeng,Anyi,Nanchang
+
+话 "say"*, 鼻公 "nose"+, 
+
+Ningxia <-> Fuzhou [2]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 冻 "cold"*, 
+
+edge.13 <-> Lianchang [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Lianchang
+
+舌頭 "tongue"+, 爷 "father", 
+
+edge.13 <-> Meixian [2]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Meixian
+
+叶子 "leaf"*, 拿 "hold-take", 
+
+Taibei <-> Lianchang [2]
+Taibei
+Lianchang
+
+siu13泅 "swim"*, 合 "and", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+root <-> Wuhan [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang,Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Wuhan
+
+乌 "black"*, 浮 "float", 
+
+root <-> Taiyuan [2]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang,Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Taiyuan
+
+老公 "husband", 肠 "guts", 
+
+Nanchang <-> edge.4 [2]
+Nanchang
+Yingshan,Changsha,Wuhan
+
+把 "give"+, 玩 "play", 
+
+Nanchang <-> Meixian [2]
+Nanchang
+Meixian
+
+细人子 "child", []tsak5 "squeeze", 
+
+Nanchang <-> Xiamen [2]
+Nanchang
+Xiamen
+
+籽 "seed"*, 胛脊 "back", 
+
+Yuci <-> Guangzhou [2]
+Yuci
+Guangzhou
+
+肚 "belly"*, 灰尘 "dust", 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Shuangfeng <-> Guangzhou [2]
+Shuangfeng
+Guangzhou
+
+男人 "husband", 雪 "ice", 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+edge.9 <-> edge.0 [2]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci
+Shanghai,Shanghai_B
+
+浮 "float", 缝 "sew", 
+
+edge.16 <-> Guangzhou [2]
+Taibei,Xiamen,Zhanping
+Guangzhou
+
+知[到] "know"+, 老母 "mother", 
+
+edge.12 <-> Xiamen [2]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Xiamen
+
+砍 "cut", 爪仔 "claw"*, 
+
+edge.3 <-> edge.6 [2]
+Changsha,Wuhan
+Taiyuan,Yuci
+
+男的 "man"*, 刺 "stab", 
+
+edge.3 <-> Zhanping [2]
+Changsha,Wuhan
+Zhanping
+
+索子 "rope", 姆妈 "mother", 
+
+edge.17 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Chengdu
+
+鼻 "nose"+, 耳 "ear"+, 
+
+edge.20 <-> edge.11 [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Shuangfeng,Anyi,Nanchang
+
+细 "small"*, 搡 "push", 
+
+Guangzhou <-> edge.0 [2]
+Guangzhou
+Shanghai,Shanghai_B
+
+女人 "woman"*, 男的 "man"*, 
+
+Guangzhou <-> Changsha [2]
+Guangzhou
+Changsha
+
+睏 "lie"*, 男的 "man"*, 
+
+Guangzhou <-> edge.10 [2]
+Guangzhou
+Anyi,Nanchang
+
+爸爸 "father", 颈 "neck"*, 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Wenzhou <-> edge.10 [2]
+Wenzhou
+Anyi,Nanchang
+
+女个 "woman"*, 男个 "man"*, 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Changsha <-> Zhanping [2]
+Changsha
+Zhanping
+
+舌子 "tongue"+, 奶子 "breasts"*, 
+
+Changsha <-> edge.11 [2]
+Changsha
+Shuangfeng,Anyi,Nanchang
+
+细 "small"*, 爹爹 "father", 
+
+Meixian <-> edge.14 [2]
+Meixian
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+戳 "stab", 脚爪 "claw"*, 
+
+Yingshan <-> Beijing [2]
+Yingshan
+Beijing
+
+男的 "man"*, 长虫 "snake", 
+
+edge.8 <-> edge.1 [1]
+Ningxia,Beijing,Taiyuan,Yuci
+Suzhou,Shanghai,Shanghai_B
+
+星星 "star"*, 
+
+edge.8 <-> Xiamen [1]
+Ningxia,Beijing,Taiyuan,Yuci
+Xiamen
+
+咋 "how", 
+
+edge.8 <-> edge.20 [1]
+Ningxia,Beijing,Taiyuan,Yuci
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+
+果子 "fruit", 
+
+edge.2 <-> edge.6 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Taiyuan,Yuci
+
+羽毛 "feather"*, 
+
+edge.2 <-> Meixian [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Meixian
+
+搭 "and", 
+
+edge.2 <-> Xiamen [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+啥人 "who"+, 
+
+edge.2 <-> Anyi [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Anyi
+
+嘞 "in", 
+
+edge.2 <-> Yuci [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Yuci
+
+肚肠 "guts", 
+
+edge.2 <-> Zhanping [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B
+Zhanping
+
+姆妈 "mother", 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+Anyi <-> Fuzhou [1]
+Anyi
+Fuzhou
+
+畜牲 "animal", 
+
+Anyi <-> Changsha [1]
+Anyi
+Changsha
+
+落 "fall", 
+
+Anyi <-> edge.15 [1]
+Anyi
+Xiamen,Zhanping
+
+寒 "cold"*, 
+
+edge.19 <-> edge.6 [1]
+Lianchang,Guangzhou,Meixian
+Taiyuan,Yuci
+
+跌 "fall", 
+
+edge.19 <-> Changsha [1]
+Lianchang,Guangzhou,Meixian
+Changsha
+
+跌 "fall", 
+
+edge.19 <-> Nanchang [1]
+Lianchang,Guangzhou,Meixian
+Nanchang
+
+佢 "he", 
+
+Ningxia <-> edge.1 [1]
+Ningxia
+Suzhou,Shanghai,Shanghai_B
+
+啥 "what"+, 
+
+Ningxia <-> Xiamen [1]
+Ningxia
+Xiamen
+
+胛脊 "back", 
+
+Ningxia <-> Shuangfeng [1]
+Ningxia
+Shuangfeng
+
+他哩 "they", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.13 <-> Fuzhou [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Fuzhou
+
+扯 "split", 
+
+edge.13 <-> edge.16 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Taibei,Xiamen,Zhanping
+
+两 "two"+, 
+
+edge.13 <-> Zhanping [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Zhanping
+
+娘 "mother", 
+
+edge.13 <-> Changsha [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Changsha
+
+嘴巴 "mouth"*, 
+
+edge.13 <-> edge.18 [1]
+Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Guangzhou,Meixian
+
+绑 "tie", 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+Taibei <-> edge.6 [1]
+Taibei
+Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+root <-> Yuci [1]
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang,Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Yuci
+
+月光 "moon"+, 
+
+Taiyuan <-> edge.1 [1]
+Taiyuan
+Suzhou,Shanghai,Shanghai_B
+
+左面 "leftside", 
+
+Taiyuan <-> Wuhan [1]
+Taiyuan
+Wuhan
+
+根子 "root"*, 
+
+Taiyuan <-> edge.17 [1]
+Taiyuan
+Fuzhou,Taibei,Xiamen,Zhanping
+
+奶 "breasts"*, 
+
+Taiyuan <-> Suzhou [1]
+Taiyuan
+Suzhou
+
+森林 "woods", 
+
+Nanchang <-> Zhanping [1]
+Nanchang
+Zhanping
+
+姆妈 "mother", 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> edge.17 [1]
+Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+月 "moon"+, 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> edge.14 [1]
+Yuci
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+鼻头 "nose"+, 
+
+Suzhou <-> edge.3 [1]
+Suzhou
+Changsha,Wuhan
+
+背心 "back", 
+
+Suzhou <-> edge.5 [1]
+Suzhou
+Chengdu,Yingshan,Changsha,Wuhan
+
+森林 "woods", 
+
+Fuzhou <-> Shuangfeng [1]
+Fuzhou
+Shuangfeng
+
+清 "cold"*, 
+
+Fuzhou <-> edge.9 [1]
+Fuzhou
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci
+
+浮 "float", 
+
+edge.9 <-> Xiamen [1]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci
+Xiamen
+
+女的 "woman"*, 
+
+edge.7 <-> Wuhan [1]
+Beijing,Taiyuan,Yuci
+Wuhan
+
+沉 "heavy", 
+
+edge.1 <-> Wuhan [1]
+Suzhou,Shanghai,Shanghai_B
+Wuhan
+
+星星 "star"*, 
+
+edge.1 <-> Xiamen [1]
+Suzhou,Shanghai,Shanghai_B
+Xiamen
+
+戆 "dull", 
+
+edge.12 <-> Lianchang [1]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Lianchang
+
+撕 "split", 
+
+edge.12 <-> Guangzhou [1]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Guangzhou
+
+抹 "rub", 
+
+edge.12 <-> Meixian [1]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Meixian
+
+棍子 "stick", 
+
+edge.12 <-> edge.18 [1]
+Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+Guangzhou,Meixian
+
+蠢 "dull", 
+
+Ningbo <-> Xiamen [1]
+Ningbo
+Xiamen
+
+咋 "how", 
+
+Ningbo <-> Chengdu [1]
+Ningbo
+Chengdu
+
+女 "woman"*, 
+
+edge.15 <-> Lianchang [1]
+Xiamen,Zhanping
+Lianchang
+
+无 "not"*, 
+
+edge.15 <-> Guangzhou [1]
+Xiamen,Zhanping
+Guangzhou
+
+头壳 "head"*, 
+
+edge.15 <-> Meixian [1]
+Xiamen,Zhanping
+Meixian
+
+烧 "hot"*, 
+
+edge.18 <-> edge.11 [1]
+Guangzhou,Meixian
+Shuangfeng,Anyi,Nanchang
+
+同 "and", 
+
+edge.18 <-> edge.0 [1]
+Guangzhou,Meixian
+Shanghai,Shanghai_B
+
+缝 "sew", 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.4 [1]
+Lianchang
+Yingshan,Changsha,Wuhan
+
+凌冰 "ice", 
+
+Lianchang <-> Beijing [1]
+Lianchang
+Beijing
+
+嘬 "suck", 
+
+edge.17 <-> edge.10 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Anyi,Nanchang
+
+奶 "breasts"*, 
+
+edge.17 <-> edge.0 [1]
+Fuzhou,Taibei,Xiamen,Zhanping
+Shanghai,Shanghai_B
+
+伊 "he", 
+
+edge.20 <-> edge.4 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Yingshan,Changsha,Wuhan
+
+嗍 "breathe", 
+
+edge.20 <-> Chengdu [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Chengdu
+
+尾 "tail"+, 
+
+edge.20 <-> Yingshan [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Guangzhou,Meixian
+Yingshan
+
+种 "seed"*, 
+
+edge.6 <-> Guangzhou [1]
+Taiyuan,Yuci
+Guangzhou
+
+眼 "eye"+, 
+
+edge.6 <-> Xiamen [1]
+Taiyuan,Yuci
+Xiamen
+
+刺 "stab", 
+
+Guangzhou <-> Xiamen [1]
+Guangzhou
+Xiamen
+
+擦 "rub", 
+
+Guangzhou <-> Wenzhou [1]
+Guangzhou
+Wenzhou
+
+肚 "belly"*, 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.4 [1]
+Guangzhou
+Yingshan,Changsha,Wuhan
+
+玩 "play", 
+
+Guangzhou <-> Beijing [1]
+Guangzhou
+Beijing
+
+男人 "husband", 
+
+Xiamen <-> edge.14 [1]
+Xiamen
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+种子 "seed"*, 
+
+Chengdu <-> Beijing [1]
+Chengdu
+Beijing
+
+那儿 "there", 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Shanghai,Shanghai_B
+Meixian
+
+肚屎 "belly"*, 
+
+edge.0 <-> Changsha [1]
+Shanghai,Shanghai_B
+Changsha
+
+落 "fall", 
+
+edge.0 <-> Yingshan [1]
+Shanghai,Shanghai_B
+Yingshan
+
+看到 "see"*, 
+
+edge.0 <-> edge.11 [1]
+Shanghai,Shanghai_B
+Shuangfeng,Anyi,Nanchang
+
+我哩 "we"*, 
+
+Changsha <-> edge.14 [1]
+Changsha
+Wenzhou,Ningbo,Suzhou,Shanghai,Shanghai_B,Chengdu,Yingshan,Changsha,Wuhan,Ningxia,Beijing,Taiyuan,Yuci,Shuangfeng,Anyi,Nanchang
+
+吃 "drink"*, 
+
+Meixian <-> Yingshan [1]
+Meixian
+Yingshan
+
+戆 "dull", 
+
+Meixian <-> Zhanping [1]
+Meixian
+Zhanping
+
+阿爸 "father", 
+
+Meixian <-> Beijing [1]
+Meixian
+Beijing
+
+爷们儿 "man"*, 
+
+Meixian <-> edge.11 [1]
+Meixian
+Shuangfeng,Anyi,Nanchang
+
+火曹 "dry"*, 
+
+neighbor_joining
+-------
+
+Suzhou <-> Wenzhou [5]
+Suzhou
+Wenzhou
+
+屋里 "husband", 统统 "all"*, 眼乌珠 "eye"+, 相打 "fight", 缚 "tie", 
+
+Nanchang <-> edge.5 [4]
+Nanchang
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+同 "and", 棍 "stick", 胛脊 "back", 佢 "he", 
+
+Suzhou <-> Guangzhou [4]
+Suzhou
+Guangzhou
+
+男人 "husband", 如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Fuzhou <-> edge.20 [4]
+Fuzhou
+Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+吸 "breathe", 青 "black"*, 皮肤 "skin"*, 男个 "man"*, 
+
+Fuzhou <-> Wenzhou [4]
+Fuzhou
+Wenzhou
+
+拔 "pull", 娄-刀 "dig", 滥 "wet", 奶奶 "breasts"*, 
+
+edge.8 <-> Chengdu [3]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Chengdu
+
+灰尘 "dust", 男 "man"*, 夜 "night"*, 
+
+Xiamen <-> Wenzhou [3]
+Xiamen
+Wenzhou
+
+屋里 "husband", 拙 "dull", 呆 "dull", 
+
+Shanghai <-> Lianchang [3]
+Shanghai
+Lianchang
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+root <-> Yuci [3]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Yuci
+
+肚 "belly"*, 月光 "moon"+, 树林 "woods", 
+
+Nanchang <-> edge.4 [3]
+Nanchang
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian
+
+搡 "push", 果子 "fruit", 算 "count", 
+
+Nanchang <-> Shuangfeng [3]
+Nanchang
+Shuangfeng
+
+同 "and", 搡 "push", 我哩 "we"*, 
+
+Nanchang <-> edge.12 [3]
+Nanchang
+Taiyuan,Yuci
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Suzhou <-> Meixian [3]
+Suzhou
+Meixian
+
+相打 "fight", 点 "count", e31个 "this"+, 
+
+Suzhou <-> edge.17 [3]
+Suzhou
+Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+背心 "back", 男人 "husband", 拖 "pull", 
+
+Wuhan <-> Changsha [3]
+Wuhan
+Changsha
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 
+
+Wuhan <-> Guangzhou [3]
+Wuhan
+Guangzhou
+
+夜晚 "night"*, 扯 "pull", 游水 "swim"*, 
+
+edge.15 <-> Ningbo [3]
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Ningbo
+
+老的 "old", 眼 "eye"+, 舌 "tongue"+, 
+
+Beijing <-> Wenzhou [3]
+Beijing
+Wenzhou
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+Ningbo <-> Guangzhou [3]
+Ningbo
+Guangzhou
+
+爪 "claw"*, 眼 "eye"+, 阿妈 "mother", 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Guangzhou <-> Chengdu [3]
+Guangzhou
+Chengdu
+
+爪 "claw"*, 雀 "bird"*, 灰尘 "dust", 
+
+Guangzhou <-> edge.18 [3]
+Guangzhou
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+爸爸 "father", 抹 "rub", 玩 "play", 
+
+edge.2 <-> Wenzhou [3]
+Fuzhou,Taibei,Xiamen,Zhanping
+Wenzhou
+
+剉 "cut", 缚 "tie", 倒 "lie"*, 
+
+Anyi <-> Meixian [3]
+Anyi
+Meixian
+
+啮 "bite"*, 斲 "cut", 火曹 "dry"*, 
+
+Zhanping <-> edge.3 [3]
+Zhanping
+Lianchang,Meixian
+
+肠子 "guts", 分 "give"+, 鼻公 "nose"+, 
+
+edge.3 <-> edge.18 [3]
+Lianchang,Meixian
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+沙子 "sand"*, 肠子 "guts", 鼻公 "nose"+, 
+
+edge.8 <-> Lianchang [2]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Lianchang
+
+背脊 "back", 嘬 "suck", 
+
+edge.8 <-> Yuci [2]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Yuci
+
+肚肠 "guts", 灰尘 "dust", 
+
+Xiamen <-> edge.17 [2]
+Xiamen
+Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+女的 "woman"*, 刺 "stab", 
+
+Xiamen <-> Yingshan [2]
+Xiamen
+Yingshan
+
+正手边 "rightside", 戆 "dull", 
+
+Xiamen <-> root [2]
+Xiamen
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+拉 "pull", 擦 "rub", 
+
+Xiamen <-> edge.18 [2]
+Xiamen
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+砍 "cut", 爪仔 "claw"*, 
+
+Shanghai <-> edge.18 [2]
+Shanghai
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+和 "and", 沙子 "sand"*, 
+
+edge.19 <-> Lianchang [2]
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Lianchang
+
+舌頭 "tongue"+, 爷 "father", 
+
+edge.19 <-> Meixian [2]
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Meixian
+
+叶子 "leaf"*, 拿 "hold-take", 
+
+edge.19 <-> Zhanping [2]
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Zhanping
+
+娘 "mother", 姆妈 "mother", 
+
+Ningxia <-> edge.5 [2]
+Ningxia
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+胛脊 "back", 冻 "cold"*, 
+
+edge.13 <-> Guangzhou [2]
+Beijing,Taiyuan,Yuci
+Guangzhou
+
+女人 "wife", 嘴 "mouth"*, 
+
+Taibei <-> Lianchang [2]
+Taibei
+Lianchang
+
+siu13泅 "swim"*, 合 "and", 
+
+Taibei <-> Ningbo [2]
+Taibei
+Ningbo
+
+爪 "claw"*, 脚*棵*头 "knee"*, 
+
+root <-> Taiyuan [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Taiyuan
+
+老公 "husband", 肠 "guts", 
+
+root <-> edge.12 [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Taiyuan,Yuci
+
+跌 "fall", 老婆 "wife", 
+
+Taiyuan <-> Chengdu [2]
+Taiyuan
+Chengdu
+
+森林 "woods", 奶奶 "breasts"*, 
+
+Taiyuan <-> edge.7 [2]
+Taiyuan
+Shanghai,Shanghai_B,Suzhou
+
+左面 "leftside", 奶奶 "breasts"*, 
+
+Nanchang <-> Meixian [2]
+Nanchang
+Meixian
+
+细人子 "child", []tsak5 "squeeze", 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Shuangfeng <-> Wuhan [2]
+Shuangfeng
+Wuhan
+
+呵 "drink"*, 呵 "breathe", 
+
+Shuangfeng <-> Meixian [2]
+Shuangfeng
+Meixian
+
+虫子 "worm", 火曹 "dry"*, 
+
+Shuangfeng <-> Wenzhou [2]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 是 "correct", 
+
+edge.9 <-> edge.5 [2]
+Anyi,Nanchang
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+联 "sew", 腌臢 "dirty", 
+
+edge.16 <-> Lianchang [2]
+Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Lianchang
+
+睡 "sleep"*, 睡 "lie"*, 
+
+edge.16 <-> Ningbo [2]
+Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Ningbo
+
+喝 "drink"*, 云彩 "cloud"*, 
+
+edge.20 <-> Lianchang [2]
+Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Lianchang
+
+腿 "leg", 燥 "dry"*, 
+
+edge.20 <-> Meixian [2]
+Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Meixian
+
+戳 "stab", 脚爪 "claw"*, 
+
+Beijing <-> Yingshan [2]
+Beijing
+Yingshan
+
+男的 "man"*, 长虫 "snake", 
+
+Lianchang <-> Anyi [2]
+Lianchang
+Anyi
+
+一下 "all"*, 我侪 "we"*, 
+
+edge.17 <-> edge.5 [2]
+Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+嗍 "breathe", 窄 "narrow", 
+
+edge.17 <-> Meixian [2]
+Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Meixian
+
+棍子 "stick", 索子 "rope", 
+
+Guangzhou <-> Anyi [2]
+Guangzhou
+Anyi
+
+矺 "squeeze", 同到 "and", 
+
+edge.2 <-> Chengdu [2]
+Fuzhou,Taibei,Xiamen,Zhanping
+Chengdu
+
+鼻 "nose"+, 耳 "ear"+, 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+Wenzhou <-> Anyi [2]
+Wenzhou
+Anyi
+
+雾露 "fog", 许个 "that"*, 
+
+Anyi <-> edge.5 [2]
+Anyi
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+斬 "cut", 种 "seed"*, 
+
+edge.5 <-> Yingshan [2]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+Yingshan
+
+联 "sew", 种 "seed"*, 
+
+Meixian <-> Zhanping [2]
+Meixian
+Zhanping
+
+阿爸 "father", 索子 "rope", 
+
+edge.8 <-> edge.12 [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Taiyuan,Yuci
+
+羽毛 "feather"*, 
+
+edge.8 <-> Xiamen [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Xiamen
+
+啥人 "who"+, 
+
+edge.8 <-> Meixian [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Meixian
+
+搭 "and", 
+
+edge.8 <-> edge.15 [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+活的 "live(alive)", 
+
+Xiamen <-> Anyi [1]
+Xiamen
+Anyi
+
+落 "fall", 
+
+Xiamen <-> Ningbo [1]
+Xiamen
+Ningbo
+
+咋 "how", 
+
+Xiamen <-> edge.7 [1]
+Xiamen
+Shanghai,Shanghai_B,Suzhou
+
+戆 "dull", 
+
+Xiamen <-> edge.20 [1]
+Xiamen
+Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+种子 "seed"*, 
+
+Xiamen <-> edge.14 [1]
+Xiamen
+Beijing,Taiyuan,Yuci,Ningxia
+
+咋 "how", 
+
+Xiamen <-> edge.6 [1]
+Xiamen
+Shanghai,Shanghai_B
+
+落 "fall", 
+
+Xiamen <-> edge.19 [1]
+Xiamen
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+细 "small"*, 
+
+Xiamen <-> Nanchang [1]
+Xiamen
+Nanchang
+
+籽 "seed"*, 
+
+Xiamen <-> Changsha [1]
+Xiamen
+Changsha
+
+落 "fall", 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> Taiyuan [1]
+Shanghai
+Taiyuan
+
+奶 "breasts"*, 
+
+edge.19 <-> Fuzhou [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Fuzhou
+
+扯 "split", 
+
+edge.19 <-> edge.12 [1]
+Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Taiyuan,Yuci
+
+两 "two"+, 
+
+Ningxia <-> Fuzhou [1]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 
+
+Ningxia <-> Shuangfeng [1]
+Ningxia
+Shuangfeng
+
+他哩 "they", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Wuhan [1]
+Ningxia
+Wuhan
+
+全 "all"*, 
+
+Ningxia <-> edge.7 [1]
+Ningxia
+Shanghai,Shanghai_B,Suzhou
+
+啥 "what"+, 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+edge.13 <-> Wuhan [1]
+Beijing,Taiyuan,Yuci
+Wuhan
+
+沉 "heavy", 
+
+Taibei <-> edge.12 [1]
+Taibei
+Taiyuan,Yuci
+
+牙 "tooth"+, 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+root <-> Wuhan [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Wuhan
+
+乌 "black"*, 
+
+root <-> Chengdu [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Chengdu
+
+骨 "bone"+, 
+
+root <-> Shuangfeng [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Shuangfeng
+
+行 "walk"*, 
+
+root <-> Changsha [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou,Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Changsha
+
+吮 "suck", 
+
+Taiyuan <-> Wuhan [1]
+Taiyuan
+Wuhan
+
+根子 "root"*, 
+
+Taiyuan <-> Fuzhou [1]
+Taiyuan
+Fuzhou
+
+奶奶 "breasts"*, 
+
+Taiyuan <-> edge.2 [1]
+Taiyuan
+Fuzhou,Taibei,Xiamen,Zhanping
+
+奶 "breasts"*, 
+
+Taiyuan <-> edge.9 [1]
+Taiyuan
+Anyi,Nanchang
+
+奶 "breasts"*, 
+
+Taiyuan <-> Changsha [1]
+Taiyuan
+Changsha
+
+森林 "woods", 
+
+Taiyuan <-> Suzhou [1]
+Taiyuan
+Suzhou
+
+森林 "woods", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Nanchang <-> edge.15 [1]
+Nanchang
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+冻 "freeze", 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> edge.2 [1]
+Yuci
+Fuzhou,Taibei,Xiamen,Zhanping
+
+月 "moon"+, 
+
+Yuci <-> Fuzhou [1]
+Yuci
+Fuzhou
+
+棍棍 "stick", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> edge.20 [1]
+Yuci
+Wenzhou,Ningbo,Shanghai,Shanghai_B,Suzhou,Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+鼻头 "nose"+, 
+
+Suzhou <-> edge.4 [1]
+Suzhou
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian
+
+拖 "pull", 
+
+Fuzhou <-> edge.16 [1]
+Fuzhou
+Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+浮 "float", 
+
+Fuzhou <-> edge.6 [1]
+Fuzhou
+Shanghai,Shanghai_B
+
+浮 "float", 
+
+Fuzhou <-> edge.10 [1]
+Fuzhou
+Changsha,Shuangfeng
+
+清 "cold"*, 
+
+Fuzhou <-> Anyi [1]
+Fuzhou
+Anyi
+
+畜牲 "animal", 
+
+Shuangfeng <-> edge.6 [1]
+Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Shuangfeng <-> Guangzhou [1]
+Shuangfeng
+Guangzhou
+
+雪 "ice", 
+
+edge.9 <-> Guangzhou [1]
+Anyi,Nanchang
+Guangzhou
+
+颈 "neck"*, 
+
+edge.16 <-> Guangzhou [1]
+Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Guangzhou
+
+妈妈 "mother", 
+
+edge.16 <-> edge.7 [1]
+Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Shanghai,Shanghai_B,Suzhou
+
+星星 "star"*, 
+
+edge.1 <-> edge.12 [1]
+Taibei,Xiamen,Zhanping
+Taiyuan,Yuci
+
+两 "two"+, 
+
+edge.12 <-> Changsha [1]
+Taiyuan,Yuci
+Changsha
+
+男的 "man"*, 
+
+edge.4 <-> edge.18 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+在 "in", 
+
+edge.4 <-> edge.14 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian
+Beijing,Taiyuan,Yuci,Ningxia
+
+果子 "fruit", 
+
+edge.4 <-> edge.15 [1]
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+舌 "tongue"+, 
+
+edge.15 <-> Lianchang [1]
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Lianchang
+
+这 "this"+, 
+
+edge.15 <-> Guangzhou [1]
+Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+Guangzhou
+
+嘴 "mouth"*, 
+
+Beijing <-> Lianchang [1]
+Beijing
+Lianchang
+
+嘬 "suck", 
+
+Beijing <-> Meixian [1]
+Beijing
+Meixian
+
+爷们儿 "man"*, 
+
+Beijing <-> Zhanping [1]
+Beijing
+Zhanping
+
+娘 "mother", 
+
+Lianchang <-> edge.17 [1]
+Lianchang
+Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+凌冰 "ice", 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Lianchang <-> edge.0 [1]
+Lianchang
+Xiamen,Zhanping
+
+无 "not"*, 
+
+Lianchang <-> edge.18 [1]
+Lianchang
+Anyi,Nanchang,Changsha,Shuangfeng,Wuhan,Yingshan,Chengdu,Beijing,Taiyuan,Yuci,Ningxia
+
+撕 "split", 
+
+Ningbo <-> Chengdu [1]
+Ningbo
+Chengdu
+
+女 "woman"*, 
+
+edge.6 <-> Meixian [1]
+Shanghai,Shanghai_B
+Meixian
+
+肚屎 "belly"*, 
+
+edge.6 <-> edge.2 [1]
+Shanghai,Shanghai_B
+Fuzhou,Taibei,Xiamen,Zhanping
+
+伊 "he", 
+
+edge.6 <-> edge.14 [1]
+Shanghai,Shanghai_B
+Beijing,Taiyuan,Yuci,Ningxia
+
+女人 "woman"*, 
+
+edge.6 <-> Yingshan [1]
+Shanghai,Shanghai_B
+Yingshan
+
+看到 "see"*, 
+
+Guangzhou <-> Zhanping [1]
+Guangzhou
+Zhanping
+
+耳仔 "ear"+, 
+
+Guangzhou <-> edge.14 [1]
+Guangzhou
+Beijing,Taiyuan,Yuci,Ningxia
+
+女人 "woman"*, 
+
+Guangzhou <-> edge.0 [1]
+Guangzhou
+Xiamen,Zhanping
+
+头壳 "head"*, 
+
+Chengdu <-> edge.5 [1]
+Chengdu
+Fuzhou,Taibei,Xiamen,Zhanping,Lianchang,Meixian,Guangzhou
+
+尾 "tail"+, 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Xiamen,Zhanping
+Meixian
+
+烧 "hot"*, 
+
+edge.0 <-> Anyi [1]
+Xiamen,Zhanping
+Anyi
+
+寒 "cold"*, 
+
+Anyi <-> Yingshan [1]
+Anyi
+Yingshan
+
+手-双 "push", 
+
+Meixian <-> Yingshan [1]
+Meixian
+Yingshan
+
+戆 "dull", 
+
+Meixian <-> edge.10 [1]
+Meixian
+Changsha,Shuangfeng
+
+星子 "star"*, 
+
+Zhanping <-> Changsha [1]
+Zhanping
+Changsha
+
+奶子 "breasts"*, 
+
+Zhanping <-> edge.10 [1]
+Zhanping
+Changsha,Shuangfeng
+
+舌子 "tongue"+, 
+
+random
+-------
+
+Taiyuan <-> Yuci [32]
+Taiyuan
+Yuci
+
+蛮 "throw", 黑夜 "night"*, 女人 "woman"*, 爪爪 "claw"*, 圪膝盖 "knee"*, 砍 "throw", 荷 "hold-take", 娃娃 "child", [害]怕 "fear", 甚 "what"+, 星宿 "star"*, 给* "throw", 咋[底] "how", [小]娃娃 "child", 俺们 "we"*, 兀里 "there", 睡觉 "sleep"*, 耍水 "swim"*, 耍 "play", 男的 "man"*, 脊背 "back", 冰[凌] "ice", 谁们 "who"+, 阳婆 "sun"+, 咋 "how", 转转 "turn", [害]怕 "fear", 狗[儿] "dog"+, 兀个 "that"*, 日脏 "dirty", 冰[凌] "ice", [咸]盐 "salt"+, 
+
+Wuhan <-> Yingshan [16]
+Wuhan
+Yingshan
+
+男的 "husband", [小]伢 "child", 胯子 "leg", 女的 "wife", 狗子 "dog"+, 苕 "dull", 拐* "bad", 把 "give"+, 男将 "man"*, 之* "rub", 玩 "play", 子] "head"*, 么事 "what"+, 耳冻* "ear"+, 女将 "woman"*, 搌 "rub", 
+
+Taibei <-> edge.5 [14]
+Taibei
+Chengdu,Zhanping,Ningbo,Xiamen
+
+爪 "claw"*, 头毛 "hair"*, 青 "green"*, 涂粉 "dust", 骹腿 "leg", 拍猎 "hunt", 喘气 "breathe", gun53? "we"*, ba7 "flesh"*, 查某 "woman"*, 舌 "tongue"+, 翁 "husband", 甲* "and", 流疡 "dirty", 
+
+edge.7 <-> edge.5 [13]
+Fuzhou,Taibei
+Chengdu,Zhanping,Ningbo,Xiamen
+
+唐*夫农 "man"*, 治 "kill"*, 汝 "you"+, 滇 "full"+, 索 "rope", 啡 "spit", 焦 "dry"*, 喙 "mouth"*, 骹 "foot"*, 耳 "ear"+, 拍 "hit", 虱母 "louse"+, 侪 "many"*, 
+
+Lianchang <-> Meixian [11]
+Lianchang
+Meixian
+
+青 "green"*, 奶姑* "breasts"*, 食 "drink"*, 算 "count", 膝头 "knee"*, 尘灰 "dust", 佢 "he", 嫽 "play", 分 "give"+, 知得 "know"+, 虱妈 "louse"+, 
+
+Guangzhou <-> Meixian [11]
+Guangzhou
+Meixian
+
+热头 "sun"+, 生果 "fruit", 名 "name"+, 生 "live(alive)", 利 "sharp", 掰 "split", 惊 "fear", 膝头 "knee"*, 喺 "in", 唔 "not"*, 嘬 "breathe", 
+
+edge.16 <-> Chengdu [9]
+Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci
+Chengdu
+
+妈 "mother", 这个 "this"+, 冻 "freeze", 睡 "sleep"*, 这里 "here", 睡 "lie"*, 给 "give"+, 那个 "that"*, 他们 "they", 
+
+Wuhan <-> edge.20 [9]
+Wuhan
+Changsha,Guangzhou,Nanchang,Shuangfeng
+
+背心 "back", 青 "black"*, 索子 "rope", 拐* "bad", 嗍 "breathe", 把 "give"+, 玩 "play", 子] "head"*, 剁 "cut", 
+
+Ningbo <-> edge.0 [9]
+Ningbo
+Shanghai,Shanghai_B
+
+肚肠 "guts", 背脊 "back", 小人 "child", 嘬 "suck", 阿拉 "we"*, 棒头 "stick", 劈 "cut", 呼吸 "breathe", 假使 "if", 
+
+Taiyuan <-> Beijing [8]
+Taiyuan
+Beijing
+
+[尘]土 "dust", 妈妈 "mother", 脖子 "neck"*, [尘]土 "dust", 荤油 "grease"*, 和 "and", 荤油 "grease"*, 女人 "wife", 
+
+Ningxia <-> Taiyuan [7]
+Ningxia
+Taiyuan
+
+女人 "woman"*, 娃娃 "child", 脖子 "neck"*, 耍水 "swim"*, 荤油 "grease"*, 耍 "play", 咋 "how", 
+
+Taibei <-> Xiamen [6]
+Taibei
+Xiamen
+
+倒边 "leftside", 名 "name"+, tsiau51 "bird"*, 老父 "father", 老母 "mother", m33 ? "not"*, 
+
+Taibei <-> Zhanping [6]
+Taibei
+Zhanping
+
+工* "day", to44 ui33底位 "where", gong33? "dull", 知[到] "know"+, 食 "drink"*, 算 "count", 
+
+Fuzhou <-> Wenzhou [6]
+Fuzhou
+Wenzhou
+
+青 "black"*, 拔 "pull", 娄-刀 "dig", 吮 "suck", 男个 "man"*, 滥 "wet", 
+
+edge.20 <-> Meixian [6]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Meixian
+
+同 "and", 绑 "tie", 索子 "rope", 胛脊 "back", 星子 "star"*, 佢 "he", 
+
+Chengdu <-> Beijing [6]
+Chengdu
+Beijing
+
+那儿 "there", 妈妈 "mother", 脏 "dirty", 掉 "fall", 和 "and", 子] "head"*, 
+
+Ningxia <-> Chengdu [5]
+Ningxia
+Chengdu
+
+绑 "tie", 那 "that"*, 嘴 "mouth"*, 耍 "play", 天 "day", 
+
+edge.13 <-> edge.20 [5]
+Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan
+Changsha,Guangzhou,Nanchang,Shuangfeng
+
+灰 "dust", 哪個 "who"+, 联 "sew", 腌臢 "dirty", 话 "say"*, 
+
+Taibei <-> Guangzhou [5]
+Taibei
+Guangzhou
+
+爪 "claw"*, 名 "name"+, 知[到] "know"+, 翼 "wing", 老母 "mother", 
+
+Nanchang <-> Anyi [5]
+Nanchang
+Anyi
+
+女个 "woman"*, 虱 "louse"+, 男个 "man"*, 脚骨哩 "leg", 什哩 "what"+, 
+
+edge.16 <-> Changsha [5]
+Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci
+Changsha
+
+那里 "there", 鼻子 "nose"+, 女的 "woman"*, 那个 "that"*, 他们 "they", 
+
+edge.7 <-> edge.6 [5]
+Fuzhou,Taibei
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+
+伊 "he", 惊 "fear", 睏 "sleep"*, 缚 "tie", 倒 "lie"*, 
+
+Chengdu <-> Yingshan [5]
+Chengdu
+Yingshan
+
+男的 "husband", 女的 "wife", 掉 "fall", 那 "that"*, 天 "day", 
+
+Wenzhou <-> Anyi [5]
+Wenzhou
+Anyi
+
+女个 "woman"*, 雾露 "fog", 嗅 "smell", 男个 "man"*, 许个 "that"*, 
+
+Meixian <-> Zhanping [5]
+Meixian
+Zhanping
+
+阿爸 "father", 索子 "rope", 食 "drink"*, 算 "count", 分 "give"+, 
+
+Fuzhou <-> edge.5 [4]
+Fuzhou
+Chengdu,Zhanping,Ningbo,Xiamen
+
+伓 "not"*, 月 "moon"+, 相拍 "fight", 啜 "drink"*, 
+
+Fuzhou <-> Guangzhou [4]
+Fuzhou
+Guangzhou
+
+弊 "bad", 掰 "split", 骨 "bone"+, 冻 "cold"*, 
+
+Wuhan <-> Chengdu [4]
+Wuhan
+Chengdu
+
+妈妈 "mother", 和 "and", 干燥 "dry"*, 子] "head"*, 
+
+Wuhan <-> Guangzhou [4]
+Wuhan
+Guangzhou
+
+夜晚 "night"*, 妈妈 "mother", 扯 "pull", 游水 "swim"*, 
+
+edge.6 <-> Guangzhou [4]
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+Guangzhou
+
+阿爸 "father", 骨 "bone"+, 惊 "fear", 翼 "wing", 
+
+Shanghai <-> Lianchang [3]
+Shanghai
+Lianchang
+
+吓 "fear", 左 "leftside", 右 "rightside", 
+
+Ningxia <-> Meixian [3]
+Ningxia
+Meixian
+
+绑 "tie", 胛脊 "back", 舌 "tongue"+, 
+
+Ningxia <-> Guangzhou [3]
+Ningxia
+Guangzhou
+
+女人 "woman"*, 嘴 "mouth"*, 冻 "cold"*, 
+
+root <-> Anyi [3]
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen,Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci,Changsha,Guangzhou,Nanchang,Shuangfeng
+Anyi
+
+吃 "drink"*, 睏 "lie"*, 左边 "leftside", 
+
+Taiyuan <-> Nanchang [3]
+Taiyuan
+Nanchang
+
+冰[凌] "ice", 谁们 "who"+, 冰[凌] "ice", 
+
+Nanchang <-> Meixian [3]
+Nanchang
+Meixian
+
+细人子 "child", 算 "count", []tsak5 "squeeze", 
+
+Suzhou <-> Guangzhou [3]
+Suzhou
+Guangzhou
+
+如果 "if", 女人 "wife", 游水 "swim"*, 
+
+Suzhou <-> Meixian [3]
+Suzhou
+Meixian
+
+搭 "and", 点 "count", e31个 "this"+, 
+
+Suzhou <-> Ningbo [3]
+Suzhou
+Ningbo
+
+搭 "and", 肚皮 "belly"*, 嘞 "in", 
+
+Fuzhou <-> edge.20 [3]
+Fuzhou
+Changsha,Guangzhou,Nanchang,Shuangfeng
+
+青 "black"*, 清 "cold"*, 嗍 "breathe", 
+
+Fuzhou <-> Zhanping [3]
+Fuzhou
+Zhanping
+
+目 "eye"+, 底农 "who"+, 农 "person"*, 
+
+Fuzhou <-> Xiamen [3]
+Fuzhou
+Xiamen
+
+石 "stone"+, 丈夫 "husband", 雨-矛 "fog", 
+
+Wuhan <-> Shuangfeng [3]
+Wuhan
+Shuangfeng
+
+呵 "drink"*, 耳冻* "ear"+, 呵 "breathe", 
+
+Wuhan <-> Changsha [3]
+Wuhan
+Changsha
+
+篼子 "root"*, 男的 "man"*, 凌[冰] "ice", 
+
+Ningbo <-> Anyi [3]
+Ningbo
+Anyi
+
+畜牲 "animal", 嘞 "in", 嗅 "smell", 
+
+Ningbo <-> Changsha [3]
+Ningbo
+Changsha
+
+天空 "sky", 漂浮 "float", 腐烂 "rotten", 
+
+Lianchang <-> Guangzhou [3]
+Lianchang
+Guangzhou
+
+叶 "leaf"*, 索 "rope", 捽 "rub", 
+
+Lianchang <-> edge.5 [3]
+Lianchang
+Chengdu,Zhanping,Ningbo,Xiamen
+
+索 "rope", 喙 "mouth"*, 无 "not"*, 
+
+Wenzhou <-> Beijing [3]
+Wenzhou
+Beijing
+
+是 "in", 鸟儿 "bird"*, 佢 "he", 
+
+Shanghai <-> root [2]
+Shanghai
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen,Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci,Changsha,Guangzhou,Nanchang,Shuangfeng
+
+和 "and", 沙子 "sand"*, 
+
+edge.19 <-> Anyi [2]
+Nanchang,Shuangfeng
+Anyi
+
+嗅 "smell", 睏觉 "sleep"*, 
+
+edge.19 <-> Zhanping [2]
+Nanchang,Shuangfeng
+Zhanping
+
+搡 "push", 鼻公 "nose"+, 
+
+Ningxia <-> Shuangfeng [2]
+Ningxia
+Shuangfeng
+
+他哩 "they", 耍 "play", 
+
+Ningxia <-> edge.0 [2]
+Ningxia
+Shanghai,Shanghai_B
+
+女人 "woman"*, 绑 "tie", 
+
+Taibei <-> Lianchang [2]
+Taibei
+Lianchang
+
+siu13泅 "swim"*, 合 "and", 
+
+Taibei <-> Meixian [2]
+Taibei
+Meixian
+
+青 "green"*, 舌 "tongue"+, 
+
+root <-> Wuhan [2]
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen,Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci,Changsha,Guangzhou,Nanchang,Shuangfeng
+Wuhan
+
+男人 "husband", 姆妈 "mother", 
+
+Taiyuan <-> Wuhan [2]
+Taiyuan
+Wuhan
+
+男的 "man"*, 根子 "root"*, 
+
+Nanchang <-> Xiamen [2]
+Nanchang
+Xiamen
+
+奶 "breasts"*, 籽 "seed"*, 
+
+Nanchang <-> Chengdu [2]
+Nanchang
+Chengdu
+
+冻 "freeze", 给 "give"+, 
+
+Yuci <-> Fuzhou [2]
+Yuci
+Fuzhou
+
+月 "moon"+, 棍棍 "stick", 
+
+Suzhou <-> Fuzhou [2]
+Suzhou
+Fuzhou
+
+奴 "i"+, 塕尘 "dust", 
+
+Fuzhou <-> Meixian [2]
+Fuzhou
+Meixian
+
+泅水 "swim"*, 吮 "suck", 
+
+Fuzhou <-> Ningbo [2]
+Fuzhou
+Ningbo
+
+ke5? "this"+, 畜牲 "animal", 
+
+Fuzhou <-> edge.6 [2]
+Fuzhou
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+
+泅水 "swim"*, 皮肤 "skin"*, 
+
+edge.7 <-> Lianchang [2]
+Fuzhou,Taibei
+Lianchang
+
+着 "in", 拭 "rub", 
+
+edge.7 <-> Xiamen [2]
+Fuzhou,Taibei
+Xiamen
+
+箬 "leaf"*, 拭 "rub", 
+
+Lianchang <-> edge.0 [2]
+Lianchang
+Shanghai,Shanghai_B
+
+背脊 "back", 嘬 "suck", 
+
+edge.20 <-> Yingshan [2]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Yingshan
+
+下 "all"*, 堂客 "wife", 
+
+edge.20 <-> Anyi [2]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Anyi
+
+颈 "neck"*, 爹爹 "father", 
+
+Guangzhou <-> edge.5 [2]
+Guangzhou
+Chengdu,Zhanping,Ningbo,Xiamen
+
+头壳 "head"*, 虱母 "louse"+, 
+
+Guangzhou <-> Zhanping [2]
+Guangzhou
+Zhanping
+
+种 "seed"*, 耳仔 "ear"+, 
+
+Guangzhou <-> Wenzhou [2]
+Guangzhou
+Wenzhou
+
+肚 "belly"*, 叶 "leaf"*, 
+
+Guangzhou <-> Anyi [2]
+Guangzhou
+Anyi
+
+矺 "squeeze", 同到 "and", 
+
+Xiamen <-> Wenzhou [2]
+Xiamen
+Wenzhou
+
+拙 "dull", 呆 "dull", 
+
+Xiamen <-> Changsha [2]
+Xiamen
+Changsha
+
+女的 "woman"*, 落 "fall", 
+
+Chengdu <-> edge.11 [2]
+Chengdu
+Ningxia,Wuhan
+
+脏 "dirty", 掉 "fall", 
+
+Wenzhou <-> Yingshan [2]
+Wenzhou
+Yingshan
+
+为 "because", 是 "correct", 
+
+edge.5 <-> Meixian [2]
+Chengdu,Zhanping,Ningbo,Xiamen
+Meixian
+
+啡 "spit", 烧 "hot"*, 
+
+Zhanping <-> edge.14 [2]
+Zhanping
+Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan
+
+搡 "push", 种 "seed"*, 
+
+Yingshan <-> Beijing [2]
+Yingshan
+Beijing
+
+男的 "man"*, 长虫 "snake", 
+
+edge.2 <-> Guangzhou [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Guangzhou
+
+绳 "rope", 
+
+edge.2 <-> Meixian [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Meixian
+
+相打 "fight", 
+
+edge.2 <-> Yuci [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Yuci
+
+鼻头 "nose"+, 
+
+edge.2 <-> edge.10 [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Anyi,Meixian,Yingshan
+
+脚爪 "claw"*, 
+
+edge.2 <-> Taiyuan [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Taiyuan
+
+左面 "leftside", 
+
+edge.2 <-> Anyi [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Anyi
+
+睏觉 "sleep"*, 
+
+edge.2 <-> Ningxia [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B
+Ningxia
+
+啥 "what"+, 
+
+Shanghai <-> Guangzhou [1]
+Shanghai
+Guangzhou
+
+揦 "scratch", 
+
+Shanghai <-> Wuhan [1]
+Shanghai
+Wuhan
+
+丢 "throw", 
+
+Shanghai <-> Nanchang [1]
+Shanghai
+Nanchang
+
+奶 "breasts"*, 
+
+Shanghai <-> edge.14 [1]
+Shanghai
+Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan
+
+奶 "breasts"*, 
+
+edge.19 <-> edge.0 [1]
+Nanchang,Shuangfeng
+Shanghai,Shanghai_B
+
+我哩 "we"*, 
+
+Ningxia <-> Fuzhou [1]
+Ningxia
+Fuzhou
+
+畜牲 "animal", 
+
+Ningxia <-> edge.17 [1]
+Ningxia
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen,Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci
+
+牙 "tooth"+, 
+
+Ningxia <-> Yuci [1]
+Ningxia
+Yuci
+
+打山 "hunt", 
+
+Ningxia <-> Zhanping [1]
+Ningxia
+Zhanping
+
+奶子 "breasts"*, 
+
+Ningxia <-> Changsha [1]
+Ningxia
+Changsha
+
+奶子 "breasts"*, 
+
+Ningxia <-> edge.6 [1]
+Ningxia
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+
+活的 "live(alive)", 
+
+Ningxia <-> edge.4 [1]
+Ningxia
+Ningbo,Xiamen
+
+咋 "how", 
+
+Ningxia <-> Wenzhou [1]
+Ningxia
+Wenzhou
+
+棒 "stick", 
+
+Ningxia <-> Beijing [1]
+Ningxia
+Beijing
+
+爹 "father", 
+
+Ningxia <-> edge.5 [1]
+Ningxia
+Chengdu,Zhanping,Ningbo,Xiamen
+
+老的 "old", 
+
+edge.13 <-> Changsha [1]
+Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan
+Changsha
+
+凌冰 "ice", 
+
+edge.13 <-> Zhanping [1]
+Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan
+Zhanping
+
+鼻公 "nose"+, 
+
+Taibei <-> Ningbo [1]
+Taibei
+Ningbo
+
+脚*棵*头 "knee"*, 
+
+Taibei <-> Wenzhou [1]
+Taibei
+Wenzhou
+
+老人客 "wife", 
+
+Taiyuan <-> Guangzhou [1]
+Taiyuan
+Guangzhou
+
+女人 "wife", 
+
+Taiyuan <-> Chengdu [1]
+Taiyuan
+Chengdu
+
+森林 "woods", 
+
+Taiyuan <-> Suzhou [1]
+Taiyuan
+Suzhou
+
+森林 "woods", 
+
+Nanchang <-> Beijing [1]
+Nanchang
+Beijing
+
+木 "dull", 
+
+Nanchang <-> Yingshan [1]
+Nanchang
+Yingshan
+
+手-宣 "push", 
+
+Yuci <-> Guangzhou [1]
+Yuci
+Guangzhou
+
+肚 "belly"*, 
+
+Yuci <-> Wuhan [1]
+Yuci
+Wuhan
+
+抠 "scratch", 
+
+Yuci <-> Ningbo [1]
+Yuci
+Ningbo
+
+奶头 "breasts"*, 
+
+Yuci <-> edge.0 [1]
+Yuci
+Shanghai,Shanghai_B
+
+肚肠 "guts", 
+
+Suzhou <-> Wuhan [1]
+Suzhou
+Wuhan
+
+背心 "back", 
+
+Fuzhou <-> Wuhan [1]
+Fuzhou
+Wuhan
+
+皮肤 "skin"*, 
+
+edge.9 <-> edge.6 [1]
+Meixian,Yingshan
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+
+戆 "dull", 
+
+edge.9 <-> edge.20 [1]
+Meixian,Yingshan
+Changsha,Guangzhou,Nanchang,Shuangfeng
+
+嗍 "breathe", 
+
+edge.16 <-> Guangzhou [1]
+Taiyuan,Fuzhou,Taibei,Anyi,Meixian,Yingshan,Lianchang,Ningxia,Wuhan,Beijing,Yuci
+Guangzhou
+
+嘴 "mouth"*, 
+
+edge.7 <-> Chengdu [1]
+Fuzhou,Taibei
+Chengdu
+
+鼻 "nose"+, 
+
+edge.7 <-> Wenzhou [1]
+Fuzhou,Taibei
+Wenzhou
+
+剉 "cut", 
+
+edge.7 <-> Changsha [1]
+Fuzhou,Taibei
+Changsha
+
+睏 "sleep"*, 
+
+edge.1 <-> Meixian [1]
+Wenzhou,Shanghai,Shanghai_B
+Meixian
+
+戳 "stab", 
+
+Wuhan <-> Wenzhou [1]
+Wuhan
+Wenzhou
+
+剁 "cut", 
+
+edge.12 <-> Chengdu [1]
+Lianchang,Ningxia,Wuhan
+Chengdu
+
+这 "this"+, 
+
+Ningbo <-> Guangzhou [1]
+Ningbo
+Guangzhou
+
+阿妈 "mother", 
+
+Ningbo <-> Meixian [1]
+Ningbo
+Meixian
+
+戳 "stab", 
+
+Ningbo <-> Wenzhou [1]
+Ningbo
+Wenzhou
+
+忖 "think", 
+
+edge.18 <-> Meixian [1]
+Changsha,Guangzhou
+Meixian
+
+吮 "suck", 
+
+Lianchang <-> edge.6 [1]
+Lianchang
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+
+燥 "dry"*, 
+
+Lianchang <-> Zhanping [1]
+Lianchang
+Zhanping
+
+天星 "star"*, 
+
+Lianchang <-> Yingshan [1]
+Lianchang
+Yingshan
+
+地下 "earth"*, 
+
+Shuangfeng <-> Meixian [1]
+Shuangfeng
+Meixian
+
+虫子 "worm", 
+
+Shuangfeng <-> edge.10 [1]
+Shuangfeng
+Anyi,Meixian,Yingshan
+
+火曹 "dry"*, 
+
+Shuangfeng <-> Wenzhou [1]
+Shuangfeng
+Wenzhou
+
+榨 "squeeze", 
+
+Shuangfeng <-> Yingshan [1]
+Shuangfeng
+Yingshan
+
+是 "correct", 
+
+edge.20 <-> Chengdu [1]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Chengdu
+
+哪個 "who"+, 
+
+edge.20 <-> Zhanping [1]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Zhanping
+
+舌子 "tongue"+, 
+
+edge.20 <-> edge.10 [1]
+Changsha,Guangzhou,Nanchang,Shuangfeng
+Anyi,Meixian,Yingshan
+
+蠢 "dull", 
+
+edge.6 <-> Anyi [1]
+Suzhou,Wenzhou,Shanghai,Shanghai_B,Chengdu,Zhanping,Ningbo,Xiamen
+Anyi
+
+虱 "louse"+, 
+
+Guangzhou <-> Xiamen [1]
+Guangzhou
+Xiamen
+
+斬 "cut", 
+
+Guangzhou <-> Chengdu [1]
+Guangzhou
+Chengdu
+
+雀 "bird"*, 
+
+Xiamen <-> Meixian [1]
+Xiamen
+Meixian
+
+胛脊 "back", 
+
+Xiamen <-> Yingshan [1]
+Xiamen
+Yingshan
+
+正手边 "rightside", 
+
+Xiamen <-> edge.10 [1]
+Xiamen
+Anyi,Meixian,Yingshan
+
+斬 "cut", 
+
+Xiamen <-> Anyi [1]
+Xiamen
+Anyi
+
+落 "fall", 
+
+Chengdu <-> Changsha [1]
+Chengdu
+Changsha
+
+森林 "woods", 
+
+Wenzhou <-> Zhanping [1]
+Wenzhou
+Zhanping
+
+若 "if", 
+
+Wenzhou <-> Changsha [1]
+Wenzhou
+Changsha
+
+地下 "earth"*, 
+
+edge.0 <-> Meixian [1]
+Shanghai,Shanghai_B
+Meixian
+
+肚屎 "belly"*, 
+
+edge.0 <-> Yingshan [1]
+Shanghai,Shanghai_B
+Yingshan
+
+看到 "see"*, 
+
+edge.0 <-> Anyi [1]
+Shanghai,Shanghai_B
+Anyi
+
+落 "fall", 
+
+edge.0 <-> Beijing [1]
+Shanghai,Shanghai_B
+Beijing
+
+嘬 "suck", 
+
+Anyi <-> edge.5 [1]
+Anyi
+Chengdu,Zhanping,Ningbo,Xiamen
+
+寒 "cold"*, 
+
+Meixian <-> Beijing [1]
+Meixian
+Beijing
+
+爷们儿 "man"*, 
+

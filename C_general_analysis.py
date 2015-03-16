@@ -198,7 +198,7 @@ if 'full' in argv:
                 figsize = (12,8),
                 labels = taxa_labels,
                 degree = 180,
-                filename='Supplementary_Material/reference_'+tree,
+                filename='plots/reference_'+tree,
                 usetex=True,
                 fileformat="pdf",
                 latex_preamble = preamble
@@ -207,4 +207,4 @@ if 'full' in argv:
 # export data to html
 if 'export' in argv:
     wl = Wordlist('wordlists/chinese.tsv')
-    wl.export('html', filename='Supplementary_Material/Supplementary_Material_II')
+    wl.export('html', filename='Supplementary_Material_II')

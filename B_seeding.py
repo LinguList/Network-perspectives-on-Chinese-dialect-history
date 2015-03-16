@@ -1,13 +1,13 @@
 # author   : Johann-Mattis List
 # email    : mattis.list@uni-marburg.de
 # created  : 2014-02-07 18:09
-# modified : 2015-03-15 15:51
+# modified : 2015-03-16 13:02
 """
 Compute seeding analyses and compare how well the algorithm detects the seeds.
 """
 
 __author__="Johann-Mattis List"
-__date__="2015-03-15"
+__date__="2015-03-16"
 
 from lib.seeding import *
 from lingpy import *
@@ -62,7 +62,7 @@ res = []
 for i in range(len(results[0])):
     res += [sum([x[i] for x in results]) / runs]
 
-with open('results/B_seeding_basic'+'_'+str(tax)+'.txt', 'a') as f:
+with open('results/B_seeding_basic'+'_'+str(tax)+'.tsv', 'a') as f:
     f.write('{0}\t{1:.2f}\t{2:.2f}\t{3:.2f}\t{4:.2f}\n'.format(name, res[0],
         res[1], res[2], res[3]))
  

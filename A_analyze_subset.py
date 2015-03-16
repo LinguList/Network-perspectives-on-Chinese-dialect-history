@@ -38,18 +38,18 @@ phy.analyze(homoplasy=0.0)
 
 # set the taxon labels for nicer formatting with pinyin in output
 taxa_labels = dict(
-        Beijing    = "Běijīng",
-        Changsha   = "Chángshà",
-        Chengdu    = "Chéngdū",
-        Fuzhou     = "Fùzhōu",
-        Meixian    = "Měixiàn",
-        Nanchang   = "Nánchàng",
-        Shanghai   = "Shànghǎi",
-        Taibei     = "Táiběi",
-        Wenzhou    = "Wénzhōu",
-        Xiamen     = "Xiàmén",
-        Xianggang  = 'Hongkong',
-        Pingyao    = 'Píngyáo',
+        Beijing    = "Běijīng [MD]",
+        Changsha   = "Chángshà [X]",
+        Chengdu    = "Chéngdū [MD]",
+        Fuzhou     = "Fùzhōu [M]",
+        Meixian    = "Měixiàn [H]",
+        Nanchang   = "Nánchàng [G]",
+        Shanghai   = "Shànghǎi [W]",
+        Taibei     = "Táiběi [M]",
+        Wenzhou    = "Wénzhōu [W]",
+        Xiamen     = "Xiàmén [M]",
+        Xianggang  = 'Hongkong [Y]',
+        Pingyao    = 'Píngyáo [MD]',
         )
 
 phy.plot_MLN(phy.best_model, filename='plots/A_chinese_subset', labels=taxa_labels,

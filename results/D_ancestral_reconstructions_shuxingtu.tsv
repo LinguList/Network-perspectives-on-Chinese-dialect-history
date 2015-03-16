@@ -1,0 +1,220 @@
+# Incorrectly identified items
+Concept	Hypothesis	Gold Standard
+if	如果	若
+in	是	在
+in	着	在
+in	嘞	在
+dry	干	燥
+leftside	左边	左
+leftside	左面	左
+leg	腿	脚
+live(alive)	活的	生
+live(alive)	活	生
+ear	耳朵	耳
+narrow	窄	狭
+old	老的	老
+ear	耳仔	耳
+push	搡	推
+rightside	正手边	右
+rightside	右边	右
+correct	着	是
+correct	对	是
+rope	索子	索, 绳
+earth	地下	地
+rope	绳子	索, 绳
+rub	揩	拭
+rub	擦	拭
+eat	吃	食
+sky	天空	天
+smell	鼻	嗅
+smell	闻	嗅
+spit	啡	吐
+egg	蛋	卵
+squeeze	榨	压
+stab	戳	刺
+eye	眼睛	目
+suck	嘬	吸
+suck	吮	吸
+eye	眼	目
+eye	目珠	目
+vomit	呕	吐
+wing	翅膀	翼
+green	青	绿
+hot	烧	热
+leaf	叶子	叶
+louse	虱母	虱
+man	男的	男
+man	男个	男
+moon	月光	月
+moon	月亮	月
+name	名子	名
+bird	鸟儿	鸟, 禽
+night	夜里	夜, 夕
+nose	鼻公	鼻
+nose	鼻头	鼻
+not	无	不, 弗
+sand	沙子	沙
+seed	种子	种
+seed	籽	种
+bite	咬	啮
+skin	皮肤	肤, 皮
+black	乌	黑
+stand	企	立
+star	天星	星
+star	星星	星
+black	青	黑
+stone	石头	石
+sun	热头	日
+sun	太阳	日
+tail	尾報	尾
+bone	骨頭	骨
+this	e31个	此, 是
+tongue	舌子	舌
+tongue	舌頭	舌
+tooth	牙齿	牙, 齿
+tree	树	木
+two	两	二
+walk	走	行
+woman	女人	女
+woman	女个	女
+woman	女的	女
+back	背脊	背
+back	胛脊	背
+back	背心	背
+because	因为	以, 为
+blow	歕	吹
+count	点	数
+count	算	数
+claw	脚爪	爪
+day	日	天
+day	日子	天
+claw	爪仔	爪
+cloud	云彩	云
+cold	冻	寒
+cold	清	寒
+cold	冷	寒
+float	漂浮	漂, 浮
+fog	雾露	雾
+freeze	结凌	冻, 凝
+guts	肠子	肠
+guts	肚肠	肠
+
+# Correctly identified items
+Concept	Hypothesis	Gold Standard
+in	在	在
+lake	湖	湖
+leftside	左	左
+dry	燥	燥
+ear	耳	耳
+narrow	狭	狭
+near	近	近
+old	老	老
+push	推	推
+rightside	右	右
+correct	是	是
+earth	地	地
+river	江	江
+rope	索	索, 绳
+rope	绳	索, 绳
+rub	拭	拭
+salt	盐	盐
+sea	海	海
+sew	缝	缝
+eat	食	食
+short	短	短
+sky	天	天
+smell	嗅	嗅
+smooth	平	平
+snake	蛇	蛇
+snow	雪	雪
+spit	吐	吐
+egg	卵	卵
+squeeze	压	压
+stab	刺	刺
+straight	直	直
+suck	吸	吸
+swell	肿	肿
+thick	厚	厚
+thin	薄	薄
+three	三	三
+turn	转	转
+vomit	吐	吐
+wet	湿	湿
+fire	火	火
+fish	鱼	鱼
+flesh	肉	肉
+fly	飞	飞
+wind	风	风
+wing	翼	翼
+heavy	重	重
+year	年	岁, 年, 载
+ash	灰	灰
+green	绿	绿
+hand	手	手
+hear	听	听, 闻
+heart	心	心
+horn	角	角
+hot	热	热
+i	我	我, 吾, 余
+kill	杀	杀
+leaf	叶	叶
+liver	肝	肝
+long	长	长
+louse	虱	虱
+man	男	男
+many	多	多
+moon	月	月
+mountain	山	山
+big	大	大
+name	名	名
+new	新	新
+night	夜	夜, 夕
+nose	鼻	鼻
+not	不	不, 弗
+bird	鸟	鸟, 禽
+one	一	一
+path	路	道, 路
+person	人	人
+rain	雨	雨
+round	圆	圆
+sand	沙	沙
+seed	种	种
+sit	坐	坐
+skin	皮	肤, 皮
+smoke	烟	烟
+star	星	星
+black	黑	黑
+blood	血	血
+tail	尾	尾
+bone	骨	骨
+tongue	舌	舌
+tooth	牙	牙, 齿
+tooth	牙	牙, 齿
+two	二	二
+walk	行	行
+water	水	水
+white	白	白
+woman	女	女
+yellow	黄	黄
+you	尔	尔, 汝
+back	背	背
+because	为	以, 为
+blow	吹	吹
+count	数	数
+claw	爪	爪
+cloud	云	云
+fall	落	坠, 落
+far	远	远, 遥
+few	少	少
+cold	寒	寒
+five	五	五
+float	浮	漂, 浮
+float	浮	漂, 浮
+come	来	来
+flow	流	流
+flower	花	花
+die	死	死
+fog	雾	雾
+grass	草	草
+guts	肠	肠
+ice	冰	冰
