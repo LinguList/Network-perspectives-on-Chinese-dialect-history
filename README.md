@@ -1,9 +1,9 @@
 # Supplemental Material accompanying the paper "Network Perspectives on Chinese Dialect History"
 
-.. image:: https://zenodo.org/badge/5137/LinguList/NetworkPerspectivesOnChineseDialectHistory.svg   :target: http://dx.doi.org/10.5281/zenodo.16090
+[![DOI](https://zenodo.org/badge/5137/LinguList/NetworkPerspectivesOnChineseDialectHistory.svg)](http://dx.doi.org/10.5281/zenodo.16090)
 
-@author: [Johann-Mattis List](http://github.com/lingulist/)
-@date: 2015-03-16
+* *author:* [Johann-Mattis List](http://github.com/lingulist/)
+* *date:* 2015-03-16
 
 This repository offers the supplementary material accompanying the paper "Network Perspectives on Chinese Dialect History" to appear in the "Bulletin of Chinese Linguistics" (Brill, 2015). It consists of four parts:
 
