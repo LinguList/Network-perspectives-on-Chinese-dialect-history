@@ -1,5 +1,7 @@
 # Supplemental Material accompanying the paper "Network Perspectives on Chinese Dialect History"
 
+.. image:: https://zenodo.org/badge/5137/LinguList/NetworkPerspectivesOnChineseDialectHistory.svg   :target: http://dx.doi.org/10.5281/zenodo.16090
+
 @author: [Johann-Mattis List](http://github.com/lingulist/)
 @date: 2015-03-16
 
