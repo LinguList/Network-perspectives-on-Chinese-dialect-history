@@ -1,5 +1,5 @@
 # Wordlist
-@json: {"seeds": ["Nanchang,Yuci,Shanghai", "Fuzhou,Yingshan,Beijing"]}
+@json: {"seeds": ["Shanghai_B,Changsha,Lianchang", "Xiamen,Zhanping,Yingshan"]}
 
 # DATA
 ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
@@ -10,7 +10,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4	Nanchang	all	1	都	4	6	all	145	都	6	0
 5	Fuzhou	all	1	全部	5	5	all	145	全部	5	0
 6	Ningxia	all	1	全 、都	6	4	all	145	全	4	0
-7	Lianchang	all	1	一下	7	3	all	145	一下	3	0
+7	Lianchang	all	1	一下	7	3	all	145	一下	2	1
 8	Lianchang	all	1	全部[都是副词用法]	5	5	all	145	全部	5	0
 9	Ningbo	all	1	全部	5	5	all	145	全部	5	0
 10	Ningbo	all	1	合共	9	1	all	145	合共	1	0
@@ -29,8 +29,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 23	Taibei	all	1	tsuan13poo33全部；long53攏	5	5	all	145	全部	5	0
 24	Wuhan	all	1	全	6	4	all	145	全	4	0
 25	Taiyuan	all	1	全部	5	5	all	145	全部	5	0
-26	Yuci	all	1	都是	13	10	all	145	都是	2	1
-27	Changsha	all	1	下	8	2	all	145	下	2	0
+26	Yuci	all	1	都是	13	10	all	145	都是	10	0
+27	Changsha	all	1	下	8	2	all	145	下	5	1
 28	Shuangfeng	all	1	下	8	2	all	145	下	2	0
 #
 2595	Guangzhou	and	101	同[埋]	1	630	and	178	同	630	0
@@ -42,7 +42,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2601	Nanchang	and	101	同	1	630	and	178	同	630	0
 2602	Fuzhou	and	101	共	5	626	and	178	共	626	0
 2603	Ningxia	and	101	连	6	625	and	178	连	625	0
-2604	Lianchang	and	101	合	7	624	and	178	合	624	0
+2604	Lianchang	and	101	合	7	624	and	178	合	628	1
 2605	Ningbo	and	101	搭	2	629	and	178	搭	629	0
 2606	Yingshan	and	101	跟	3	628	and	178	和	628	0
 2607	Chengdu	and	101	和	4	627	and	178	和	627	0
@@ -94,7 +94,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 29	Guangzhou	ash	2	灰	0	17	ashes	260	灰	17	0
 30	Suzhou	ash	2	灰	0	17	ashes	260	灰	17	0
 31	Meixian	ash	2	灰	0	17	ashes	260	灰	17	0
-32	Nanchang	ash	2	灰	0	17	ashes	260	灰	16	1
+32	Nanchang	ash	2	灰	0	17	ashes	260	灰	17	0
 33	Fuzhou	ash	2	塕尘	2	16	ashes	260	塕尘	16	0
 34	Ningxia	ash	2	灰	0	17	ashes	260	灰	17	0
 35	Lianchang	ash	2	灰[指灰烬]	0	17	ashes	260	灰	17	0
@@ -140,7 +140,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2672	Wuhan	back	103	背[心]	0	651	back	326	背	651	0
 2673	Wuhan	back	103	背[心]	0a	652	back	326	背心	652	0
 2674	Taiyuan	back	103	脊背	e0	642	back	326	脊背	642	0
-2675	Yuci	back	103	脊背	e0	642	back	326	脊背	643	1
+2675	Yuci	back	103	脊背	e0	642	back	326	脊背	642	0
 2676	Changsha	back	103	背[心]	0	651	back	326	背	651	0
 2677	Changsha	back	103	背[心]	0a	652	back	326	背心	652	0
 2678	Shuangfeng	back	103	背[心]	0	651	back	326	背	651	0
@@ -177,7 +177,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2708	Taiyuan	bad	104	怀	1	663	bad	334	坏	663	0
 2709	Yuci	bad	104	赖	11	666	bad	334	赖	666	0
 2710	Yuci	bad	104	怀	1	663	bad	334	坏	663	0
-2711	Changsha	bad	104	坏	1	663	bad	334	坏	663	0
+2711	Changsha	bad	104	坏	1	663	bad	334	坏	656	1
 2712	Changsha	bad	104	拐*	2	662	bad	334	拐*	662	0
 2713	Shuangfeng	bad	104	坏	1	663	bad	334	坏	663	0
 2714	Shuangfeng	bad	104	拐*	2	662	bad	334	拐*	662	0
@@ -231,7 +231,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 76	Guangzhou	belly	4	肚	1	23	belly	472	肚	23	0
 77	Suzhou	belly	4	肚皮	1a	22	belly	472	肚皮	22	0
 78	Meixian	belly	4	肚屎	1b	21	belly	472	肚屎	21	0
-79	Nanchang	belly	4	肚子	1c	20	belly	472	肚子	26	1
+79	Nanchang	belly	4	肚子	1c	20	belly	472	肚子	20	0
 80	Fuzhou	belly	4	腹老	0d	26	belly	472	腹老	26	0
 81	Ningxia	belly	4	肚子	1c	20	belly	472	肚子	20	0
 82	Lianchang	belly	4	腹屎	0b	25	belly	472	腹屎	25	0
@@ -239,7 +239,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 84	Yingshan	belly	4	肚子	1c	20	belly	472	肚子	20	0
 85	Chengdu	belly	4	肚子	1c	20	belly	472	肚子	20	0
 86	Zhanping	belly	4	腹肚	{01}	27	belly	472	腹肚	27	0
-87	Shanghai	belly	4	肚皮	1b	21	belly	472	肚屎	20	1
+87	Shanghai	belly	4	肚皮	1b	21	belly	472	肚屎	21	0
 88	Shanghai_B	belly	4	肚皮	1b	21	belly	472	肚屎	21	0
 89	Xiamen	belly	4	腹肚	{01}	27	belly	472	腹肚	27	0
 90	Anyi	belly	4	肚哩	1e	19	belly	472	肚哩	19	0
@@ -250,7 +250,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 95	Wuhan	belly	4	肚子	1c	20	belly	472	肚子	20	0
 96	Taiyuan	belly	4	肚子	1c	20	belly	472	肚子	20	0
 97	Yuci	belly	4	肚	1	23	belly	472	肚	23	0
-98	Changsha	belly	4	肚子	1c	20	belly	472	肚子	20	0
+98	Changsha	belly	4	肚子	1c	20	belly	472	肚子	27	1
 99	Shuangfeng	belly	4	肚子	1c	20	belly	472	肚子	20	0
 #
 100	Guangzhou	big	5	大	0	30	big	514	大	30	0
@@ -266,7 +266,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 110	Chengdu	big	5	大	0	30	big	514	大	30	0
 111	Zhanping	big	5	大	0	30	big	514	大	30	0
 112	Shanghai	big	5	du	1	29	big	514	du	29	0
-113	Shanghai_B	big	5	du	1	29	big	514	du	29	0
+113	Shanghai_B	big	5	du	1	29	big	514	du	30	1
 114	Xiamen	big	5	大	0	30	big	514	大	30	0
 115	Anyi	big	5	大	0	30	big	514	大	30	0
 116	Beijing	big	5	大	0	30	big	514	大	30	0
@@ -286,12 +286,12 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 129	Nanchang	bird	6	鸟	1	36	bird	527	鸟	36	0
 130	Fuzhou	bird	6	鸟	1	36	bird	527	鸟	36	0
 131	Ningxia	bird	6	鸟、雀	1	36	bird	527	鸟	36	0
-132	Lianchang	bird	6	鸟	1	36	bird	527	鸟	36	0
+132	Lianchang	bird	6	鸟	1	36	bird	527	鸟	37	1
 133	Ningbo	bird	6	鸟	1	36	bird	527	鸟	36	0
 134	Yingshan	bird	6	雀（娃儿）	2b	37	bird	527	雀（娃儿）	37	0
 135	Chengdu	bird	6	雀	2	35	bird	527	雀	35	0
 136	Zhanping	bird	6	隻仔：读tsi6 a6	3c	39	bird	527	隻仔：读tsi6 a6	39	0
-137	Shanghai	bird	6	鸟	1	36	bird	527	鸟	33	1
+137	Shanghai	bird	6	鸟	1	36	bird	527	鸟	36	0
 138	Shanghai_B	bird	6	鸟	1	36	bird	527	鸟	36	0
 139	Xiamen	bird	6	tsiau51	4	34	bird	527	tsiau51	34	0
 140	Anyi	bird	6	雀哩	2a	40	bird	527	雀哩	40	0
@@ -354,7 +354,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 195	Wuhan	black	8	青（“青”不同于“黑”）	1	44	black	541	青	44	0
 196	Taiyuan	black	8	黑	0	45	black	541	黑	45	0
 197	Yuci	black	8	黑	0	45	black	541	黑	45	0
-198	Changsha	black	8	黑	0	45	black	541	黑	45	0
+198	Changsha	black	8	黑	0	45	black	541	黑	43	1
 199	Changsha	black	8	青	1	44	black	541	青	44	0
 200	Shuangfeng	black	8	黑	0	45	black	541	黑	45	0
 201	Shuangfeng	black	8	青	1	44	black	541	青	44	0
@@ -399,7 +399,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2748	Chengdu	blow	106	吹	0	673	blow (V)	585	吹	673	0
 2749	Zhanping	blow	106	歕	1	672	blow (V)	585	歕	672	0
 2750	Shanghai	blow	106	吹	0	673	blow (V)	585	吹	673	0
-2751	Shanghai_B	blow	106	吹	0	673	blow (V)	585	吹	673	0
+2751	Shanghai_B	blow	106	吹	0	673	blow (V)	585	吹	672	1
 2752	Xiamen	blow	106	歕	1	672	blow (V)	585	歕	672	0
 2753	Anyi	blow	106	吹	0	673	blow (V)	585	吹	673	0
 2754	Beijing	blow	106	吹	0	673	blow (V)	585	吹	673	0
@@ -414,7 +414,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 226	Guangzhou	bone	10	骨	0	49	bone	614	骨	49	0
 227	Suzhou	bone	10	骨头	0a	48	bone	614	骨頭	48	0
 228	Meixian	bone	10	骨头	0a	48	bone	614	骨頭	48	0
-229	Nanchang	bone	10	骨头	0a	48	bone	614	骨頭	49	1
+229	Nanchang	bone	10	骨头	0a	48	bone	614	骨頭	48	0
 230	Fuzhou	bone	10	骨	0	49	bone	614	骨	49	0
 231	Ningxia	bone	10	骨头	0a	48	bone	614	骨頭	48	0
 232	Lianchang	bone	10	骨头	0a	48	bone	614	骨頭	48	0
@@ -422,7 +422,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 234	Yingshan	bone	10	骨头	0a	48	bone	614	骨頭	48	0
 235	Chengdu	bone	10	骨	0	49	bone	614	骨	49	0
 236	Zhanping	bone	10	骨	0	49	bone	614	骨	49	0
-237	Shanghai	bone	10	骨	0	49	bone	614	骨	48	1
+237	Shanghai	bone	10	骨	0	49	bone	614	骨	49	0
 238	Shanghai_B	bone	10	骨	0	49	bone	614	骨	49	0
 239	Xiamen	bone	10	骨	0	49	bone	614	骨	49	0
 240	Anyi	bone	10	骨頭	0a	48	bone	614	骨頭	48	0
@@ -444,7 +444,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 255	Fuzhou	breasts	11	[奶]奶	1e	51	breast	687	奶奶	51	0
 256	Fuzhou	breasts	11	奶	1	60	breast	687	奶	60	0
 257	Ningxia	breasts	11	奶子	1b	54	breast	687	奶子	54	0
-258	Lianchang	breasts	11	[]nang33菇	1f	50	breast	687	奶姑*	50	0
+258	Lianchang	breasts	11	[]nang33菇	1f	50	breast	687	奶姑*	61	1
 259	Ningbo	breasts	11	奶头	1c	53	breast	687	奶头	53	0
 260	Yingshan	breasts	11	妈儿	2h	61	breast	687	妈儿	61	0
 261	Chengdu	breasts	11	奶奶	1e	51	breast	687	奶奶	51	0
@@ -481,7 +481,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2775	Chengdu	breathe	107	吸气	4	679	breathe (V)	690	吸	679	0
 2776	Zhanping	breathe	107	喘气	8	675	breathe (V)	690	喘气	675	0
 2777	Shanghai	breathe	107	呼吸	6	677	breathe (V)	690	呼吸	677	0
-2778	Shanghai_B	breathe	107	呼吸	6	677	breathe (V)	690	呼吸	677	0
+2778	Shanghai_B	breathe	107	呼吸	6	677	breathe (V)	690	呼吸	675	1
 2779	Xiamen	breathe	107	喘气	8	675	breathe (V)	690	喘气	675	0
 2780	Xiamen	breathe	107	SNG?55；嗍[指猛地吸气]	9	674	breathe (V)	690	SNG?55；嗍[指猛地吸气]	674	0
 2781	Anyi	breathe	107	吸气	4	679	breathe (V)	690	吸	679	0
@@ -494,7 +494,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2788	Wuhan	breathe	107	嗍	2	681	breathe (V)	690	嗍	681	0
 2789	Taiyuan	breathe	107	吸	4	679	breathe (V)	690	吸	679	0
 2790	Yuci	breathe	107	吸	4	679	breathe (V)	690	吸	679	0
-2791	Changsha	breathe	107	吸	4	679	breathe (V)	690	吸	679	0
+2791	Changsha	breathe	107	吸	4	679	breathe (V)	690	吸	675	1
 2792	Changsha	breathe	107	嗍	2	681	breathe (V)	690	嗍	681	0
 2793	Shuangfeng	breathe	107	呵	1	682	breathe (V)	690	呵	682	0
 2794	Shuangfeng	breathe	107	嗍	2	681	breathe (V)	690	嗍	681	0
@@ -528,7 +528,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2795	Guangzhou	child	108	细蚊*仔	17	694	child	980	细蚊*仔	694	0
 2796	Suzhou	child	108	小干*	16	695	child	980	小干*	695	0
 2797	Meixian	child	108	细人子	2a	704	child	980	细人子	704	0
-2798	Nanchang	child	108	细人子	2a	704	child	980	细人子	690	1
+2798	Nanchang	child	108	细人子	2a	704	child	980	细人子	704	0
 2799	Nanchang	child	108	细伢子	11a	699	child	980	细伢子	699	0
 2800	Fuzhou	child	108	伲囝	4	690	child	980	伲囝	690	0
 2801	Fuzhou	child	108	伲囝哥	5c	688	child	980	伲囝哥	688	0
@@ -539,7 +539,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2806	Chengdu	child	108	娃儿	6e	684	child	980	娃儿	684	0
 2807	Zhanping	child	108	婴仔	7	703	child	980	婴仔	703	0
 2808	Zhanping	child	108	囝仔	3	691	child	980	囝仔	691	0
-2809	Shanghai	child	108	小人	1	693	child	980	小人	702	1
+2809	Shanghai	child	108	小人	1	693	child	980	小人	693	0
 2810	Shanghai_B	child	108	小人	1	693	child	980	小人	693	0
 2811	Xiamen	child	108	囝仔	3	691	child	980	囝仔	691	0
 2812	Anyi	child	108	细人嘚	2b	689	child	980	细人嘚	689	0
@@ -567,7 +567,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 312	Yingshan	claw	13	爪子	0a	73	claw	1030	爪仔	73	0
 313	Chengdu	claw	13	爪	0	75	claw	1030	爪	75	0
 314	Zhanping	claw	13	gio3	2	70	claw	1030	gio3	70	0
-315	Shanghai	claw	13	脚爪	{10}	71	claw	1030	脚爪	73	1
+315	Shanghai	claw	13	脚爪	{10}	71	claw	1030	脚爪	71	0
 316	Shanghai_B	claw	13	脚爪	{10}	71	claw	1030	脚爪	71	0
 317	Xiamen	claw	13	爪仔	0a	73	claw	1030	爪仔	73	0
 318	Anyi	claw	13	脚爪	{10}	71	claw	1030	脚爪	71	0
@@ -581,7 +581,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 326	Taiyuan	claw	13	爪爪	0b	74	claw	1030	爪爪	74	0
 327	Yuci	claw	13	爪子	0a	73	claw	1030	爪仔	73	0
 328	Yuci	claw	13	爪爪	0b	74	claw	1030	爪爪	74	0
-329	Changsha	claw	13	爪子	0a	73	claw	1030	爪仔	73	0
+329	Changsha	claw	13	爪子	0a	73	claw	1030	爪仔	70	1
 330	Shuangfeng	claw	13	爪子	0a	73	claw	1030	爪仔	73	0
 #
 331	Guangzhou	cloud	14	云	0	77	cloud	1077	云	77	0
@@ -590,7 +590,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 334	Nanchang	cloud	14	云	0	77	cloud	1077	云	77	0
 335	Fuzhou	cloud	14	云	0	77	cloud	1077	云	77	0
 336	Ningxia	cloud	14	云	0	77	cloud	1077	云	77	0
-337	Lianchang	cloud	14	云	0	77	cloud	1077	云	77	0
+337	Lianchang	cloud	14	云	0	77	cloud	1077	云	76	1
 338	Ningbo	cloud	14	云彩	0a	76	cloud	1077	云彩	76	0
 339	Yingshan	cloud	14	云彩	0a	76	cloud	1077	云彩	76	0
 340	Chengdu	cloud	14	云彩	0a	76	cloud	1077	云彩	76	0
@@ -678,7 +678,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4139	Chengdu	correct	155	对	1	1158	right	5090	对	1158	0
 4140	Zhanping	correct	155	着	2	1157	right	5090	着	1157	0
 4141	Shanghai	correct	155	对	1	1158	right	5090	对	1158	0
-4142	Shanghai_B	correct	155	对	1	1158	right	5090	对	1158	0
+4142	Shanghai_B	correct	155	对	1	1158	right	5090	对	1157	1
 4143	Xiamen	correct	155	着	2	1157	right	5090	着	1157	0
 4144	Anyi	correct	155	对	1	1158	right	5090	对	1158	0
 4145	Beijing	correct	155	对	1	1158	right	5090	对	1158	0
@@ -699,7 +699,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2828	Nanchang	count	109	算	1	706	count (V)	1317	算	706	0
 2829	Fuzhou	count	109	数	0	707	count (V)	1317	数	707	0
 2830	Ningxia	count	109	数	0	707	count (V)	1317	数	707	0
-2831	Lianchang	count	109	算	1	706	count (V)	1317	算	706	0
+2831	Lianchang	count	109	算	1	706	count (V)	1317	算	707	1
 2832	Ningbo	count	109	数	0	707	count (V)	1317	数	707	0
 2833	Yingshan	count	109	数	0	707	count (V)	1317	数	707	0
 2834	Chengdu	count	109	数	0	707	count (V)	1317	数	707	0
@@ -756,7 +756,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2883	Guangzhou	day	111	日子	1a	723	day	1515	日子	723	0
 2884	Suzhou	day	111	日脚	1b	722	day	1515	日脚	722	0
 2885	Meixian	day	111	日	1	720	day	1515	日	720	0
-2886	Nanchang	day	111	日子	1a	723	day	1515	日子	720	1
+2886	Nanchang	day	111	日子	1a	723	day	1515	日子	723	0
 2887	Fuzhou	day	111	日	1	720	day	1515	日	720	0
 2888	Ningxia	day	111	天	0	724	day	1515	天	724	0
 2889	Lianchang	day	111	日	1	720	day	1515	日	720	0
@@ -834,7 +834,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2935	Guangzhou	dirty	113	腌臜[-p]	2	737	dirty	1697	腌臢	737	0
 2936	Suzhou	dirty	113	龌龊	1	738	dirty	1697	龌龊	738	0
 2937	Meixian	dirty	113	屙糟	16	740	dirty	1697	屙糟	740	0
-2938	Nanchang	dirty	113	腌臜[Na42 tsa]	2	737	dirty	1697	腌臢	741	1
+2938	Nanchang	dirty	113	腌臜[Na42 tsa]	2	737	dirty	1697	腌臢	737	0
 2939	Fuzhou	dirty	113	拉渣	15	741	dirty	1697	拉渣	741	0
 2940	Ningxia	dirty	113	脏	8	731	dirty	1697	脏	731	0
 2941	Lianchang	dirty	113	腌臢	2	737	dirty	1697	腌臢	737	0
@@ -843,7 +843,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2944	Chengdu	dirty	113	脏	8	731	dirty	1697	脏	731	0
 2945	Zhanping	dirty	113	la?8  sa?7	3	736	dirty	1697	流疡	736	0
 2946	Shanghai	dirty	113	龌龊	1	738	dirty	1697	龌龊	738	0
-2947	Shanghai_B	dirty	113	龌龊	1	738	dirty	1697	龌龊	738	0
+2947	Shanghai_B	dirty	113	龌龊	1	738	dirty	1697	龌龊	736	1
 2948	Xiamen	dirty	113	流疡	3	736	dirty	1697	流疡	736	0
 2949	Anyi	dirty	113	腌臜	2	737	dirty	1697	腌臢	737	0
 2950	Beijing	dirty	113	脏	8	731	dirty	1697	脏	731	0
@@ -854,7 +854,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2955	Wuhan	dirty	113	邋*瓜*	9	730	dirty	1697	邋*瓜*	730	0
 2956	Taiyuan	dirty	113	日脏	6	733	dirty	1697	日脏	733	0
 2957	Taiyuan	dirty	113	腌脏	7	732	dirty	1697	腌脏	732	0
-2958	Yuci	dirty	113	日脏	6	733	dirty	1697	日脏	743	1
+2958	Yuci	dirty	113	日脏	6	733	dirty	1697	日脏	733	0
 2959	Changsha	dirty	113	拿他	5	734	dirty	1697	拿他	734	0
 2960	Shuangfeng	dirty	113	妈*糊*	4	735	dirty	1697	妈*糊*	735	0
 #
@@ -864,7 +864,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 434	Nanchang	dog	18	狗	1	89	dog	1776	狗	89	0
 435	Fuzhou	dog	18	犬	0	90	dog	1776	犬	90	0
 436	Ningxia	dog	18	狗	1	89	dog	1776	狗	89	0
-437	Lianchang	dog	18	狗	1	89	dog	1776	狗	89	0
+437	Lianchang	dog	18	狗	1	89	dog	1776	狗	86	1
 438	Ningbo	dog	18	狗	1	89	dog	1776	狗	89	0
 439	Yingshan	dog	18	狗子	1b	86	dog	1776	狗子	86	0
 440	Yingshan	dog	18	狗娃儿	1c	85	dog	1776	狗娃儿	85	0
@@ -881,7 +881,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 451	Wuhan	dog	18	来*富*	2	88	dog	1776	来*富*	88	0
 452	Taiyuan	dog	18	狗[儿]	1	89	dog	1776	狗	89	0
 453	Taiyuan	dog	18	狗[儿]	1a	87	dog	1776	狗[儿]	87	0
-454	Yuci	dog	18	狗[儿]	1	89	dog	1776	狗	86	1
+454	Yuci	dog	18	狗[儿]	1	89	dog	1776	狗	89	0
 455	Yuci	dog	18	狗[儿]	1a	87	dog	1776	狗[儿]	87	0
 456	Changsha	dog	18	狗	1	89	dog	1776	狗	89	0
 457	Shuangfeng	dog	18	狗	1	89	dog	1776	狗	89	0
@@ -889,17 +889,17 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 458	Guangzhou	drink	19	饮	0	98	drink (V)	1834	饮	98	0
 459	Suzhou	drink	19	吃	1	97	drink (V)	1834	吃	97	0
 460	Meixian	drink	19	食	5	93	drink (V)	1834	食	93	0
-461	Nanchang	drink	19	吃	1	97	drink (V)	1834	吃	91	1
+461	Nanchang	drink	19	吃	1	97	drink (V)	1834	吃	97	0
 462	Fuzhou	drink	19	啜	7	91	drink (V)	1834	啜	91	0
 463	Ningxia	drink	19	喝	3	95	drink (V)	1834	喝	95	0
-464	Lianchang	drink	19	食	5	93	drink (V)	1834	食	93	0
+464	Lianchang	drink	19	食	5	93	drink (V)	1834	食	95	1
 465	Ningbo	drink	19	喝	3	95	drink (V)	1834	喝	95	0
 466	Yingshan	drink	19	喝	3	95	drink (V)	1834	喝	95	0
 467	Chengdu	drink	19	喝	3	95	drink (V)	1834	喝	95	0
 468	Zhanping	drink	19	啉	6	92	drink (V)	1834	啉	92	0
 469	Zhanping	drink	19	啜tshuui5	7	91	drink (V)	1834	啜	91	0
 470	Zhanping	drink	19	食	5	93	drink (V)	1834	食	93	0
-471	Shanghai	drink	19	吃	1	97	drink (V)	1834	吃	95	1
+471	Shanghai	drink	19	吃	1	97	drink (V)	1834	吃	97	0
 472	Shanghai_B	drink	19	吃	1	97	drink (V)	1834	吃	97	0
 473	Xiamen	drink	19	啉	6	92	drink (V)	1834	啉	92	0
 474	Xiamen	drink	19	啜[“啉”，和液体相搭配，如啉茶；啜，一般是连吃带喝，如啜糜]	7	91	drink (V)	1834	啜	91	0
@@ -912,7 +912,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 481	Wuhan	drink	19	呵	2	96	drink (V)	1834	呵	96	0
 482	Taiyuan	drink	19	喝	3	95	drink (V)	1834	喝	95	0
 483	Yuci	drink	19	喝	3	95	drink (V)	1834	喝	95	0
-484	Changsha	drink	19	吃	1	97	drink (V)	1834	吃	97	0
+484	Changsha	drink	19	吃	1	97	drink (V)	1834	吃	92	1
 485	Shuangfeng	drink	19	吃	1	97	drink (V)	1834	吃	97	0
 486	Shuangfeng	drink	19	呵	2	96	drink (V)	1834	呵	96	0
 #
@@ -952,13 +952,13 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2965	Suzhou	dull	114	戆	4	752	dull	1870	戆	752	0
 2966	Meixian	dull	114	憨	4	752	dull	1870	戆	752	0
 2967	Meixian	dull	114	蠢	1	755	dull	1870	蠢	755	0
-2968	Nanchang	dull	114	木	5	751	dull	1870	木	756	1
+2968	Nanchang	dull	114	木	5	751	dull	1870	木	751	0
 2969	Nanchang	dull	114	笨	2	754	dull	1870	笨	754	0
 2970	Fuzhou	dull	114	愚	0	756	dull	1870	愚	756	0
 2971	Fuzhou	dull	114	笨	2	754	dull	1870	笨	754	0
 2972	Ningxia	dull	114	tx!e=ng53	12	758	dull	1870	tx!e=ng53	758	0
 2973	Ningxia	dull	114	傻	13	757	dull	1870	傻	757	0
-2974	Lianchang	dull	114	[]ngau3	9	747	dull	1870	[]ngau3	747	0
+2974	Lianchang	dull	114	[]ngau3	9	747	dull	1870	[]ngau3	752	1
 2975	Ningbo	dull	114	笨	2	754	dull	1870	笨	754	0
 2976	Yingshan	dull	114	憨	4	752	dull	1870	戆	752	0
 2977	Yingshan	dull	114	苕*	3	753	dull	1870	苕	753	0
@@ -967,7 +967,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2980	Zhanping	dull	114	笨	2	754	dull	1870	笨	754	0
 2981	Zhanping	dull	114	(空)gong6	10	760	dull	1870	gong33?	760	0
 2982	Shanghai	dull	114	戆	4	752	dull	1870	戆	752	0
-2983	Shanghai_B	dull	114	戆	4	752	dull	1870	戆	752	0
+2983	Shanghai_B	dull	114	戆	4	752	dull	1870	戆	748	1
 2984	Xiamen	dull	114	勘-心	8	748	dull	1870	拙	748	0
 2985	Xiamen	dull	114	戆	4	752	dull	1870	戆	752	0
 2986	Xiamen	dull	114	呆	7	749	dull	1870	呆	749	0
@@ -990,7 +990,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3002	Suzhou	dust	115	灰尘	{10}	767	dust	1881	灰尘	767	0
 3003	Suzhou	dust	115	土-奉尘	{40}	761	dust	1881	塕尘	761	0
 3004	Meixian	dust	115	尘灰	{01}	762	dust	1881	尘灰	762	0
-3005	Nanchang	dust	115	灰	1	766	dust	1881	灰	761	1
+3005	Nanchang	dust	115	灰	1	766	dust	1881	灰	766	0
 3006	Fuzhou	dust	115	塕尘	{40}	761	dust	1881	塕尘	761	0
 3007	Ningxia	dust	115	灰	1	766	dust	1881	灰	766	0
 3008	Lianchang	dust	115	尘灰[指灰土]	{01}	762	dust	1881	尘灰	762	0
@@ -1000,7 +1000,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3012	Zhanping	dust	115	涂粉	6	763	dust	1881	涂粉	763	0
 3013	Zhanping	dust	115	塕埃	{45}	765	dust	1881	塕埃	765	0
 3014	Shanghai	dust	115	灰尘	{10}	767	dust	1881	灰尘	767	0
-3015	Shanghai_B	dust	115	灰尘	{10}	767	dust	1881	灰尘	767	0
+3015	Shanghai_B	dust	115	灰尘	{10}	767	dust	1881	灰尘	763	1
 3016	Xiamen	dust	115	涂粉	6	763	dust	1881	涂粉	763	0
 3017	Anyi	dust	115	灰	1	766	dust	1881	灰	766	0
 3018	Beijing	dust	115	[尘]土	{(0)2}	764	dust	1881	[尘]土	764	0
@@ -1018,7 +1018,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 515	Guangzhou	ear	21	耳仔	0d	109	ear 1	1894	耳仔	109	0
 516	Suzhou	ear	21	耳朵	0b	107	ear 1	1894	耳朵	107	0
 517	Meixian	ear	21	耳公	0g	112	ear 1	1894	耳公	112	0
-518	Nanchang	ear	21	耳朵	0b	107	ear 1	1894	耳朵	111	1
+518	Nanchang	ear	21	耳朵	0b	107	ear 1	1894	耳朵	107	0
 519	Fuzhou	ear	21	耳囝	0f	111	ear 1	1894	耳囝	111	0
 520	Fuzhou	ear	21	耳	0	105	ear 1	1894	耳	105	0
 521	Ningxia	ear	21	耳朵	0b	107	ear 1	1894	耳朵	107	0
@@ -1065,7 +1065,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 561	Wuhan	earth	22	地	0	115	earth	1905	地	115	0
 562	Taiyuan	earth	22	地	0	115	earth	1905	地	115	0
 563	Yuci	earth	22	地	0	115	earth	1905	地	115	0
-564	Changsha	earth	22	地下	0a	116	earth	1905	地下	116	0
+564	Changsha	earth	22	地下	0a	116	earth	1905	地下	114	1
 565	Shuangfeng	earth	22	地	0	115	earth	1905	地	115	0
 #
 566	Guangzhou	eat	23	食[很土的说法是“喫”[ja:k33]]	0	121	eat (V)	1915	食	121	0
@@ -1098,7 +1098,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 592	Nanchang	egg	24	蛋	1	125	egg	1930	蛋	125	0
 593	Fuzhou	egg	24	卵	0	126	egg	1930	卵	126	0
 594	Ningxia	egg	24	蛋	1	125	egg	1930	蛋	125	0
-595	Lianchang	egg	24	卵	0	126	egg	1930	卵	126	0
+595	Lianchang	egg	24	卵	0	126	egg	1930	卵	125	1
 596	Ningbo	egg	24	蛋	1	125	egg	1930	蛋	125	0
 597	Yingshan	egg	24	蛋	1	125	egg	1930	蛋	125	0
 598	Chengdu	egg	24	蛋	1	125	egg	1930	蛋	125	0
@@ -1113,7 +1113,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 607	Wuhan	egg	24	蛋	1	125	egg	1930	蛋	125	0
 608	Taiyuan	egg	24	蛋	1	125	egg	1930	蛋	125	0
 609	Yuci	egg	24	鸡蛋	a1	122	egg	1930	鸡蛋	122	0
-610	Changsha	egg	24	蛋	1	125	egg	1930	蛋	125	0
+610	Changsha	egg	24	蛋	1	125	egg	1930	蛋	126	1
 611	Shuangfeng	egg	24	蛋	1	125	egg	1930	蛋	125	0
 #
 612	Guangzhou	eye	25	眼	1	131	eye	2161	眼	131	0
@@ -1213,7 +1213,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3090	Fuzhou	father	118	依*爹	d2	786	father	2234	依*爹	786	0
 3091	Fuzhou	father	118	依*爷	d1	785	father	2234	依*爷	785	0
 3092	Ningxia	father	118	爹	2	799	father	2234	爹	799	0
-3093	Lianchang	father	118	爷[背称]	1	800	father	2234	爷	800	0
+3093	Lianchang	father	118	爷[背称]	1	800	father	2234	爷	798	1
 3094	Ningbo	father	118	阿爸	b3	793	father	2234	阿爸	793	0
 3095	Yingshan	father	118	伯伯	5	798	father	2234	伯伯	798	0
 3096	Chengdu	father	118	爸[爸]	3(3)	789	father	2234	爸[爸]	789	0
@@ -1223,7 +1223,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3100	Zhanping	father	118	阿爹	b2	792	father	2234	阿爸	792	0
 3101	Zhanping	father	118	阿爸	b3	793	father	2234	阿爸	793	0
 3102	Shanghai	father	118	爷	1	800	father	2234	爷	800	0
-3103	Shanghai_B	father	118	爷	1	800	father	2234	爷	800	0
+3103	Shanghai_B	father	118	爷	1	800	father	2234	爷	797	1
 3104	Xiamen	father	118	老父	a0	797	father	2234	老父	797	0
 3105	Xiamen	father	118	阿爸	b3	793	father	2234	阿爸	793	0
 3106	Anyi	father	118	爷(背稱)	1	800	father	2234	爷	800	0
@@ -1250,7 +1250,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3126	Meixian	fear	119	畏	0	815	fear (V)	2252	畏	815	0
 3127	Meixian	fear	119	惊	4	812	fear (V)	2252	惊	812	0
 3128	Meixian	fear	119	怕	3	813	fear (V)	2252	怕	813	0
-3129	Nanchang	fear	119	怕	3	813	fear (V)	2252	怕	812	1
+3129	Nanchang	fear	119	怕	3	813	fear (V)	2252	怕	813	0
 3130	Fuzhou	fear	119	惊	4	812	fear (V)	2252	惊	812	0
 3131	Ningxia	fear	119	怕	3	813	fear (V)	2252	怕	813	0
 3132	Lianchang	fear	119	吓	8	809	fear (V)	2252	吓	809	0
@@ -1258,7 +1258,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3134	Yingshan	fear	119	怕	3	813	fear (V)	2252	怕	813	0
 3135	Chengdu	fear	119	怕	3	813	fear (V)	2252	怕	813	0
 3136	Zhanping	fear	119	惊	4	812	fear (V)	2252	惊	812	0
-3137	Shanghai	fear	119	吓	8	809	fear (V)	2252	吓	813	1
+3137	Shanghai	fear	119	吓	8	809	fear (V)	2252	吓	809	0
 3138	Shanghai_B	fear	119	怕[吓指使人怕]	3	813	fear (V)	2252	怕	813	0
 3139	Xiamen	fear	119	惊	4	812	fear (V)	2252	惊	812	0
 3140	Xiamen	fear	119	慑	9	808	fear (V)	2252	慑	808	0
@@ -1274,7 +1274,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3150	Taiyuan	fear	119	[害]怕	{53}	814	fear (V)	2252	[害]怕	814	0
 3151	Yuci	fear	119	[害]怕	{(5)3}	807	fear (V)	2252	[害]怕	807	0
 3152	Yuci	fear	119	[害]怕	{53}	814	fear (V)	2252	[害]怕	814	0
-3153	Changsha	fear	119	怕	3	813	fear (V)	2252	怕	813	0
+3153	Changsha	fear	119	怕	3	813	fear (V)	2252	怕	812	1
 3154	Shuangfeng	fear	119	怕	3	813	fear (V)	2252	怕	813	0
 #
 642	Guangzhou	feather	26	毛	1	138	feather	2254	毛	138	0
@@ -1289,7 +1289,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 651	Yingshan	feather	26	毛	1	138	feather	2254	毛	138	0
 652	Chengdu	feather	26	毛	1	138	feather	2254	毛	138	0
 653	Zhanping	feather	26	毛	1	138	feather	2254	毛	138	0
-654	Shanghai	feather	26	毛	1	138	feather	2254	毛	137	1
+654	Shanghai	feather	26	毛	1	138	feather	2254	毛	138	0
 655	Shanghai_B	feather	26	毛	1	138	feather	2254	毛	138	0
 656	Xiamen	feather	26	毛	1	138	feather	2254	毛	138	0
 657	Anyi	feather	26	毛	1	138	feather	2254	毛	138	0
@@ -1514,7 +1514,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3287	Yingshan	flower	125	花	0	843	flower	2424	花	843	0
 3288	Chengdu	flower	125	花	0	843	flower	2424	花	843	0
 3289	Zhanping	flower	125	花	0	843	flower	2424	花	843	0
-3290	Shanghai	flower	125	花	0	843	flower	2424	花	842	1
+3290	Shanghai	flower	125	花	0	843	flower	2424	花	843	0
 3291	Shanghai_B	flower	125	花	0	843	flower	2424	花	843	0
 3292	Xiamen	flower	125	花	0	843	flower	2424	花	843	0
 3293	Anyi	flower	125	花	0	843	flower	2424	花	843	0
@@ -1633,7 +1633,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3353	Guangzhou	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
 3354	Suzhou	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
 3355	Meixian	freeze	128	落khen53	3	858	freeze (V)	2528	落khen53	858	0
-3356	Nanchang	freeze	128	冻凌	0	861	freeze (V)	2528	冻	859	1
+3356	Nanchang	freeze	128	冻凌	0	861	freeze (V)	2528	冻	861	0
 3357	Nanchang	freeze	128	结凌	2	859	freeze (V)	2528	结凌	859	0
 3358	Fuzhou	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
 3359	Ningxia	freeze	128	冻冰	0	861	freeze (V)	2528	冻	861	0
@@ -1643,7 +1643,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3363	Chengdu	freeze	128	冻	0	861	freeze (V)	2528	冻	861	0
 3364	Zhanping	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
 3365	Shanghai	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
-3366	Shanghai_B	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
+3366	Shanghai_B	freeze	128	结冰	2	859	freeze (V)	2528	结凌	860	1
 3367	Xiamen	freeze	128	凝霜	1	860	freeze (V)	2528	凝霜	860	0
 3368	Xiamen	freeze	128	结冰	2	859	freeze (V)	2528	结凌	859	0
 3369	Anyi	freeze	128	结冰凌哩	2	859	freeze (V)	2528	结凌	859	0
@@ -1699,7 +1699,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 794	Zhanping	full	32	满	1	154	full	2561	满	154	0
 795	Zhanping	full	32	tn6	2	153	full	2561	滇	153	0
 796	Shanghai	full	32	满	1	154	full	2561	满	154	0
-797	Shanghai_B	full	32	满	1	154	full	2561	满	154	0
+797	Shanghai_B	full	32	满	1	154	full	2561	满	153	1
 798	Xiamen	full	32	*滇ti~33	2	153	full	2561	滇	153	0
 799	Anyi	full	32	满	1	154	full	2561	满	154	0
 800	Beijing	full	32	满	1	154	full	2561	满	154	0
@@ -1718,7 +1718,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 812	Nanchang	give	33	给	3	161	give (V)	2648	给	161	0
 813	Fuzhou	give	33	乞	8	156	give (V)	2648	乞	156	0
 814	Ningxia	give	33	给	3	161	give (V)	2648	给	161	0
-815	Lianchang	give	33	拿	6	158	give (V)	2648	拿	158	0
+815	Lianchang	give	33	拿	6	158	give (V)	2648	拿	162	1
 816	Lianchang	give	33	分	5	159	give (V)	2648	分	159	0
 817	Ningbo	give	33	pa~55	9	155	give (V)	2648	pa~55	155	0
 818	Yingshan	give	33	把	2	162	give (V)	2648	把	162	0
@@ -1805,7 +1805,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 873	Yingshan	grease	35	膘	2	176	fat	2760	膘	176	0
 874	Chengdu	grease	35	猪油	a1	175	fat	2760	大油	175	0
 875	Zhanping	grease	35	油	1	177	fat	2760	油	177	0
-876	Shanghai	grease	35	油	1	177	fat	2760	油	175	1
+876	Shanghai	grease	35	油	1	177	fat	2760	油	177	0
 877	Shanghai_B	grease	35	油	1	177	fat	2760	油	177	0
 878	Xiamen	grease	35	油	1	177	fat	2760	油	177	0
 879	Anyi	grease	35	猪油	a1	175	fat	2760	大油	175	0
@@ -1901,7 +1901,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 941	Nanchang	hand	38	手	0	189	hand	2855	手	189	0
 942	Fuzhou	hand	38	手	0	189	hand	2855	手	189	0
 943	Ningxia	hand	38	手	0	189	hand	2855	手	189	0
-944	Lianchang	hand	38	手骨	0b	188	hand	2855	手骨	188	0
+944	Lianchang	hand	38	手骨	0b	188	hand	2855	手骨	189	1
 945	Ningbo	hand	38	手	0	189	hand	2855	手	189	0
 946	Yingshan	hand	38	手	0	189	hand	2855	手	189	0
 947	Chengdu	hand	38	手	0	189	hand	2855	手	189	0
@@ -1945,7 +1945,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3475	Wuhan	he	132	他家*	2a	884	he	2926	他家*	884	0
 3476	Taiyuan	he	132	他	2	883	he	2926	他	883	0
 3477	Yuci	he	132	他	2	883	he	2926	他	883	0
-3478	Changsha	he	132	他	2	883	he	2926	他	883	0
+3478	Changsha	he	132	他	2	883	he	2926	他	882	1
 3479	Shuangfeng	he	132	他	2	883	he	2926	他	883	0
 #
 962	Guangzhou	head	39	头[壳]	2	194	head	2928	头	194	0
@@ -1956,12 +1956,12 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 967	Nanchang	head	39	头	2	194	head	2928	头	194	0
 968	Fuzhou	head	39	头	2	194	head	2928	头	194	0
 969	Ningxia	head	39	头	2	194	head	2928	头	194	0
-970	Lianchang	head	39	头颅壳[严：2000]	{23}a	195	head	2928	头颅壳[严：2000]	195	0
+970	Lianchang	head	39	头颅壳[严：2000]	{23}a	195	head	2928	头颅壳[严：2000]	191	1
 971	Ningbo	head	39	头	2	194	head	2928	头	194	0
 972	Yingshan	head	39	脑壳	1a	191	head	2928	子]	191	0
 973	Chengdu	head	39	脑壳	1a	191	head	2928	子]	191	0
 974	Zhanping	head	39	头壳	2a	198	head	2928	头壳	198	0
-975	Shanghai	head	39	头	2	194	head	2928	头	190	1
+975	Shanghai	head	39	头	2	194	head	2928	头	194	0
 976	Shanghai_B	head	39	头	2	194	head	2928	头	194	0
 977	Xiamen	head	39	头壳	2a	198	head	2928	头壳	198	0
 978	Anyi	head	39	头	2	194	head	2928	头	194	0
@@ -2097,7 +2097,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3521	Nanchang	hit	134	打	1	919	hit (V)	3006	打	919	0
 3522	Fuzhou	hit	134	拍	2	918	hit (V)	3006	拍	918	0
 3523	Ningxia	hit	134	打	1	919	hit (V)	3006	打	919	0
-3524	Lianchang	hit	134	“扌百”[mu?8]	3	917	hit (V)	3006	“扌百”[mu?8]	917	0
+3524	Lianchang	hit	134	“扌百”[mu?8]	3	917	hit (V)	3006	“扌百”[mu?8]	919	1
 3525	Ningbo	hit	134	打(铁）	1	919	hit (V)	3006	打	919	0
 3526	Yingshan	hit	134	打	1	919	hit (V)	3006	打	919	0
 3527	Chengdu	hit	134	打(铁）	1	919	hit (V)	3006	打	919	0
@@ -2157,7 +2157,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1045	Yingshan	horn	42	角	0	205	horn	3055	角	205	0
 1046	Chengdu	horn	42	角	0	205	horn	3055	角	205	0
 1047	Zhanping	horn	42	角	0	205	horn	3055	角	205	0
-1048	Shanghai	horn	42	角	0	205	horn	3055	角	204	1
+1048	Shanghai	horn	42	角	0	205	horn	3055	角	205	0
 1049	Shanghai_B	horn	42	角	0	205	horn	3055	角	205	0
 1050	Xiamen	horn	42	角	0	205	horn	3055	角	205	0
 1051	Anyi	horn	42	角	0	205	horn	3055	角	205	0
@@ -2209,7 +2209,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3580	Chengdu	how	136	咋个	4k	952	how	3080	咋个	952	0
 3581	Zhanping	how	136	安怎（款*）	a3（d）	942	how	3080	安怎（款*）	942	0
 3582	Shanghai	how	136	那恁	2	949	how	3080	那恁	949	0
-3583	Shanghai_B	how	136	那恁	2	949	how	3080	那恁	949	0
+3583	Shanghai_B	how	136	那恁	2	949	how	3080	那恁	936	1
 3584	Xiamen	how	136	怎样	3e	936	how	3080	怎样	936	0
 3585	Xiamen	how	136	咹盏*	4	948	how	3080	咋	948	0
 3586	Anyi	how	136	怎样办	3f	938	how	3080	怎样办	938	0
@@ -2231,7 +2231,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3601	Nanchang	hunt	137	打猎	1	962	hunt (V)	3109	打猎	962	0
 3602	Fuzhou	hunt	137	打猎	1	962	hunt (V)	3109	打猎	962	0
 3603	Ningxia	hunt	137	猎、打猎	5	958	hunt (V)	3109	打山	958	0
-3604	Lianchang	hunt	137	猎山	5a	963	hunt (V)	3109	猎山	963	0
+3604	Lianchang	hunt	137	猎山	5a	963	hunt (V)	3109	猎山	961	1
 3605	Ningbo	hunt	137	打猎	1	962	hunt (V)	3109	打猎	962	0
 3606	Yingshan	hunt	137	打（某某）	2	961	hunt (V)	3109	打（某某）	961	0
 3607	Chengdu	hunt	137	打猎	1	962	hunt (V)	3109	打猎	962	0
@@ -2259,7 +2259,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3628	Fuzhou	husband	138	丈夫	3	971	husband	3118	丈夫	971	0
 3629	Fuzhou	husband	138	老公	2	972	husband	3118	老公	972	0
 3630	Ningxia	husband	138	汉子	9	966	husband	3118	汉子	966	0
-3631	Lianchang	husband	138	老公	2	972	husband	3118	老公	972	0
+3631	Lianchang	husband	138	老公	2	972	husband	3118	老公	980	1
 3632	Ningbo	husband	138	老公	2	972	husband	3118	老公	972	0
 3633	Yingshan	husband	138	男的	2a	980	husband	3118	男的	980	0
 3634	Yingshan	husband	138	外当家的	a7a	974	husband	3118	外当家的	974	0
@@ -2267,7 +2267,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3636	Zhanping	husband	138	翁	5	969	husband	3118	翁	969	0
 3637	Zhanping	husband	138	丈夫侬	2b	979	husband	3118	丈夫侬	979	0
 3638	Shanghai	husband	138	先生	4	970	husband	3118	先生	970	0
-3639	Shanghai_B	husband	138	先生	4	970	husband	3118	先生	970	0
+3639	Shanghai_B	husband	138	先生	4	970	husband	3118	先生	967	1
 3640	Xiamen	husband	138	[]TA55夫人	8	967	husband	3118	屋里	967	0
 3641	Xiamen	husband	138	翁	5	969	husband	3118	翁	969	0
 3642	Xiamen	husband	138	丈夫	3	971	husband	3118	丈夫	971	0
@@ -2285,7 +2285,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3654	Taiyuan	husband	138	当家的	7a	964	husband	3118	当家的	964	0
 3655	Taiyuan	husband	138	男人	2	972	husband	3118	老公	972	0
 3656	Yuci	husband	138	汉	10	976	husband	3118	汉	976	0
-3657	Changsha	husband	138	男人	1	973	husband	3118	男人	973	0
+3657	Changsha	husband	138	男人	1	973	husband	3118	男人	969	1
 3658	Shuangfeng	husband	138	男人	1	973	husband	3118	男人	973	0
 #
 1085	Guangzhou	i	44	我	0	213	i	3133	我	213	0
@@ -2322,7 +2322,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3661	Suzhou	ice	139	冰	0	991	ice	3134	冰	991	0
 3662	Meixian	ice	139	khen53	7	983	ice	3134	khen53	983	0
 3663	Meixian	ice	139	冰	0	991	ice	3134	冰	991	0
-3664	Nanchang	ice	139	冰[凌]	{0(1)}	988	ice	3134	冰[凌]	991	1
+3664	Nanchang	ice	139	冰[凌]	{0(1)}	988	ice	3134	冰[凌]	988	0
 3665	Nanchang	ice	139	冰[凌]	{01}	981	ice	3134	冰[凌]	981	0
 3666	Fuzhou	ice	139	冰	0	991	ice	3134	冰	991	0
 3667	Ningxia	ice	139	冰	0	991	ice	3134	冰	991	0
@@ -2357,7 +2357,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3695	Suzhou	if	140	要	13	1004	if	7050	要	1004	0
 3696	Suzhou	if	140	如果	14	1003	if	7050	如果	1003	0
 3697	Meixian	if	140	系话	12	1005	if	7050	系话	1005	0
-3698	Nanchang	if	140	要是	1	1001	if	7050	要是	1006	1
+3698	Nanchang	if	140	要是	1	1001	if	7050	要是	1001	0
 3699	Fuzhou	if	140	囇是	11	1006	if	7050	囇是	1006	0
 3700	Fuzhou	if	140	若还	10	1007	if	7050	若还	1007	0
 3701	Ningxia	if	140	要是	1	1001	if	7050	要是	1001	0
@@ -2368,7 +2368,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3706	Yingshan	if	140	要是	1	1001	if	7050	要是	1001	0
 3707	Chengdu	if	140	要是	1	1001	if	7050	要是	1001	0
 3708	Zhanping	if	140	若（是）	5	997	if	7050	若	997	0
-3709	Shanghai	if	140	假使	2	1000	if	7050	假使	1001	1
+3709	Shanghai	if	140	假使	2	1000	if	7050	假使	1000	0
 3710	Shanghai_B	if	140	假使	2	1000	if	7050	假使	1000	0
 3711	Xiamen	if	140	设使	7	995	if	7050	设使	995	0
 3712	Anyi	if	140	要是	1	1001	if	7050	要是	1001	0
@@ -2379,7 +2379,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3717	Wuhan	if	140	要是	1	1001	if	7050	要是	1001	0
 3718	Taiyuan	if	140	要是	1	1001	if	7050	要是	1001	0
 3719	Yuci	if	140	要是	1	1001	if	7050	要是	1001	0
-3720	Changsha	if	140	要是	1	1001	if	7050	要是	1001	0
+3720	Changsha	if	140	要是	1	1001	if	7050	要是	997	1
 3721	Shuangfeng	if	140	要是	1	1001	if	7050	要是	1001	0
 3722	Shuangfeng	if	140	要此*	3	999	if	7050	要此*	999	0
 #
@@ -2389,12 +2389,12 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3726	Suzhou	in	141	勒海*	2a	1020	in	3184	勒海*	1020	0
 3727	Meixian	in	141	在	0	1018	in	3184	在	1018	0
 3728	Meixian	in	141	口係	1	1017	in	3184	喺	1017	0
-3729	Nanchang	in	141	在	0	1018	in	3184	在	1013	1
+3729	Nanchang	in	141	在	0	1018	in	3184	在	1018	0
 3730	Fuzhou	in	141	着	5	1013	in	3184	着	1013	0
 3731	Fuzhou	in	141	在	0	1018	in	3184	在	1018	0
 3732	Fuzhou	in	141	夹*	7	1011	in	3184	夹*	1011	0
 3733	Ningxia	in	141	在	0	1018	in	3184	在	1018	0
-3734	Lianchang	in	141	着	5	1013	in	3184	着	1013	0
+3734	Lianchang	in	141	着	5	1013	in	3184	着	1018	1
 3735	Lianchang	in	141	在	0	1018	in	3184	在	1018	0
 3736	Ningbo	in	141	*勒[li?]	2	1016	in	3184	嘞	1016	0
 3737	Yingshan	in	141	在	0	1018	in	3184	在	1018	0
@@ -2420,7 +2420,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1113	Guangzhou	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 1114	Suzhou	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 1115	Meixian	kill	45	杀	0	215	kill (V)	3382	杀	215	0
-1116	Nanchang	kill	45	杀	0	215	kill (V)	3382	杀	214	1
+1116	Nanchang	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 1117	Fuzhou	kill	45	治	1	214	kill (V)	3382	治	214	0
 1118	Ningxia	kill	45	杀、宰	0	215	kill (V)	3382	杀	215	0
 1119	Lianchang	kill	45	杀	0	215	kill (V)	3382	杀	215	0
@@ -2439,7 +2439,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1132	Wuhan	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 1133	Taiyuan	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 1134	Yuci	kill	45	杀	0	215	kill (V)	3382	杀	215	0
-1135	Changsha	kill	45	杀	0	215	kill (V)	3382	杀	215	0
+1135	Changsha	kill	45	杀	0	215	kill (V)	3382	杀	214	1
 1136	Shuangfeng	kill	45	杀	0	215	kill (V)	3382	杀	215	0
 #
 1137	Guangzhou	knee	46	膝头[哥]	0a	236	knee	3400	膝头	236	0
@@ -2449,7 +2449,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1141	Nanchang	knee	46	舌*头盖子	10	234	knee	3400	舌*头盖子	234	0
 1142	Fuzhou	knee	46	骹腹头	6ha	216	knee	3400	骹腹头	216	0
 1143	Ningxia	knee	46	px!44li44盖盖	9	223	knee	3400	px!44li44盖盖	223	0
-1144	Lianchang	knee	46	膝头	0a	236	knee	3400	膝头	236	0
+1144	Lianchang	knee	46	膝头	0a	236	knee	3400	膝头	221	1
 1145	Ningbo	knee	46	脚*棵*头	8	224	knee	3400	脚*棵*头	224	0
 1146	Yingshan	knee	46	磕膝	a0	221	knee	3400	磕膝	221	0
 1147	Chengdu	knee	46	膝	0	227	knee	3400	膝	227	0
@@ -2468,7 +2468,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1160	Taiyuan	knee	46	圪膝盖	a0c	219	knee	3400	圪膝盖	219	0
 1161	Taiyuan	knee	46	圪地跪	2	226	knee	3400	圪地跪	226	0
 1162	Yuci	knee	46	圪膝盖	a0c	219	knee	3400	圪膝盖	219	0
-1163	Changsha	knee	46	膝头骨	0ab	235	knee	3400	膝头骨	235	0
+1163	Changsha	knee	46	膝头骨	0ab	235	knee	3400	膝头骨	232	1
 1164	Changsha	knee	46	磕膝头	a0a磕膝头	230	knee	3400	磕膝头	230	0
 1165	Shuangfeng	knee	46	膝头骨	0ab	235	knee	3400	膝头骨	235	0
 #
@@ -2512,8 +2512,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3765	Yingshan	lake	142	湖	0	1023	lake	3435	湖	1023	0
 3766	Chengdu	lake	142	湖	0	1023	lake	3435	湖	1023	0
 3767	Zhanping	lake	142	湖	0	1023	lake	3435	湖	1023	0
-3768	Shanghai	lake	142	湖浜	1	1022	lake	3435	湖浜	1023	1
-3769	Shanghai_B	lake	142	湖浜	1	1022	lake	3435	湖浜	1022	0
+3768	Shanghai	lake	142	湖浜	1	1022	lake	3435	湖浜	1022	0
+3769	Shanghai_B	lake	142	湖浜	1	1022	lake	3435	湖浜	1023	1
 3770	Xiamen	lake	142	湖	0	1023	lake	3435	湖	1023	0
 3771	Anyi	lake	142	湖	0	1023	lake	3435	湖	1023	0
 3772	Beijing	lake	142	湖	0	1023	lake	3435	湖	1023	0
@@ -2602,7 +2602,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3828	Wuhan	leftside	144	左手	1	1030	left side	3522	左手	1030	0
 3829	Wuhan	leftside	144	倒手	2	1027	left side	3522	倒手	1027	0
 3830	Taiyuan	leftside	144	左半切	0d	1042	left side	3522	左面	1042	0
-3831	Yuci	leftside	144	左边边	0aa	1029	left side	3522	左边边	1031	1
+3831	Yuci	leftside	144	左边边	0aa	1029	left side	3522	左边边	1029	0
 3832	Changsha	leftside	144	左边	0a	1039	left side	3522	左边	1039	0
 3833	Shuangfeng	leftside	144	左边	0a	1039	left side	3522	左边	1039	0
 #
@@ -2610,7 +2610,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3835	Guangzhou	leg	145	（大）髀（大腿）	5	1050	leg	3523	（大）髀（大腿）	1050	0
 3836	Suzhou	leg	145	髈	6	1049	leg	3523	髈	1049	0
 3837	Meixian	leg	145	脚比	0e	1059	leg	3523	脚比	1059	0
-3838	Nanchang	leg	145	脚骨哩	0bc	1054	leg	3523	脚骨哩	1051	1
+3838	Nanchang	leg	145	脚骨哩	0bc	1054	leg	3523	脚骨哩	1054	0
 3839	Nanchang	leg	145	脚	0	1053	leg	3523	脚	1053	0
 3840	Fuzhou	leg	145	骹腿	4	1051	leg	3523	骹腿	1051	0
 3841	Ningxia	leg	145	腿	1	1052	leg	3523	腿	1052	0
@@ -2621,7 +2621,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3846	Zhanping	leg	145	骹(腿)	{4(1)}	1060	leg	3523	骹(腿)	1060	0
 3847	Zhanping	leg	145	骹(腿)	{41}	1045	leg	3523	骹腿	1045	0
 3848	Shanghai	leg	145	腿	1	1052	leg	3523	腿	1052	0
-3849	Shanghai_B	leg	145	大脚胖	a{05}	1047	leg	3523	大脚胖	1047	0
+3849	Shanghai_B	leg	145	大脚胖	a{05}	1047	leg	3523	大脚胖	1045	1
 3850	Xiamen	leg	145	骹腿	{41}	1045	leg	3523	骹腿	1045	0
 3851	Anyi	leg	145	腳[牯哩]	0(bc)	1055	leg	3523	腳[牯哩]	1055	0
 3852	Anyi	leg	145	腳[牯哩]	0bc	1054	leg	3523	脚骨哩	1054	0
@@ -2632,7 +2632,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3857	Wuhan	leg	145	胯子	3a	1058	leg	3523	胯子	1058	0
 3858	Taiyuan	leg	145	腿	1	1052	leg	3523	腿	1052	0
 3859	Yuci	leg	145	腿	1	1052	leg	3523	腿	1052	0
-3860	Changsha	leg	145	腿把子	1da	1056	leg	3523	腿把子	1056	0
+3860	Changsha	leg	145	腿把子	1da	1056	leg	3523	腿把子	1060	1
 3861	Shuangfeng	leg	145	腿把子	1da	1056	leg	3523	腿把子	1056	0
 3862	Shuangfeng	leg	145	脚把子	0da	1048	leg	3523	脚把子	1048	0
 #
@@ -2661,7 +2661,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1240	Taiyuan	lie	49	睡	6	259	lie 1 (V)	3559	睡	259	0
 1241	Yuci	lie	49	躺	5	260	lie 1 (V)	3559	躺	260	0
 1242	Yuci	lie	49	睡	6	259	lie 1 (V)	3559	睡	259	0
-1243	Changsha	lie	49	困	1	263	lie 1 (V)	3559	睏	263	0
+1243	Changsha	lie	49	困	1	263	lie 1 (V)	3559	睏	261	1
 1244	Shuangfeng	lie	49	睏	1	263	lie 1 (V)	3559	睏	263	0
 #
 3863	Guangzhou	live(alive)	146	生	0	1067	live (V)	3610	生	1067	0
@@ -2670,14 +2670,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3866	Nanchang	live(alive)	146	活	1	1066	live (V)	3610	活	1066	0
 3867	Fuzhou	live(alive)	146	活	1	1066	live (V)	3610	活	1066	0
 3868	Ningxia	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1063	0
-3869	Lianchang	live(alive)	146	好	2	1065	live (V)	3610	好	1065	0
+3869	Lianchang	live(alive)	146	好	2	1065	live (V)	3610	好	1066	1
 3870	Ningbo	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1063	0
 3871	Yingshan	live(alive)	146	活	1	1066	live (V)	3610	活	1066	0
 3872	Chengdu	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1063	0
 3873	Zhanping	live(alive)	146	活(活)	1	1066	live (V)	3610	活	1066	0
 3874	Zhanping	live(alive)	146	活(活)	1c	1061	live (V)	3610	活(活)	1061	0
 3875	Shanghai	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1063	0
-3876	Shanghai_B	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1063	0
+3876	Shanghai_B	live(alive)	146	活的	1a	1063	live (V)	3610	活的	1066	1
 3877	Xiamen	live(alive)	146	活	1	1066	live (V)	3610	活	1066	0
 3878	Anyi	live(alive)	146	活個	1b	1062	live (V)	3610	活個	1062	0
 3879	Beijing	live(alive)	146	活	1	1066	live (V)	3610	活	1066	0
@@ -2761,7 +2761,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1311	Wuhan	louse	52	虱子	0b	272	louse	3684	虱子	272	0
 1312	Taiyuan	louse	52	虱子	0b	272	louse	3684	虱子	272	0
 1313	Yuci	louse	52	虱子	0b	272	louse	3684	虱子	272	0
-1314	Changsha	louse	52	虱婆子	0ab	271	louse	3684	虱婆子	271	0
+1314	Changsha	louse	52	虱婆子	0ab	271	louse	3684	虱婆子	273	1
 1315	Shuangfeng	louse	52	虱婆子	0ab	271	louse	3684	虱婆子	271	0
 #
 1316	Guangzhou	man	53	男人	1	279	man	3747	男的	279	0
@@ -2769,7 +2769,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1318	Suzhou	man	53	男	0	280	man	3747	男	280	0
 1319	Suzhou	man	53	男子客	0cd	281	man	3747	男子客	281	0
 1320	Meixian	man	53	男子人	4	277	man	3747	爷们儿	277	0
-1321	Nanchang	man	53	男个	0b	286	man	3747	男个	283	1
+1321	Nanchang	man	53	男个	0b	286	man	3747	男个	286	0
 1322	Fuzhou	man	53	唐*夫农	11	283	man	3747	唐*夫农	283	0
 1323	Fuzhou	man	53	男界*	0b	286	man	3747	男个	286	0
 1324	Ningxia	man	53	男人	1	279	man	3747	男的	279	0
@@ -2813,7 +2813,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1361	Chengdu	many	54	多	0	291	many	3759	多	291	0
 1362	Zhanping	many	54	侪	1	290	many	3759	侪	290	0
 1363	Shanghai	many	54	多	0	291	many	3759	多	291	0
-1364	Shanghai_B	many	54	多	0	291	many	3759	多	291	0
+1364	Shanghai_B	many	54	多	0	291	many	3759	多	290	1
 1365	Xiamen	many	54	禾-齐	1	290	many	3759	侪	290	0
 1366	Anyi	many	54	多	0	291	many	3759	多	291	0
 1367	Beijing	many	54	多	0	291	many	3759	多	291	0
@@ -2851,7 +2851,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1398	Taiyuan	moon	55	月明[爷]	0ef	294	moon	3938	月明[爷]	294	0
 1399	Yuci	moon	55	月（儿）	0	293	moon	3938	月	293	0
 1400	Yuci	moon	55	月（儿）	0a	295	moon	3938	月光	295	0
-1401	Changsha	moon	55	月亮	0b	296	moon	3938	月亮	296	0
+1401	Changsha	moon	55	月亮	0b	296	moon	3938	月亮	293	1
 1402	Shuangfeng	moon	55	月光	0a	295	moon	3938	月光	295	0
 #
 3888	Guangzhou	mother	147	老母	a2	1069	mother	3950	老母	1069	0
@@ -2944,7 +2944,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1447	Wuhan	mouth	57	嘴[巴[子]]	1(ab)	306	mouth	3968	嘴[巴[子]]	306	0
 1448	Wuhan	mouth	57	嘴[巴[子]]	1ab	304	mouth	3968	嘴[巴[子]]	304	0
 1449	Taiyuan	mouth	57	嘴	1	310	mouth	3968	嘴	310	0
-1450	Yuci	mouth	57	嘴	1	310	mouth	3968	嘴	308	1
+1450	Yuci	mouth	57	嘴	1	310	mouth	3968	嘴	310	0
 1451	Changsha	mouth	57	嘴巴	1a	305	mouth	3968	嘴巴	305	0
 1452	Shuangfeng	mouth	57	嘴巴	1a	305	mouth	3968	嘴巴	305	0
 #
@@ -2961,7 +2961,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1463	Zhanping	name	58	名（字）	{0(1)}	314	name	4019	名（字）	314	0
 1464	Zhanping	name	58	名（字）	{01}	315	name	4019	名子	315	0
 1465	Shanghai	name	58	名子	{01}	315	name	4019	名子	315	0
-1466	Shanghai_B	name	58	名子	{01}	315	name	4019	名子	315	0
+1466	Shanghai_B	name	58	名子	{01}	315	name	4019	名子	316	1
 1467	Xiamen	name	58	名	0	316	name	4019	名	316	0
 1468	Anyi	name	58	名字	{01}	315	name	4019	名子	315	0
 1469	Beijing	name	58	名字	{01}	315	name	4019	名子	315	0
@@ -2977,7 +2977,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 3929	Guangzhou	narrow	148	窄	1	1087	narrow	4028	窄	1087	0
 3930	Suzhou	narrow	148	狭	0	1088	narrow	4028	狭	1088	0
 3931	Meixian	narrow	148	狭	0	1088	narrow	4028	狭	1088	0
-3932	Nanchang	narrow	148	狭	0	1088	narrow	4028	狭	1087	1
+3932	Nanchang	narrow	148	狭	0	1088	narrow	4028	狭	1088	0
 3933	Fuzhou	narrow	148	窄	1	1087	narrow	4028	窄	1087	0
 3934	Fuzhou	narrow	148	狭	0	1088	narrow	4028	狭	1088	0
 3935	Ningxia	narrow	148	窄	1	1087	narrow	4028	窄	1087	0
@@ -3079,7 +3079,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1528	Guangzhou	night	61	（夜）晚黑	{02b}	346	night	4082	（夜）晚黑	346	0
 1529	Suzhou	night	61	夜	0	344	night	4082	夜	344	0
 1530	Meixian	night	61	夜晡头	0fg	338	night	4082	夜晡头	338	0
-1531	Nanchang	night	61	夜里	0a	349	night	4082	夜里	347	1
+1531	Nanchang	night	61	夜里	0a	349	night	4082	夜里	349	0
 1532	Fuzhou	night	61	暝晡mang31muo+44	11	347	night	4082	暝晡mang31muo+44	347	0
 1533	Ningxia	night	61	夜里、黑夜	0a	349	night	4082	夜里	349	0
 1534	Lianchang	night	61	夜晡	0f	352	night	4082	夜晡	352	0
@@ -3106,7 +3106,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1555	Wuhan	night	61	夜里	0a	349	night	4082	夜里	349	0
 1556	Wuhan	night	61	夜晚	{02}	339	night	4082	夜晚	339	0
 1557	Taiyuan	night	61	黑夜	b0	343	night	4082	黑夜	343	0
-1558	Yuci	night	61	黑夜	b0	343	night	4082	黑夜	336	1
+1558	Yuci	night	61	黑夜	b0	343	night	4082	黑夜	343	0
 1559	Changsha	night	61	夜里	0a	349	night	4082	夜里	349	0
 1560	Shuangfeng	night	61	夜里	0a	349	night	4082	夜里	349	0
 #
@@ -3121,7 +3121,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1569	Yingshan	nose	62	鼻公	0a	356	nose	4103	鼻公	356	0
 1570	Chengdu	nose	62	鼻	0	354	nose	4103	鼻	354	0
 1571	Zhanping	nose	62	鼻管：后字读kong3	0a	356	nose	4103	鼻公	356	0
-1572	Shanghai	nose	62	鼻头	0c	358	nose	4103	鼻头	357	1
+1572	Shanghai	nose	62	鼻头	0c	358	nose	4103	鼻头	358	0
 1573	Shanghai_B	nose	62	鼻头	0c	358	nose	4103	鼻头	358	0
 1574	Xiamen	nose	62	鼻 a51	0d	359	nose	4103	鼻 a51	359	0
 1575	Anyi	nose	62	鼻公	0a	356	nose	4103	鼻公	356	0
@@ -3215,7 +3215,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1636	Guangzhou	path	65	路	0	375	road	5116	路	375	0
 1637	Suzhou	path	65	马路	a0	372	road	5116	马路	372	0
 1638	Meixian	path	65	路	0	375	road	5116	路	375	0
-1639	Nanchang	path	65	路	0	375	road	5116	路	374	1
+1639	Nanchang	path	65	路	0	375	road	5116	路	375	0
 1640	Fuzhou	path	65	墿	2	374	road	5116	墿	374	0
 1641	Ningxia	path	65	路	0	375	road	5116	路	375	0
 1642	Lianchang	path	65	路	0	375	road	5116	路	375	0
@@ -3267,7 +3267,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4001	Suzhou	play	151	白相	3	1098	play (V)	4545	白相	1098	0
 4002	Meixian	play	151	撩*	4	1097	play (V)	4545	嫽	1097	0
 4003	Meixian	play	151	搅	5	1096	play (V)	4545	搅	1096	0
-4004	Nanchang	play	151	暱*	6	1095	play (V)	4545	暱*	1094	1
+4004	Nanchang	play	151	暱*	6	1095	play (V)	4545	暱*	1095	0
 4005	Nanchang	play	151	玩	2	1099	play (V)	4545	玩	1099	0
 4006	Fuzhou	play	151	[][]kha44 lieu53	7	1094	play (V)	4545	[][]kha44 lieu53	1094	0
 4007	Ningxia	play	151	耍	1	1100	play (V)	4545	耍	1100	0
@@ -3288,7 +3288,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4022	Wuhan	play	151	玩	2	1099	play (V)	4545	玩	1099	0
 4023	Taiyuan	play	151	耍	1	1100	play (V)	4545	耍	1100	0
 4024	Yuci	play	151	耍	1	1100	play (V)	4545	耍	1100	0
-4025	Changsha	play	151	玩	2	1099	play (V)	4545	玩	1099	0
+4025	Changsha	play	151	玩	2	1099	play (V)	4545	玩	1092	1
 4026	Shuangfeng	play	151	耍	1	1100	play (V)	4545	耍	1100	0
 #
 4027	Guangzhou	pull	152	掹	6	1111	pull (V)	4758	掹	1111	0
@@ -3310,7 +3310,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4043	Zhanping	pull	152	牵	3	1114	pull (V)	4758	牵	1114	0
 4044	Zhanping	pull	152	拖	1	1116	pull (V)	4758	拖	1116	0
 4045	Shanghai	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
-4046	Shanghai_B	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
+4046	Shanghai_B	pull	152	拉	2	1115	pull (V)	4758	拉	1116	1
 4047	Xiamen	pull	152	拖	1	1116	pull (V)	4758	拖	1116	0
 4048	Xiamen	pull	152	牵	4	1113	pull (V)	4758	牵	1113	0
 4049	Xiamen	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
@@ -3327,7 +3327,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4060	Wuhan	pull	152	扯	7	1110	pull (V)	4758	扯	1110	0
 4061	Taiyuan	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
 4062	Yuci	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
-4063	Changsha	pull	152	拉	2	1115	pull (V)	4758	拉	1115	0
+4063	Changsha	pull	152	拉	2	1115	pull (V)	4758	拉	1122	1
 4064	Changsha	pull	152	拖	1	1116	pull (V)	4758	拖	1116	0
 4065	Shuangfeng	pull	152	拖	1	1116	pull (V)	4758	拖	1116	0
 #
@@ -3350,7 +3350,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4082	Zhanping	push	153	tu1	10	1136	push (V)	4790	tu1	1136	0
 4083	Zhanping	push	153	搡：读sang3	1	1131	push (V)	4790	搡	1131	0
 4084	Shanghai	push	153	推	0	1132	push (V)	4790	推	1132	0
-4085	Shanghai_B	push	153	推	0	1132	push (V)	4790	推	1132	0
+4085	Shanghai_B	push	153	推	0	1132	push (V)	4790	推	1135	1
 4086	Xiamen	push	153	[]tu55	11	1135	push (V)	4790	[]tu55	1135	0
 4087	Xiamen	push	153	速*	12	1134	push (V)	4790	速*	1134	0
 4088	Anyi	push	153	手－送	2	1130	push (V)	4790	手-双	1130	0
@@ -3428,7 +3428,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4110	Chengdu	rightside	154	右边	0a	1147	right side	7055	右边	1147	0
 4111	Zhanping	rightside	154	正手	1e	1137	right side	7055	正手	1137	0
 4112	Shanghai	rightside	154	右	0	1142	right side	7055	右	1142	0
-4113	Shanghai_B	rightside	154	右面	0b	1148	right side	7055	右面	1148	0
+4113	Shanghai_B	rightside	154	右面	0b	1148	right side	7055	右面	1140	1
 4114	Xiamen	rightside	154	正手爿	1ea	1140	right side	7055	正手边	1140	0
 4115	Xiamen	rightside	154	正边	1a	1139	right side	7055	正边	1139	0
 4116	Anyi	rightside	154	右边／右手	0a	1147	right side	7055	右边	1147	0
@@ -3440,8 +3440,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4122	Wuhan	rightside	154	右手	0e	1141	right side	7055	右手	1141	0
 4123	Wuhan	rightside	154	顺手	3e	1146	right side	7055	顺手	1146	0
 4124	Taiyuan	rightside	154	右半切	0g	1153	right side	7055	右半切	1153	0
-4125	Yuci	rightside	154	右边边	0aa	1138	right side	7055	右边边	1140	1
-4126	Changsha	rightside	154	右边	0a	1147	right side	7055	右边	1147	0
+4125	Yuci	rightside	154	右边边	0aa	1138	right side	7055	右边边	1138	0
+4126	Changsha	rightside	154	右边	0a	1147	right side	7055	右边	1137	1
 4127	Shuangfeng	rightside	154	右边	0a	1147	right side	7055	右边	1147	0
 #
 4155	Guangzhou	river	156	江	0	1164	river	5112	江	1164	0
@@ -3482,7 +3482,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1743	Yingshan	root	69	根	1	389	root	5152	根	389	0
 1744	Chengdu	root	69	根	1	389	root	5152	根	389	0
 1745	Zhanping	root	69	根	1	389	root	5152	根	389	0
-1746	Shanghai	root	69	根	1	389	root	5152	根	383	1
+1746	Shanghai	root	69	根	1	389	root	5152	根	389	0
 1747	Shanghai_B	root	69	根	1	389	root	5152	根	389	0
 1748	Xiamen	root	69	根	1	389	root	5152	根	389	0
 1749	Anyi	root	69	根	1	389	root	5152	根	389	0
@@ -3605,7 +3605,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4255	Chengdu	rub	159	抹	1	1189	rub (V)	5176	抹	1189	0
 4256	Zhanping	rub	159	lu2	9	1181	rub (V)	5176	lu2	1181	0
 4257	Shanghai	rub	159	擦[kha51]	2	1188	rub (V)	5176	擦	1188	0
-4258	Shanghai_B	rub	159	擦[kha51]	2	1188	rub (V)	5176	擦	1188	0
+4258	Shanghai_B	rub	159	擦[kha51]	2	1188	rub (V)	5176	擦	1190	1
 4259	Xiamen	rub	159	拭	0	1190	rub (V)	5176	拭	1190	0
 4260	Xiamen	rub	159	擦	2	1188	rub (V)	5176	擦	1188	0
 4261	Anyi	rub	159	抹	1	1189	rub (V)	5176	抹	1189	0
@@ -3676,7 +3676,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1807	Taibei	sand	71	sua44沙	0	398	sand	5245	沙	398	0
 1808	Wuhan	sand	71	沙	0	398	sand	5245	沙	398	0
 1809	Taiyuan	sand	71	沙子	0a	395	sand	5245	沙子	395	0
-1810	Yuci	sand	71	沙子	0a	395	sand	5245	沙子	398	1
+1810	Yuci	sand	71	沙子	0a	395	sand	5245	沙子	395	0
 1811	Changsha	sand	71	沙子	0a	395	sand	5245	沙子	395	0
 1812	Changsha	sand	71	沙婆	0c	397	sand	5245	沙婆	397	0
 1813	Shuangfeng	sand	71	沙子	0a	395	sand	5245	沙子	395	0
@@ -3770,7 +3770,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1846	Fuzhou	see	73	看	1	410	see (V)	5347	看	410	0
 1847	Fuzhou	see	73	觑	6	406	see (V)	5347	觑	406	0
 1848	Ningxia	see	73	看、	1	410	see (V)	5347	看	410	0
-1849	Lianchang	see	73	“□”[njia5]	7	405	see (V)	5347	“□”[njia5]	405	0
+1849	Lianchang	see	73	“□”[njia5]	7	405	see (V)	5347	“□”[njia5]	403	1
 1850	Ningbo	see	73	看	1	410	see (V)	5347	看	410	0
 1851	Yingshan	see	73	看到	1a	403	see (V)	5347	看到	403	0
 1852	Chengdu	see	73	看	1	410	see (V)	5347	看	410	0
@@ -3791,7 +3791,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1867	Wuhan	see	73	瞄	13	413	see (V)	5347	瞄	413	0
 1868	Taiyuan	see	73	看	1	410	see (V)	5347	看	410	0
 1869	Taiyuan	see	73	瞭	14	412	see (V)	5347	瞭	412	0
-1870	Yuci	see	73	照看	15	411	see (V)	5347	照看	403	1
+1870	Yuci	see	73	照看	15	411	see (V)	5347	照看	411	0
 1871	Yuci	see	73	看	1	410	see (V)	5347	看	410	0
 1872	Changsha	see	73	看	1	410	see (V)	5347	看	410	0
 1873	Shuangfeng	see	73	看	1	410	see (V)	5347	看	410	0
@@ -3800,7 +3800,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1875	Guangzhou	seed	74	种	0	420	seed	5350	种	420	0
 1876	Suzhou	seed	74	种子	0a	418	seed	5350	种子	418	0
 1877	Meixian	seed	74	种	0	420	seed	5350	种	420	0
-1878	Nanchang	seed	74	籽	1	419	seed	5350	籽	420	1
+1878	Nanchang	seed	74	籽	1	419	seed	5350	籽	419	0
 1879	Fuzhou	seed	74	种\籽\种籽	0	420	seed	5350	种	420	0
 1880	Ningxia	seed	74	种子	0a	418	seed	5350	种子	418	0
 1881	Lianchang	seed	74	种	0	420	seed	5350	种	420	0
@@ -3818,8 +3818,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 1893	Taibei	seed	74	tsing53種	0	420	seed	5350	种	420	0
 1894	Wuhan	seed	74	种子	0a	418	seed	5350	种子	418	0
 1895	Taiyuan	seed	74	种子	0a	418	seed	5350	种子	418	0
-1896	Yuci	seed	74	种子	0a	418	seed	5350	种子	420	1
-1897	Changsha	seed	74	种子	0a	418	seed	5350	种子	418	0
+1896	Yuci	seed	74	种子	0a	418	seed	5350	种子	418	0
+1897	Changsha	seed	74	种子	0a	418	seed	5350	种子	420	1
 1898	Shuangfeng	seed	74	种子	0a	418	seed	5350	种子	418	0
 #
 4355	Guangzhou	sew	163	联	1	1218	sew (V)	5404	联	1218	0
@@ -3845,7 +3845,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4375	Wuhan	sew	163	缝	0	1219	sew (V)	5404	缝	1219	0
 4376	Taiyuan	sew	163	缝	0	1219	sew (V)	5404	缝	1219	0
 4377	Yuci	sew	163	缝	0	1219	sew (V)	5404	缝	1219	0
-4378	Changsha	sew	163	缝	0	1219	sew (V)	5404	缝	1219	0
+4378	Changsha	sew	163	缝	0	1219	sew (V)	5404	缝	1213	1
 4379	Shuangfeng	sew	163	赞*起来	2	1217	sew (V)	5404	赞*起来	1217	0
 #
 4380	Guangzhou	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
@@ -3860,7 +3860,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4389	Yingshan	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
 4390	Chengdu	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
 4391	Zhanping	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
-4392	Shanghai	sharp	164	尖	1	1224	sharp	5428	尖	1225	1
+4392	Shanghai	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
 4393	Shanghai_B	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
 4394	Xiamen	sharp	164	尖[zhou:288]	1	1224	sharp	5428	尖	1224	0
 4395	Anyi	sharp	164	尖	1	1224	sharp	5428	尖	1224	0
@@ -3991,7 +3991,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4468	Wuhan	sky	167	天	0	1232	sky	5593	天	1232	0
 4469	Taiyuan	sky	167	天	0	1232	sky	5593	天	1232	0
 4470	Yuci	sky	167	天	0	1232	sky	5593	天	1232	0
-4471	Changsha	sky	167	天空	0a	1229	sky	5593	天空	1229	0
+4471	Changsha	sky	167	天空	0a	1229	sky	5593	天空	1232	1
 4472	Shuangfeng	sky	167	天高*脑*	0c	1231	sky	5593	天高*脑*	1231	0
 #
 1946	Guangzhou	sleep	77	睏(觉)	2[1->2]	432	sleep (V)	5609	睏(觉)	432	0
@@ -4052,7 +4052,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4473	Guangzhou	smell	168	闻	1	1235	smell (V)	5654	闻	1235	0
 4474	Suzhou	smell	168	闻	1	1235	smell (V)	5654	闻	1235	0
 4475	Meixian	smell	168	鼻	2	1234	smell (V)	5654	鼻	1234	0
-4476	Nanchang	smell	168	嗅	0	1236	smell (V)	5654	嗅	1234	1
+4476	Nanchang	smell	168	嗅	0	1236	smell (V)	5654	嗅	1236	0
 4477	Fuzhou	smell	168	鼻	2	1234	smell (V)	5654	鼻	1234	0
 4478	Ningxia	smell	168	闻	1	1235	smell (V)	5654	闻	1235	0
 4479	Lianchang	smell	168	鼻	2	1234	smell (V)	5654	鼻	1234	0
@@ -4086,7 +4086,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2008	Chengdu	smoke	79	烟	0	440	smoke	5658	烟	440	0
 2009	Zhanping	smoke	79	熏	1	439	smoke	5658	熏	439	0
 2010	Shanghai	smoke	79	烟	0	440	smoke	5658	烟	440	0
-2011	Shanghai_B	smoke	79	烟	0	440	smoke	5658	烟	440	0
+2011	Shanghai_B	smoke	79	烟	0	440	smoke	5658	烟	439	1
 2012	Xiamen	smoke	79	薰	1	439	smoke	5658	熏	439	0
 2013	Anyi	smoke	79	烟	0	440	smoke	5658	烟	440	0
 2014	Beijing	smoke	79	烟	0	440	smoke	5658	烟	440	0
@@ -4094,7 +4094,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2016	Taibei	smoke	79	ien44烟	0	440	smoke	5658	烟	440	0
 2017	Wuhan	smoke	79	烟	0	440	smoke	5658	烟	440	0
 2018	Taiyuan	smoke	79	烟	0	440	smoke	5658	烟	440	0
-2019	Yuci	smoke	79	烟	0	440	smoke	5658	烟	438	1
+2019	Yuci	smoke	79	烟	0	440	smoke	5658	烟	440	0
 2020	Changsha	smoke	79	烟	0	440	smoke	5658	烟	440	0
 2021	Shuangfeng	smoke	79	烟	0	440	smoke	5658	烟	440	0
 #
@@ -4142,7 +4142,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4537	Taibei	snake	170	tsua13蛇	0	1242	snake	5667	蛇	1242	0
 4538	Wuhan	snake	170	蛇	0	1242	snake	5667	蛇	1242	0
 4539	Taiyuan	snake	170	蛇	0	1242	snake	5667	蛇	1242	0
-4540	Yuci	snake	170	蛇	0	1242	snake	5667	蛇	1240	1
+4540	Yuci	snake	170	蛇	0	1242	snake	5667	蛇	1242	0
 4541	Changsha	snake	170	蛇	0	1242	snake	5667	蛇	1242	0
 4542	Changsha	snake	170	溜子	2	1238	snake	5667	溜子	1238	0
 4543	Shuangfeng	snake	170	蛇	0	1242	snake	5667	蛇	1242	0
@@ -4176,16 +4176,16 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4569	Guangzhou	spit	172	舌-累[指用舌头从嘴里顶着吐出来]	3	1245	spit (V)	5794	舌-累[指用舌头从嘴里顶着吐出来]	1245	0
 4570	Suzhou	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4571	Meixian	spit	172	[口非]	2	1246	spit (V)	5794	啡	1246	0
-4572	Nanchang	spit	172	吐	0	1247	spit (V)	5794	吐	1246	1
+4572	Nanchang	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4573	Fuzhou	spit	172	啡  （俗字）	2	1246	spit (V)	5794	啡	1246	0
 4574	Ningxia	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
-4575	Lianchang	spit	172	[]lie51	4	1244	spit (V)	5794	[]lie51	1244	0
+4575	Lianchang	spit	172	[]lie51	4	1244	spit (V)	5794	[]lie51	1247	1
 4576	Ningbo	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4577	Yingshan	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4578	Chengdu	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4579	Zhanping	spit	172	啡：读phui6	2	1246	spit (V)	5794	啡	1246	0
 4580	Shanghai	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
-4581	Shanghai_B	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
+4581	Shanghai_B	spit	172	吐	0	1247	spit (V)	5794	吐	1246	1
 4582	Xiamen	spit	172	啡	2	1246	spit (V)	5794	啡	1246	0
 4583	Anyi	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
 4584	Beijing	spit	172	吐	0	1247	spit (V)	5794	吐	1247	0
@@ -4236,7 +4236,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4627	Guangzhou	squeeze	174	矺	1	1269	squeeze (V)	5850	矺	1269	0
 4628	Suzhou	squeeze	174	压	0	1270	squeeze (V)	5850	压	1270	0
 4629	Meixian	squeeze	174	[]tsak11	3	1267	squeeze (V)	5850	[]tsak5	1267	0
-4630	Nanchang	squeeze	174	[]tsak5	3	1267	squeeze (V)	5850	[]tsak5	1270	1
+4630	Nanchang	squeeze	174	[]tsak5	3	1267	squeeze (V)	5850	[]tsak5	1267	0
 4631	Fuzhou	squeeze	174	压	0	1270	squeeze (V)	5850	压	1270	0
 4632	Ningxia	squeeze	174	压	0	1270	squeeze (V)	5850	压	1270	0
 4633	Lianchang	squeeze	174	[]kha51	4	1266	squeeze (V)	5850	[]kha51	1266	0
@@ -4301,7 +4301,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2031	Yingshan	stand	80	站	2	442	stand (V)	5881	站	442	0
 2032	Chengdu	stand	80	站	2	442	stand (V)	5881	站	442	0
 2033	Zhanping	stand	80	徛	1	443	stand (V)	5881	企	443	0
-2034	Shanghai	stand	80	立	0	444	stand (V)	5881	立	442	1
+2034	Shanghai	stand	80	立	0	444	stand (V)	5881	立	444	0
 2035	Shanghai_B	stand	80	立	0	444	stand (V)	5881	立	444	0
 2036	Xiamen	stand	80	徛	1	443	stand (V)	5881	企	443	0
 2037	Anyi	stand	80	徛	1	443	stand (V)	5881	企	443	0
@@ -4339,7 +4339,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2068	Taiyuan	star	81	星宿	0c	449	star	5883	星宿	449	0
 2069	Taiyuan	star	81	星星	0b	448	star	5883	星星	448	0
 2070	Yuci	star	81	星宿	0c	449	star	5883	星宿	449	0
-2071	Changsha	star	81	星子	0a	447	star	5883	星子	447	0
+2071	Changsha	star	81	星子	0a	447	star	5883	星子	445	1
 2072	Shuangfeng	star	81	星子	0a	447	star	5883	星子	447	0
 #
 4681	Guangzhou	stick	176	棍	1	1293	stick	5928	棍	1293	0
@@ -4364,7 +4364,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4700	Wuhan	stick	176	棍子	1a	1291	stick	5928	棍子	1291	0
 4701	Taiyuan	stick	176	棍子	1a	1291	stick	5928	棍子	1291	0
 4702	Yuci	stick	176	棍棍	1c	1289	stick	5928	棍棍	1289	0
-4703	Changsha	stick	176	棍子	1a	1291	stick	5928	棍子	1291	0
+4703	Changsha	stick	176	棍子	1a	1291	stick	5928	棍子	1293	1
 4704	Shuangfeng	stick	176	棍子	1a	1291	stick	5928	棍子	1291	0
 #
 2073	Guangzhou	stone	82	石头	0a	452	stone	5956	石头	452	0
@@ -4423,7 +4423,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4729	Suzhou	suck	178	呼	12	1307	suck (V)	6074	呼	1307	0
 4730	Suzhou	suck	178	吸	0	1306	suck (V)	6074	吸	1306	0
 4731	Meixian	suck	178	吮	1	1305	suck (V)	6074	吮	1305	0
-4732	Nanchang	suck	178	吸(tþit5)、[tþyt5]	0	1306	suck (V)	6074	吸	1305	1
+4732	Nanchang	suck	178	吸(tþit5)、[tþyt5]	0	1306	suck (V)	6074	吸	1306	0
 4733	Fuzhou	suck	178	吮	1	1305	suck (V)	6074	吮	1305	0
 4734	Ningxia	suck	178	吸	0	1306	suck (V)	6074	吸	1306	0
 4735	Lianchang	suck	178	[]tsiu35	2	1304	suck (V)	6074	嘬	1304	0
@@ -4514,14 +4514,14 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2139	Fuzhou	swim	84	泅水	6	468	swim (V)	6160	泅水	468	0
 2140	Fuzhou	swim	84	洗水	8	467	swim (V)	6160	洗水	467	0
 2141	Ningxia	swim	84	耍水	9	466	swim (V)	6160	耍水	466	0
-2142	Lianchang	swim	84	泅[如果是抽象的行为，叫“洗凉”[sai3tia2]，如果是指水里的动作，叫“泅”[siau2]]	4	469	swim (V)	6160	siu13泅	469	0
+2142	Lianchang	swim	84	泅[如果是抽象的行为，叫“洗凉”[sai3tia2]，如果是指水里的动作，叫“泅”[siau2]]	4	469	swim (V)	6160	siu13泅	474	1
 2143	Ningbo	swim	84	游泳	2	471	swim (V)	6160	游泳	471	0
 2144	Yingshan	swim	84	抹汗	14	474	swim (V)	6160	抹汗	474	0
 2145	Chengdu	swim	84	游泳	2	471	swim (V)	6160	游泳	471	0
 2146	Zhanping	swim	84	泅水	6	468	swim (V)	6160	泅水	468	0
 2147	Zhanping	swim	84	洗浴仔	15	473	swim (V)	6160	洗浴仔	473	0
 2148	Shanghai	swim	84	游泳	2	471	swim (V)	6160	游泳	471	0
-2149	Shanghai_B	swim	84	游泳	2	471	swim (V)	6160	游泳	471	0
+2149	Shanghai_B	swim	84	游泳	2	471	swim (V)	6160	游泳	468	1
 2150	Xiamen	swim	84	泅水	6	468	swim (V)	6160	泅水	468	0
 2151	Anyi	swim	84	划水	11	477	swim (V)	6160	划水	477	0
 2152	Beijing	swim	84	凫水儿，游泳	2	471	swim (V)	6160	游泳	471	0
@@ -4542,7 +4542,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2166	Guangzhou	tail	85	尾	0	483	tail	6182	尾	483	0
 2167	Suzhou	tail	85	尾巴	0a	480	tail	6182	尾報	480	0
 2168	Meixian	tail	85	尾	0	483	tail	6182	尾	483	0
-2169	Nanchang	tail	85	尾巴	0a	480	tail	6182	尾報	483	1
+2169	Nanchang	tail	85	尾巴	0a	480	tail	6182	尾報	480	0
 2170	Fuzhou	tail	85	尾	0	483	tail	6182	尾	483	0
 2171	Ningxia	tail	85	尾巴	0a	480	tail	6182	尾報	480	0
 2172	Lianchang	tail	85	尾	0	483	tail	6182	尾	483	0
@@ -4591,7 +4591,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2214	Taiyuan	that	86	那个	3a	501	that	6292	那个	501	0
 2215	Yuci	that	86	兀个	5a	487	that	6292	兀个	487	0
 2216	Yuci	that	86	那个	3a	501	that	6292	那个	501	0
-2217	Changsha	that	86	那个	3a	501	that	6292	那个	501	0
+2217	Changsha	that	86	那个	3a	501	that	6292	那个	493	1
 2218	Changsha	that	86	那只	3b	486	that	6292	那只	486	0
 2219	Shuangfeng	that	86	喏只	6b	491	that	6292	喏只	491	0
 #
@@ -4661,7 +4661,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4840	Wuhan	they	181	他们家	2ab	1355	they	6302	他们家	1355	0
 4841	Taiyuan	they	181	他们	2a	1363	they	6302	他们	1363	0
 4842	Yuci	they	181	他们	2a	1363	they	6302	他们	1363	0
-4843	Changsha	they	181	他们	2a	1363	they	6302	他们	1363	0
+4843	Changsha	they	181	他们	2a	1363	they	6302	他们	1362	1
 4844	Shuangfeng	they	181	他哩	2b	1360	they	6302	他哩	1360	0
 #
 4845	Guangzhou	thick	182	厚	0	1365	thick	6303	厚	1365	0
@@ -4804,7 +4804,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4949	Nanchang	throw	186	[]tiang45	24	1379	throw (V)	6352	[]tiang45	1379	0
 4950	Fuzhou	throw	186	[]ke#?4	23	1382	throw (V)	6352	[]ke#?4	1382	0
 4951	Ningxia	throw	186	phio+44	22	1381	throw (V)	6352	phio+44	1381	0
-4952	Lianchang	throw	186	[]fi35	21	1384	throw (V)	6352	[]fi35	1384	0
+4952	Lianchang	throw	186	[]fi35	21	1384	throw (V)	6352	[]fi35	1403	1
 4953	Ningbo	throw	186	a~55ty11	20	1383	throw (V)	6352	a~55ty11	1383	0
 4954	Yingshan	throw	186	繞*	19	1403	throw (V)	6352	繞*	1403	0
 4955	Chengdu	throw	186	甩	18	1404	throw (V)	6352	甩	1404	0
@@ -4824,7 +4824,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 4969	Yuci	throw	186	砍	3	1391	throw (V)	6352	砍	1391	0
 4970	Yuci	throw	186	给*	4	1390	throw (V)	6352	给*	1390	0
 4971	Yuci	throw	186	蛮	5	1389	throw (V)	6352	蛮	1389	0
-4972	Changsha	throw	186	射	6	1388	throw (V)	6352	射	1388	0
+4972	Changsha	throw	186	射	6	1388	throw (V)	6352	射	1395	1
 4973	Changsha	throw	186	钉*	7	1387	throw (V)	6352	钉*	1387	0
 4974	Shuangfeng	throw	186	亚*	8	1386	throw (V)	6352	亚*	1386	0
 4975	Shuangfeng	throw	186	打	9	1385	throw (V)	6352	打	1385	0
@@ -4866,7 +4866,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2251	Nanchang	tongue	88	舌头	0b	528	tongue	6424	舌頭	528	0
 2252	Fuzhou	tongue	88	嘴舌	a0	523	tongue	6424	嘴舌	523	0
 2253	Ningxia	tongue	88	舌	0	526	tongue	6424	舌	526	0
-2254	Lianchang	tongue	88	舌头	0b	528	tongue	6424	舌頭	528	0
+2254	Lianchang	tongue	88	舌头	0b	528	tongue	6424	舌頭	529	1
 2255	Ningbo	tongue	88	舌	0	526	tongue	6424	舌	526	0
 2256	Yingshan	tongue	88	舌巴	0c	529	tongue	6424	舌巴	529	0
 2257	Chengdu	tongue	88	舌	0	526	tongue	6424	舌	526	0
@@ -4900,7 +4900,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2284	Chengdu	tooth	89	牙	0	535	tooth	6437	牙	535	0
 2285	Zhanping	tooth	89	牙（齿）	{0(1)}	536	tooth	6437	牙（齿）	536	0
 2286	Zhanping	tooth	89	牙（齿）	{01}	532	tooth	6437	牙齿	532	0
-2287	Shanghai	tooth	89	牙子	0a	537	tooth	6437	牙子	535	1
+2287	Shanghai	tooth	89	牙子	0a	537	tooth	6437	牙子	537	0
 2288	Shanghai_B	tooth	89	牙子	0a	537	tooth	6437	牙子	537	0
 2289	Xiamen	tooth	89	喙齿	a1	533	tooth	6437	喙齿	533	0
 2290	Anyi	tooth	89	牙齒	{01}	532	tooth	6437	牙齿	532	0
@@ -4910,8 +4910,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2294	Taibei	tooth	89	khi53齒	1	534	tooth	6437	牙	534	0
 2295	Wuhan	tooth	89	牙齿	{01}	532	tooth	6437	牙齿	532	0
 2296	Taiyuan	tooth	89	牙	1	534	tooth	6437	牙	534	0
-2297	Yuci	tooth	89	牙	1	534	tooth	6437	牙	532	1
-2298	Changsha	tooth	89	牙齿	{01}	532	tooth	6437	牙齿	532	0
+2297	Yuci	tooth	89	牙	1	534	tooth	6437	牙	534	0
+2298	Changsha	tooth	89	牙齿	{01}	532	tooth	6437	牙齿	536	1
 2299	Shuangfeng	tooth	89	牙齿	{01}	532	tooth	6437	牙齿	532	0
 #
 2300	Guangzhou	tree	90	树	1	538	tree	6487	树	538	0
@@ -4945,13 +4945,13 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5010	Nanchang	turn	188	转	0	1421	turn (V)	6548	转	1421	0
 5011	Fuzhou	turn	188	车\碾\tshuo1\转	7	1414	turn (V)	6548	车\碾\tshuo1\转	1414	0
 5012	Ningxia	turn	188	转	0	1421	turn (V)	6548	转	1421	0
-5013	Lianchang	turn	188	[]tcjhie11	6	1415	turn (V)	6548	[]tcjhie11	1415	0
+5013	Lianchang	turn	188	[]tcjhie11	6	1415	turn (V)	6548	[]tcjhie11	1421	1
 5014	Ningbo	turn	188	转	0	1421	turn (V)	6548	转	1421	0
 5015	Yingshan	turn	188	转	0	1421	turn (V)	6548	转	1421	0
 5016	Chengdu	turn	188	转	0	1421	turn (V)	6548	转	1421	0
 5017	Zhanping	turn	188	suui6	5	1416	turn (V)	6548	suui6	1416	0
 5018	Shanghai	turn	188	转	0	1421	turn (V)	6548	转	1421	0
-5019	Shanghai_B	turn	188	转	0	1421	turn (V)	6548	转	1421	0
+5019	Shanghai_B	turn	188	转	0	1421	turn (V)	6548	转	1417	1
 5020	Xiamen	turn	188	斡[323]	4	1417	turn (V)	6548	斡[323]	1417	0
 5021	Xiamen	turn	188	斩＋足”se？5	3	1418	turn (V)	6548	斩＋足”se？5	1418	0
 5022	Xiamen	turn	188	转	0	1421	turn (V)	6548	转	1421	0
@@ -5002,7 +5002,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5034	Guangzhou	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
 5035	Suzhou	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
 5036	Meixian	vomit	189	翻	5	1425	vomit (V)	6741	翻	1425	0
-5037	Nanchang	vomit	189	呕	1	1429	vomit (V)	6741	呕	1431	1
+5037	Nanchang	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
 5038	Fuzhou	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
 5039	Fuzhou	vomit	189	[]e#?13	4	1426	vomit (V)	6741	[]e#?13	1426	0
 5040	Ningxia	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
@@ -5013,7 +5013,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5045	Zhanping	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
 5046	Shanghai	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
 5047	Shanghai	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
-5048	Shanghai_B	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
+5048	Shanghai_B	vomit	189	呕	1	1429	vomit (V)	6741	呕	1431	1
 5049	Shanghai_B	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
 5050	Xiamen	vomit	189	吐	0	1431	vomit (V)	6741	吐	1431	0
 5051	Anyi	vomit	189	呕	1	1429	vomit (V)	6741	呕	1429	0
@@ -5032,7 +5032,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2355	Suzhou	walk	92	走	1	542	walk (V)	6758	走	542	0
 2356	Suzhou	walk	92	跑	2	541	walk (V)	6758	跑	541	0
 2357	Meixian	walk	92	行	0	543	walk (V)	6758	行	543	0
-2358	Nanchang	walk	92	走	1	542	walk (V)	6758	走	543	1
+2358	Nanchang	walk	92	走	1	542	walk (V)	6758	走	542	0
 2359	Fuzhou	walk	92	行	0	543	walk (V)	6758	行	543	0
 2360	Ningxia	walk	92	走	1	542	walk (V)	6758	走	542	0
 2361	Lianchang	walk	92	行	0	543	walk (V)	6758	行	543	0
@@ -5051,7 +5051,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2374	Wuhan	walk	92	走	1	542	walk (V)	6758	走	542	0
 2375	Taiyuan	walk	92	走	1	542	walk (V)	6758	走	542	0
 2376	Yuci	walk	92	走	1	542	walk (V)	6758	走	542	0
-2377	Changsha	walk	92	走	1	542	walk (V)	6758	走	542	0
+2377	Changsha	walk	92	走	1	542	walk (V)	6758	走	543	1
 2378	Shuangfeng	walk	92	行	0	543	walk (V)	6758	行	543	0
 #
 5062	Guangzhou	wash	190	洗	2	1434	wash (V)	6784	洗	1434	0
@@ -5099,7 +5099,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2396	Taibei	water	93	tsui53水	0	545	water	6792	水	545	0
 2397	Wuhan	water	93	水	0	545	water	6792	水	545	0
 2398	Taiyuan	water	93	水	0	545	water	6792	水	545	0
-2399	Yuci	water	93	白水	a0	544	water	6792	白水	545	1
+2399	Yuci	water	93	白水	a0	544	water	6792	白水	544	0
 2400	Changsha	water	93	水	0	545	water	6792	水	545	0
 2401	Shuangfeng	water	93	水	0	545	water	6792	水	545	0
 #
@@ -5116,7 +5116,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2412	Yingshan	we	94	我们	1e	548	we	6814	我们	548	0
 2413	Chengdu	we	94	我们	1e	548	we	6814	我们	548	0
 2414	Zhanping	we	94	guang3：“我gua3侬lang”合音，后字非重读	6	552	we	6814	gun53?	552	0
-2415	Shanghai	we	94	我ni	1a	551	we	6814	我哩	548	1
+2415	Shanghai	we	94	我ni	1a	551	we	6814	我哩	551	0
 2416	Shanghai	we	94	阿拉	4	553	we	6814	阿拉	553	0
 2417	Shanghai_B	we	94	我ni	1a	551	we	6814	我哩	551	0
 2418	Shanghai_B	we	94	阿拉	4	553	we	6814	阿拉	553	0
@@ -5130,7 +5130,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2426	Taiyuan	we	94	俺们	5e	556	we	6814	俺们	556	0
 2427	Yuci	we	94	我们	1e	548	we	6814	我们	548	0
 2428	Yuci	we	94	俺们	5e	556	we	6814	俺们	556	0
-2429	Changsha	we	94	我们	1e	548	we	6814	我们	548	0
+2429	Changsha	we	94	我们	1e	548	we	6814	我们	552	1
 2430	Shuangfeng	we	94	我哩	1a	551	we	6814	我哩	551	0
 2431	Shuangfeng	we	94	卬哩	2a	559	we	6814	卬哩	559	0
 #
@@ -5190,7 +5190,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5111	Suzhou	where	192	啥场化*	11j	1457	where	6860	啥场化*	1457	0
 5112	Suzhou	where	192	[]lo31[里]搭	12k	1451	where	6860	[]lo31[里]搭	1451	0
 5113	Meixian	where	192	哪子	3b	1459	where	6860	哪子	1459	0
-5114	Nanchang	where	192	哪里	3a	1456	where	6860	哪里	1443	1
+5114	Nanchang	where	192	哪里	3a	1456	where	6860	哪里	1456	0
 5115	Fuzhou	where	192	底[]ne#31	8h	1443	where	6860	底[]ne#31	1443	0
 5116	Fuzhou	where	192	地块	10i	1447	where	6860	地块	1447	0
 5117	Ningxia	where	192	哪里	3a	1456	where	6860	哪里	1456	0
@@ -5199,7 +5199,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5120	Yingshan	where	192	哪场*儿	3de	1455	where	6860	哪场*儿	1455	0
 5121	Chengdu	where	192	哪里	3a	1456	where	6860	哪里	1456	0
 5122	Zhanping	where	192	tuu5落：即“底落”，本读ti5  luu6	8g	1442	where	6860	to44 ui33底位	1442	0
-5123	Shanghai	where	192	a31li?	4a?	1454	where	6860	a31li?	1453	1
+5123	Shanghai	where	192	a31li?	4a?	1454	where	6860	a31li?	1454	0
 5124	Shanghai_B	where	192	a31li?	4a?	1454	where	6860	a31li?	1454	0
 5125	Xiamen	where	192	[]to51落	5f	1445	where	6860	[]to51落	1445	0
 5126	Xiamen	where	192	[]to51一落	6f	1441	where	6860	[]to51一落	1441	0
@@ -5246,7 +5246,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2482	Suzhou	who	97	啥人	4c	591	who	6887	啥人	591	0
 2483	Suzhou	who	97	lo格	10	594	who	6887	lo格	594	0
 2484	Meixian	who	97	瞒人	11c	592	who	6887	瞒人	592	0
-2485	Nanchang	who	97	哪个	1a	583	who	6887	谁们	584	1
+2485	Nanchang	who	97	哪个	1a	583	who	6887	谁们	583	0
 2486	Fuzhou	who	97	底农	9	584	who	6887	底农	584	0
 2487	Ningxia	who	97	谁	1	590	who	6887	谁	590	0
 2488	Lianchang	who	97	那一人	3	588	who	6887	那一人	588	0
@@ -5270,7 +5270,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2506	Taiyuan	who	97	谁们	1a	583	who	6887	谁们	583	0
 2507	Yuci	who	97	谁	1	590	who	6887	谁	590	0
 2508	Yuci	who	97	谁们	1a	583	who	6887	谁们	583	0
-2509	Changsha	who	97	哪个	2b	595	who	6887	哪個	595	0
+2509	Changsha	who	97	哪个	2b	595	who	6887	哪個	584	1
 2510	Shuangfeng	who	97	哪个	2b	595	who	6887	哪個	595	0
 #
 5141	Guangzhou	wide	193	阔	1	1461	wide	6900	阔	1461	0
@@ -5322,7 +5322,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5186	Zhanping	wife	194	tsiu3 某*侬	12	1480	wife	6907	tsiu3 某*侬	1480	0
 5187	Shanghai	wife	194	夫人	11	1481	wife	6907	夫人	1481	0
 5188	Shanghai	wife	194	老婆	1	1474	wife	6907	老婆	1474	0
-5189	Shanghai_B	wife	194	老婆	1	1474	wife	6907	老婆	1474	0
+5189	Shanghai_B	wife	194	老婆	1	1474	wife	6907	老婆	1482	1
 5190	Xiamen	wife	194	母	10	1482	wife	6907	母	1482	0
 5191	Xiamen	wife	194	查*母人	9	1467	wife	6907	查*母人	1467	0
 5192	Xiamen	wife	194	厝内人	8	1468	wife	6907	厝内人	1468	0
@@ -5337,7 +5337,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5201	Taiyuan	wife	194	女人	2	1473	wife	6907	女人	1473	0
 5202	Taiyuan	wife	194	老婆	1	1474	wife	6907	老婆	1474	0
 5203	Yuci	wife	194	老婆	1	1474	wife	6907	老婆	1474	0
-5204	Changsha	wife	194	堂客	4	1472	wife	6907	堂客	1472	0
+5204	Changsha	wife	194	堂客	4	1472	wife	6907	堂客	1479	1
 5205	Shuangfeng	wife	194	堂客	4	1472	wife	6907	堂客	1472	0
 5206	Shuangfeng	wife	194	老婆	1	1474	wife	6907	老婆	1474	0
 #
@@ -5373,7 +5373,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5235	Nanchang	wing	196	叶*[]kang11	2	1489	wing	6933	叶*[]kang11	1489	0
 5236	Fuzhou	wing	196	[翼]翼	0g	1499	wing	6933	[翼]翼	1499	0
 5237	Ningxia	wing	196	膀子	4i	1487	wing	6933	膀子	1487	0
-5238	Lianchang	wing	196	翼骨	0f	1498	wing	6933	翼骨	1498	0
+5238	Lianchang	wing	196	翼骨	0f	1498	wing	6933	翼骨	1488	1
 5239	Ningbo	wing	196	翼so+55	0e	1497	wing	6933	翼so+55	1497	0
 5240	Yingshan	wing	196	翅膀	1a	1488	wing	6933	翅膀	1488	0
 5241	Chengdu	wing	196	翅膀	1a	1488	wing	6933	翅膀	1488	0
@@ -5424,7 +5424,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2538	Taiyuan	woman	98	女的	0b	609	woman	6965	女的	609	0
 2539	Yuci	woman	98	女人	1	607	woman	6965	女人	607	0
 2540	Yuci	woman	98	女的	0b	609	woman	6965	女的	609	0
-2541	Changsha	woman	98	女的	0b	609	woman	6965	女的	609	0
+2541	Changsha	woman	98	女的	0b	609	woman	6965	女的	602	1
 2542	Changsha	woman	98	女人家	1d	606	woman	6965	女人家	606	0
 2543	Changsha	woman	98	堂客	9	597	woman	6965	堂客	597	0
 2544	Shuangfeng	woman	98	女人家	1d	606	woman	6965	女人家	606	0
@@ -5438,7 +5438,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5289	Ningbo	woods	198	树林	a0	1504	forest	2483	树林	1504	0
 5290	Chengdu	woods	198	森林	b0	1507	forest	2483	森林	1507	0
 5291	Zhanping	woods	198	树林	a0	1504	forest	2483	树林	1504	0
-5292	Shanghai	woods	198	树林	a0	1504	forest	2483	树林	1505	1
+5292	Shanghai	woods	198	树林	a0	1504	forest	2483	树林	1504	0
 5293	Shanghai_B	woods	198	树林	a0	1504	forest	2483	树林	1504	0
 5294	Xiamen	woods	198	树林	a0	1504	forest	2483	树林	1504	0
 5295	Anyi	woods	198	樹林?	a0?	1506	forest	2483	樹林?	1506	0
@@ -5457,7 +5457,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5307	Nanchang	worm	199	虫	0	1513	worm	6982	虫	1513	0
 5308	Fuzhou	worm	199	虫	0	1513	worm	6982	虫	1513	0
 5309	Ningxia	worm	199	虫	0	1513	worm	6982	虫	1513	0
-5310	Lianchang	worm	199	虫	0	1513	worm	6982	虫	1513	0
+5310	Lianchang	worm	199	虫	0	1513	worm	6982	虫	1512	1
 5311	Ningbo	worm	199	虫	0	1513	worm	6982	虫	1513	0
 5312	Yingshan	worm	199	虫娃儿	0d	1512	worm	6982	虫娃儿	1512	0
 5313	Chengdu	worm	199	虫	0	1513	worm	6982	虫	1513	0
@@ -5471,7 +5471,7 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 5321	Taibei	worm	199	thang13蟲	0	1513	worm	6982	虫	1513	0
 5322	Wuhan	worm	199	虫	0	1513	worm	6982	虫	1513	0
 5323	Taiyuan	worm	199	虫	0	1513	worm	6982	虫	1513	0
-5324	Yuci	worm	199	虫虫	0b	1510	worm	6982	虫虫	1512	1
+5324	Yuci	worm	199	虫虫	0b	1510	worm	6982	虫虫	1510	0
 5325	Changsha	worm	199	虫	0	1513	worm	6982	虫	1513	0
 5326	Shuangfeng	worm	199	虫子	0a	1509	worm	6982	虫子	1509	0
 #
@@ -5534,8 +5534,8 @@ ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO	SEEDID	LOAN
 2577	Yingshan	you	100	你	0	618	thou	6333	尔	618	0
 2578	Chengdu	you	100	你	0	618	thou	6333	尔	618	0
 2579	Zhanping	you	100	汝	1	617	thou	6333	汝	617	0
-2580	Shanghai	you	100	侬	3	615	thou	6333	侬	618	1
-2581	Shanghai_B	you	100	侬	3	615	thou	6333	侬	615	0
+2580	Shanghai	you	100	侬	3	615	thou	6333	侬	615	0
+2581	Shanghai_B	you	100	侬	3	615	thou	6333	侬	617	1
 2582	Xiamen	you	100	汝li51	1	617	thou	6333	汝	617	0
 2583	Anyi	you	100	你	0	618	thou	6333	尔	618	0
 2584	Anyi	you	100	你哩	0b	620	thou	6333	你哩	620	0
