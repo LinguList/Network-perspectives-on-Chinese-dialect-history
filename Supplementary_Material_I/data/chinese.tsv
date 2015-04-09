@@ -1,62 +1,6 @@
 # Wordlist
 
-# TAXA
-<taxa>
-Anyi
-Beijing
-Changsha
-Chengdu
-Fuzhou
-Guangzhou
-Lianchang
-Meixian
-Nanchang
-Ningbo
-Ningxia
-Shanghai
-Shanghai_B
-Shuangfeng
-Suzhou
-Taibei
-Taiyuan
-Wenzhou
-Wuhan
-Xiamen
-Yingshan
-Yuci
-Zhanping
-</taxa>
 
-# JSON
-<json>
-{
-    "doculect": [
-        "Anyi", 
-        "Beijing", 
-        "Changsha", 
-        "Chengdu", 
-        "Fuzhou", 
-        "Guangzhou", 
-        "Lianchang", 
-        "Meixian", 
-        "Nanchang", 
-        "Ningbo", 
-        "Ningxia", 
-        "Shanghai", 
-        "Shanghai_B", 
-        "Shuangfeng", 
-        "Suzhou", 
-        "Taibei", 
-        "Taiyuan", 
-        "Wenzhou", 
-        "Wuhan", 
-        "Xiamen", 
-        "Yingshan", 
-        "Yuci", 
-        "Zhanping"
-    ]
-}
-</json>
 
 # DATA
 ID	DOCULECT	CONCEPT	GLOSSID	IPA	WANGID	COGID	SWGLOSS	SWID	PROTO
