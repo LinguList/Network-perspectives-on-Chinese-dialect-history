@@ -109,11 +109,6 @@ if __name__ == '__main__':
 
     from lingpyd.compare.phylogeny import PhyBo
 
-    #bor2 = PhyBo(argv[1]+'.qlc', ref="cogid")
-    #bor2.analyze()
-    #bor2.get_MLN(bor2.best_model)
-    #bor2.plot_MLN(bor2.best_model)
-
     if 'neighbor' in argv:
         borX = Wordlist(argv[1]+'_seeded.qlc')
         try:
